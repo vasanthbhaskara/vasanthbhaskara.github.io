@@ -11,7 +11,7 @@ header:
   preview_card_image: profile_pic.jpg
 ---
 
-I'm a Research Engineer at [Borealis AI](https://www.borealisai.com/) Montreal working on Foundation Models and LLMs for Finance. 
+I'm a final year student at the [National Institute of Technology (NIT), Calicut](https://www.nitc.ac.in/) majoring in Mechanical Engineering.  
 
 Previously, I was a Research Engineer at [Samsung AI Center Toronto](https://research.samsung.com/aicenter_toronto) working with [Dr. Alex Levinshtein](http://www.cs.toronto.edu/~babalex/) and [Prof. Allan Jepson](https://www.cs.toronto.edu/~jepson/) on Computer Vision, specifically, Burst Photography, Neural Implicit Models, Image Enhancement and Synthesis.  
 Earlier, I was a Software Engineer developing Behavior-based  Malware Classifiers using Machine Learning for [Norton AntiVirus](https://us.norton.com/) at [Symantec Corporation](https://www.broadcom.com/products/cybersecurity) in Pune, India.

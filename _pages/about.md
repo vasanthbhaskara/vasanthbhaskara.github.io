@@ -30,8 +30,8 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">B.Tech. Mechanical Engineering, National Institute of Technology (NIT), Calicut (<a href="https://www.nitc.ac.in/">NIT Calicut</a>)</td>
       <td rowspan="4" style="text-align: center"><img src="./../images/iitg.png" width="70" height="70"></td>
+      <td style="text-align: left">B.Tech. Mechanical Engineering, National Institute of Technology (NIT), Calicut (<a href="https://www.nitc.ac.in/">NIT Calicut</a>)</td>
       <td></td>
     </tr>
     <tr>
@@ -46,6 +46,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
     </tr>
   </tbody>
 </table>
+
 
 ## Patents
 

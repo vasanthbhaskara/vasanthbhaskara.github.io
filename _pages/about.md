@@ -27,36 +27,15 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 | B.Tech. Engineering Physics, [IIT Guwahati](https://www.iitg.ac.in/) | 2012 - 2016 | <img src="./../images/iitg.png" width="100" height="100" /> |  
 | Department Rank 1, [Institute Silver Medalist](https://www.iitg.ac.in/report/docs/convocation/18th_Convo_Booklet.pdf) | | |  
 -->
-
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">MSc Applied Computing, <a href="https://web.cs.toronto.edu/">Department of Computer Science</a></td>
-      <td rowspan="4" style="text-align: center"><img src="./../images/uoft.png" width="70" height="70">&nbsp;<img src="./../images/vector.png" width="100" height="auto"></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="text-align: left"><a href="https://www.utoronto.ca/" >University of Toronto</a>, St. George</td>
-      <td>&nbsp;</td>
-      <td style="text-align: right">2018 - 2020</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Grade: A+ (4.0/4.0), <a href="https://vectorinstitute.ai/2018/12/13/vector-awards-inaugural-scholarships-second-round-of-applications-to-open-in-2019/">Vector Institute Scholar</a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">B.Tech. Mechanical Engineering</td>
+      <td style="text-align: left">B.Tech. Mechanical Engineering, National Institute of Technology (NIT), Calicut (<a href="https://www.nitc.ac.in/">NIT Calicut</a>)</td>
       <td rowspan="4" style="text-align: center"><img src="./../images/iitg.png" width="70" height="70"></td>
       <td></td>
     </tr>
     <tr>
-      <td style="text-align: left">National Institute of Technology (NIT), Calicut (<a href="https://www.nitc.ac.in/">NIT Calicut</a>)</td>
+      <td style="text-align: left">&nbsp;</td>
       <td>&nbsp;</td>
       <td style="text-align: right">2020 - 2024</td>
     </tr>
@@ -65,10 +44,6 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr> -->
   </tbody>
 </table>
 

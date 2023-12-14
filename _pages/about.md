@@ -56,9 +56,9 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
   <strong>Indian Academy of Sciences (IAS), Summer Research Fellow</strong>
 </div>
 
-  **Guide:** Dr. Susmita Dash, Indian Institute of Science (IISc), Bengaluru
-  **Title:** Droplet Dynamics on Heated Substrates
-  **Duration:** May 2023 – June 2023
+- **Guide:** Dr. Susmita Dash, Indian Institute of Science (IISc), Bengaluru
+- **Title:** Droplet Dynamics on Heated Substrates
+- **Duration:** May 2023 – June 2023
 
 - Conducted experiments involving water droplets on a hot pillared surface and captured dynamics using high-speed cameras
 - Conducted image processing in Python using OpenCV on the clip of a Leidenfrost droplet

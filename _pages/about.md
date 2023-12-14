@@ -31,7 +31,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
   <tbody>
     <tr>
       <td rowspan="4" style="text-align: center"><img src="./../images/iitg.png" width="70" height="70"></td>
-      <td style="text-align: left">B.Tech. Mechanical Engineering, National Institute of Technology (NIT), Calicut (<a href="https://www.nitc.ac.in/">NIT Calicut</a>)</td>
+      <td style="text-align: left">B.Tech. Mechanical Engineering,<br>National Institute of Technology (NIT), Calicut (<a href="https://www.nitc.ac.in/">NIT Calicut</a>)</td>
       <td></td>
     </tr>
     <tr>

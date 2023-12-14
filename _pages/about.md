@@ -60,7 +60,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
       <td></td>
     </tr>
     <tr>
-      <td style="text-align: left; vertical-align: top;"><a href="https://iisc.ac.in">Indian Institute of Science (IISc), Bengaluru</a></td>
+      <td style="text-align: left; vertical-align: top;"><a href="https://iisc.ac.in">Indian Institute of Science (IISc), Bengaluru</td>
       <td>&nbsp;</td>
       <td style="text-align: right; vertical-align: top;">May 2023 - June 2023</td>
     </tr>

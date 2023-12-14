@@ -44,11 +44,6 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: top;">Department Rank 3</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
   </tbody>
 </table>
 

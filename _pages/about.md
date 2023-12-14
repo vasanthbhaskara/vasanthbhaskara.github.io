@@ -52,10 +52,8 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 
 ## Internship Experience
 <div>
-  <img src="./../images/iisc.png" width="70" height="70">
-  <td style="text-align: left; vertical-align: top;">
-    <strong>Indian Academy of Sciences (IAS), Summer Research Fellow</strong>
-  </td>
+  <img src="./../images/iisc.png" width="70" height="70" style="float: left; margin-right: 10px;">
+  <strong>Indian Academy of Sciences (IAS), Summer Research Fellow</strong>
 </div>
 
 - **Guide:** Dr. Susmita Dash, Indian Institute of Science (IISc), Bengaluru
@@ -66,7 +64,6 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 - Conducted image processing in Python using OpenCV on the clip of a Leidenfrost droplet
 - Gained proficiency in the principles of image processing algorithms: Gaussian Blur, Canny Detector, Thresholding, and Contouring
 - Quantified the effect of an increase in heat transfer from the pillars to the droplet with pillar height, by modeling the system
-
 
 ## Publications
 

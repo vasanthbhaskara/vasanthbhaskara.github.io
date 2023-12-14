@@ -50,13 +50,13 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
   </tbody>
 </table>
 
-## Internship Experience
+## Research Experience
 
 <table>
   <tbody>
     <tr>
       <td rowspan="3" style="text-align: center; vertical-align: top;"><img src="./../images/iisc.png" width="70" height="70"></td>
-      <td style="text-align: left; vertical-align: top;">Indian Academy of Sciences (IAS), Summer Research Fellow</a></td>
+      <td style="text-align: left; vertical-align: top;">Indian Academy of Sciences Research Fellow</a></td>
       <td></td>
     </tr>
     <tr>

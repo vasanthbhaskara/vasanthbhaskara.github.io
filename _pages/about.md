@@ -31,16 +31,16 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
   <tbody>
     <tr>
       <td rowspan="3" style="text-align: center; vertical-align: top;"><img src="./../images/iitg.png" width="70" height="70"></td>
-      <td style="text-align: left; vertical-align: top;">(<a href="https://www.nitc.ac.in/">National Institute of Technology (NIT), Calicut</a>) </td>
+      <td style="text-align: left; vertical-align: top;">B.Tech. in (<a href="https://nitc.ac.in/department/mechanical-engineering">Mechanical Engineering</a>)</td>
       <td></td>
     </tr>
     <tr>
-      <td style="text-align: left; vertical-align: top;">B.Tech. (<a href="https://nitc.ac.in/department/mechanical-engineering">Mechanical Engineering</a>)</td>
+      <td style="text-align: left; vertical-align: top;">(<a href="https://www.nitc.ac.in/">National Institute of Technology (NIT), Calicut</a>)</td>
       <td>&nbsp;</td>
       <td style="text-align: right; vertical-align: top;">2020 - 2024</td>
     </tr>
     <tr>
-      <td style="text-align: left; vertical-align: top;">Department Rank 3</td>
+      <td style="text-align: left; vertical-align: top;">Cumulative Grade Point Average: 9.19 / 10.0, Department Rank 3</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>

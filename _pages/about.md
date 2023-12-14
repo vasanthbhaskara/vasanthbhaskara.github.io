@@ -13,15 +13,10 @@ header:
 
 I'm a final year student at the [National Institute of Technology (NIT), Calicut](https://www.nitc.ac.in/) majoring in Mechanical Engineering.  
 
-I was the recipient of the prestigious [Indian Academy of Sciences fellowship](https://webjapps.ias.ac.in/fellowship2023/lists/selectedList.jsp), awarded to the top 200 students from premier institutes in India across all the Engineering Disciplines. 
+I was the recipient of the prestigious [Indian Academy of Sciences (IAS) Fellowship](https://webjapps.ias.ac.in/fellowship2023/lists/selectedList.jsp), awarded to the top 200 students from premier institutes in India across all the Engineering disciplines. 
 
-Last Summer, I worked at the [Indian Institute of Science, IISc](https://iisc.ac.in) at the [Multiscale Transport and Energy Research, MTERL](https://sites.google.com/view/dashresearchlab/people) Lab under the guidance of Dr. Susmita Dash, as a Indian Academy of Sciences Summer Research Fellow. 
-<i class="fas fa-envelope email-link" id="emailicon-high">&nbsp;:&nbsp;&nbsp;</i> <code style="color: #000000; background: #ffffff;">vin [dot] bhaskara [at] gmail [dot] com</code>
-
-
-<!--
-I graduated with a Master's from the Department of Computer Science at the University of Toronto in 2020 focusing on Deep Learning for Computer Vision. During this period, I received the Vector Institute Scholarship in Artificial Intelligence (VSAI) that was awarded to 66 graduate students across the province of Ontario, Canada. In 2016, I graduated from IIT Guwahati with a B.Tech. in Engineering Physics and received the Institute Silver Medal for the best academic performance in the department.
--->
+Last Summer, I worked at the [Indian Institute of Science (IISc), Bengaluru](https://iisc.ac.in) at the [Multiscale Transport and Energy Research (MTERL) Lab](https://sites.google.com/view/dashresearchlab/people) under the guidance of[Dr. Susmita Dash](https://mecheng.iisc.ac.in/people/susmita-dash/), as a Indian Academy of Sciences Summer Research Fellow. 
+<i class="fas fa-envelope email-link" id="emailicon-high">&nbsp;:&nbsp;&nbsp;</i> <code style="color: #000000; background: #ffffff;">vasanthsbhaskara [at] gmail [dot] com</code>
 
 ## Education
 
@@ -56,17 +51,17 @@ I graduated with a Master's from the Department of Computer Science at the Unive
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: left">B.Tech. Engineering Physics</td>
+      <td style="text-align: left">B.Tech. Mechanical Engineering</td>
       <td rowspan="4" style="text-align: center"><img src="./../images/iitg.png" width="70" height="70"></td>
       <td></td>
     </tr>
     <tr>
-      <td style="text-align: left">Indian Institute of Technology Guwahati (<a href="https://www.iitg.ac.in/">IIT Guwahati</a>)</td>
+      <td style="text-align: left">National Institute of Technology (NIT), Calicut (<a href="https://www.nitc.ac.in/">NIT Calicut</a>)</td>
       <td>&nbsp;</td>
-      <td style="text-align: right">2012 - 2016</td>
+      <td style="text-align: right">2020 - 2024</td>
     </tr>
     <tr>
-      <td style="text-align: left">Department Rank 1, <a href="https://www.iitg.ac.in/report/docs/convocation/18th_Convo_Booklet.pdf">Institute Silver Medalist</a></td>
+      <td style="text-align: left">Department Rank 3</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>

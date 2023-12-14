@@ -49,16 +49,10 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
   </tbody>
 </table>
 
-
-
-## INTERNSHIP EXPERIENCE
-
-
 ## INTERNSHIP EXPERIENCE
 
 <img src="./../images/iisc.jpg" alt="IISc Logo" style="float: left; margin-right: 10px;">
-
-**Indian Academy of Sciences (IAS), Summer Research Fellow**{: style="text-align: right;"}
+<p align="right"><strong>Indian Academy of Sciences (IAS), Summer Research Fellow</strong></p>
 
   **Guide:** Dr. Susmita Dash, Indian Institute of Science (IISc), Bengaluru
   **Title:** Droplet Dynamics on Heated Substrates

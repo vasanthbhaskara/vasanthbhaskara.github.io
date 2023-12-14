@@ -30,12 +30,15 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 <table>
   <tbody>
     <tr>
-      <td rowspan="4" style="text-align: center"><img src="./../images/iitg.png" width="70" height="70"></td>
-      <td style="text-align: left">B.Tech. Mechanical Engineering,<br>National Institute of Technology (NIT), Calicut (<a href="https://www.nitc.ac.in/">NIT Calicut</a>)</td>
+      <td rowspan="3" style="text-align: center"><img src="./../images/iitg.png" width="70" height="70"></td>
+      <td style="text-align: left">B.Tech. Mechanical Engineering</td>
       <td></td>
     </tr>
     <tr>
-      <td style="text-align: left">&nbsp;</td>
+      <td style="text-align: left">National Institute of Technology (NIT), Calicut</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>&nbsp;</td>
       <td style="text-align: right">2020 - 2024</td>
     </tr>
@@ -46,6 +49,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
     </tr>
   </tbody>
 </table>
+
 
 
 ## Patents

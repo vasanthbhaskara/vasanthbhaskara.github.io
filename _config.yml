@@ -31,13 +31,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter "vasanthbhaskara_"
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -53,7 +46,6 @@ analytics:
     tracking_id          :  "G-GV6EKKGJTE"
     anonymize_ip         :  false # default
 
-
 # Site Author
 author:
   name             : "Vasanth Bhaskara"
@@ -62,9 +54,7 @@ author:
   location         : "Kozhikode, India"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=JBgGgnoAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -76,26 +66,18 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "vasanthsbhaskara"
-  orcid            : #"http://orcid.org/0000-0002-0071-4842"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "vasanthbhaskara_"
-  goodreads        : "vasanthbhaskara"
-  confluence       : # "https://vasanthbhaskara.atlassian.net/wiki/home"
-  jira             : # "https://vasanthbhaskara.atlassian.net/jira/software/projects/VBS1/boards/1"
-  strava           : # "https://www.strava.com/athletes/51884474"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  kaggle           : "bvineeth007"
+  kaggle           : "hairforceone"
 
 
 # Reading Files

@@ -13,11 +13,9 @@ header:
 
 I'm a final year student at the [National Institute of Technology (NIT), Calicut](https://www.nitc.ac.in/) majoring in Mechanical Engineering.  
 
-Previously, I was a Research Engineer at [Samsung AI Center Toronto](https://research.samsung.com/aicenter_toronto) working with [Dr. Alex Levinshtein](http://www.cs.toronto.edu/~babalex/) and [Prof. Allan Jepson](https://www.cs.toronto.edu/~jepson/) on Computer Vision, specifically, Burst Photography, Neural Implicit Models, Image Enhancement and Synthesis.  
-Earlier, I was a Software Engineer developing Behavior-based  Malware Classifiers using Machine Learning for [Norton AntiVirus](https://us.norton.com/) at [Symantec Corporation](https://www.broadcom.com/products/cybersecurity) in Pune, India.
+I was the recipient of the prestigious [Indian Academy of Science fellowship] (https://webjapps.ias.ac.in/fellowship2023/lists/selectedList.jsp) (IASc - INSA - NASI Research Fellowship), awarded to the top 200 students in India across all Engineering Disciplines. 
 
-I'm interested in fundamental research on deep learning, and applied AI for healthcare and medicine.
-
+Last Summer, I worked at the [Indian Institute of Science, IISc] (https://iisc.ac.in) at the [Multiscale Transport and Energy Research, MTERL] (https://sites.google.com/view/dashresearchlab/people) Lab under the guidance of Dr. Susmita Dash, as a Indian Academy of Sciences Summer Research Fellow. 
 <i class="fas fa-envelope email-link" id="emailicon-high">&nbsp;:&nbsp;&nbsp;</i> <code style="color: #000000; background: #ffffff;">vin [dot] bhaskara [at] gmail [dot] com</code>
 
 

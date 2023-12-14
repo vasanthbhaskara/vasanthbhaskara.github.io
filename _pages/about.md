@@ -51,21 +51,21 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 </table>
 
 ## Internship Experience
-
 <div>
-  <img src="./../images/iisc.png" width="70" height="70"></td>
-      <td style="text-align: left; vertical-align: top;">
-  <strong>Indian Academy of Sciences (IAS), Summer Research Fellow</strong>
+  <img src="./../images/iisc.png" width="70" height="70">
+  <td style="text-align: left; vertical-align: top;">
+    <strong>Indian Academy of Sciences (IAS), Summer Research Fellow</strong>
+  </td>
 </div>
 
 - **Guide:** Dr. Susmita Dash, Indian Institute of Science (IISc), Bengaluru
 - **Title:** Droplet Dynamics on Heated Substrates
 - **Duration:** May 2023 – June 2023
 
-- Conducted experiments involving water droplets on a hot pillared surface, and captured dynamics using high-speed cameras
+- Conducted experiments involving water droplets on a hot pillared surface and captured dynamics using high-speed cameras
 - Conducted image processing in Python using OpenCV on the clip of a Leidenfrost droplet
 - Gained proficiency in the principles of image processing algorithms: Gaussian Blur, Canny Detector, Thresholding, and Contouring
-- Quantified the effect of an increase in heat transfer from the pillars to the droplet with pillar height, by modeling the syste
+- Quantified the effect of an increase in heat transfer from the pillars to the droplet with pillar height, by modeling the system
 
 
 ## Publications

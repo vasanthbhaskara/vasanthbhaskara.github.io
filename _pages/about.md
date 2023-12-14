@@ -11,7 +11,7 @@ header:
   preview_card_image: profile_pic.jpg
 ---
 
-I'm a final year student at the [National Institute of Technology (NIT), Calicut](https://www.nitc.ac.in/) majoring in Mechanical Engineering.  
+I'm a final year student at the [National Institute of Technology (NIT), Calicut](https://www.nitc.ac.in/) majoring in [Mechanical Engineering](https://nitc.ac.in/department/mechanical-engineering).  
 
 I was the recipient of the prestigious [Indian Academy of Sciences (IAS) Fellowship](https://webjapps.ias.ac.in/fellowship2023/lists/selectedList.jsp), awarded to the top 200 students from premier institutes in India across all the Engineering disciplines. 
 

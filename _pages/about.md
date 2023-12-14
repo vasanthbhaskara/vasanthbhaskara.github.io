@@ -53,23 +53,22 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 ## Research Experience
 
 ## Internship Experience
-
 <table>
   <tbody>
     <tr>
       <td rowspan="3" style="text-align: center; vertical-align: top;"><img src="./../images/iisc.png" width="70" height="70"></td>
-      <td style="text-align: left; vertical-align: top;">**Indian Academy of Sciences (IAS), Summer Research Fellow**</td>
+      <td style="text-align: left; vertical-align: top;"><strong>Indian Academy of Sciences (IAS), Summer Research Fellow</strong></td>
       <td></td>
     </tr>
     <tr>
-      <td style="text-align: left; vertical-align: top;">**[Indian Institute of Science (IISc), Bengaluru](https://iisc.ac.in)**</td>
+      <td style="text-align: left; vertical-align: top;"><strong><a href="https://iisc.ac.in">Indian Institute of Science (IISc), Bengaluru</a></strong></td>
       <td>&nbsp;</td>
       <td style="text-align: right; vertical-align: top;">May 2023 - June 2023</td>
     </tr>
     <tr>
       <td style="text-align: left; vertical-align: top;">Droplet Dynamics on Heated Substrates, Guide: Dr. Susmita Dash</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>

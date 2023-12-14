@@ -21,15 +21,6 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 
 
 ## Education
-
-<!--
-| MSc Applied Computing, [Department of Computer Science](https://web.cs.toronto.edu/), [University of Toronto](https://www.utoronto.ca/) | 2018 - 2020 | <img src="./../images/uoft.png" width="100" height="100" /> |  
-| Grade: A+ (4.0/4.0), [Vector Institute Scholar](https://vectorinstitute.ai/2018/12/13/vector-awards-inaugural-scholarships-second-round-of-applications-to-open-in-2019/) | | |  
-| | | |  
-| B.Tech. Engineering Physics, [IIT Guwahati](https://www.iitg.ac.in/) | 2012 - 2016 | <img src="./../images/iitg.png" width="100" height="100" /> |  
-| Department Rank 1, [Institute Silver Medalist](https://www.iitg.ac.in/report/docs/convocation/18th_Convo_Booklet.pdf) | | |  
--->
-
 <table>
   <tbody>
     <tr>
@@ -40,7 +31,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
     <tr>
       <td style="text-align: left; vertical-align: top;"><strong><a href="https://www.nitc.ac.in/">National Institute of Technology (NIT), Calicut</a></strong></td>
       <td>&nbsp;</td>
-      <td style="text-align: right; vertical-align: top;">2020 - 2024</td>
+      <td style="text-align: right; vertical-align: top;">Dec 2020 - June 2024</td>
     </tr>
     <tr>
       <td style="text-align: left; vertical-align: top;">Cumulative Grade Point Average: 9.19 / 10.0</td>

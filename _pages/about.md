@@ -29,6 +29,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 | B.Tech. Engineering Physics, [IIT Guwahati](https://www.iitg.ac.in/) | 2012 - 2016 | <img src="./../images/iitg.png" width="100" height="100" /> |  
 | Department Rank 1, [Institute Silver Medalist](https://www.iitg.ac.in/report/docs/convocation/18th_Convo_Booklet.pdf) | | |  
 -->
+
 <table>
   <tbody>
     <tr>

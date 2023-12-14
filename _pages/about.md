@@ -31,19 +31,16 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
   <tbody>
     <tr>
       <td rowspan="3" style="text-align: center"><img src="./../images/iitg.png" width="70" height="70"></td>
-      <td style="text-align: left">B.Tech. Mechanical Engineering</td>
+      <td style="text-align: left">B.Tech. Engineering Physics</td>
       <td></td>
     </tr>
     <tr>
-      <td style="text-align: left">National Institute of Technology (NIT), Calicut</td>
-      <td></td>
-    </tr>
-    <tr>
+      <td style="text-align: left">Indian Institute of Technology Guwahati (IIT Guwahati)</td>
       <td>&nbsp;</td>
-      <td style="text-align: right">2020 - 2024</td>
+      <td style="text-align: right">2012 - 2016</td>
     </tr>
     <tr>
-      <td style="text-align: left">Department Rank 3</td>
+      <td style="text-align: left">Department Rank 1, Institute Silver Medalist</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>

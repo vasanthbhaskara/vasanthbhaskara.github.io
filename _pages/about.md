@@ -16,7 +16,9 @@ I'm a final year student at the [National Institute of Technology (NIT), Calicut
 I was the recipient of the prestigious [Indian Academy of Sciences (IAS) Fellowship](https://webjapps.ias.ac.in/fellowship2023/lists/selectedList.jsp), awarded to the top 200 students from premier institutes in India across all the Engineering disciplines. 
 
 Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian Institute of Science (IISc), Bengaluru</a> at the <a href="https://sites.google.com/view/dashresearchlab/people" target="_blank">Multiscale Transport and Energy Research (MTERL) Lab</a> under the guidance of <a href="https://mecheng.iisc.ac.in/people/susmita-dash/" target="_blank">Dr. Susmita Dash</a>, as an Indian Academy of Sciences Summer Research Fellow. <br>
-<i class="fas fa-envelope email-link" id="emailicon-high">&nbsp;:&nbsp;&nbsp;</i> <code style="color: #000000; background: #ffffff; display: block;">vasanthsbhaskara [at] gmail [dot] com</code>
+<i class="fas fa-envelope email-link" id="emailicon-high">&nbsp;:&nbsp;&nbsp;</i> 
+<code style="color: #000000; background: #ffffff; display: inline-block;">vasanthsbhaskara [at] gmail [dot] com</code>
+
 
 ## Education
 

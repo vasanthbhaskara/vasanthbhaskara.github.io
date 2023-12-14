@@ -20,7 +20,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 <code style="color: #000000; background: #ffffff; display: inline-block;">vasanthsbhaskara [at] gmail [dot] com</code>
 
 
-## EDUCATION
+## Education
 
 <!--
 | MSc Applied Computing, [Department of Computer Science](https://web.cs.toronto.edu/), [University of Toronto](https://www.utoronto.ca/) | 2018 - 2020 | <img src="./../images/uoft.png" width="100" height="100" /> |  
@@ -49,7 +49,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
   </tbody>
 </table>
 
-## INTERNSHIP EXPERIENCE
+## Internship Experience
 
 <div>
   <img src="./../images/iisc.png" alt="IISc Logo" style="float: left; margin-right: 10px;">

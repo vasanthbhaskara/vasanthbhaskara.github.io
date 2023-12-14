@@ -33,13 +33,12 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
       <td>&nbsp;</td>
       <td style="text-align: right; vertical-align: top;">Dec 2020 - June 2024</td>
     </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: top;">Cumulative Grade Point Average: 9.19 / 10.0</td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
+
+- Cumulative GPA: 9.19/10.0 (Department Rank 2)
+- Latest Semester GPA: 9.30/10.0
+
 
 ## Research Experience
 <table>
@@ -66,5 +65,3 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 - Conducted image processing in Python using OpenCV on the clip of a Leidenfrost droplet
 - Gained proficiency in the principles of image processing algorithms: Gaussian Blur, Canny Detector, Thresholding, and Contouring
 - Quantified the effect of an increase in heat transfer from the pillars to the droplet with pillar height, by modeling the system
-
-

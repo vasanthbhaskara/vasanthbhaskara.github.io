@@ -52,7 +52,8 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 ## Internship Experience
 
 <div>
-  <img src="./../images/iisc.png" alt="IISc Logo" style="float: left; margin-right: 10px;">
+  <img src="./../images/iisc.png" width="70" height="70"></td>
+      <td style="text-align: left; vertical-align: top;">
   <strong>Indian Academy of Sciences (IAS), Summer Research Fellow</strong>
 </div>
 

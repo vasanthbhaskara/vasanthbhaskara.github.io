@@ -33,12 +33,16 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
       <td>&nbsp;</td>
       <td style="text-align: right; vertical-align: top;">Dec 2020 - June 2024</td>
     </tr>
+    <tr>
+      <td style="text-align: left; vertical-align: top;">Cumulative Grade Point Average: 9.19 / 10.0</td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
-- Cumulative GPA: 9.19/10.0 (Department Rank 2)
-- Latest Semester GPA: 9.30/10.0
-
+- Department Rank 3 among 200+ students in the Mechanical Engineering Department at NIT Calicut
+- Secured 10 Points in all the Mathematics Courses during Undergraduate studies
 
 ## Research Experience
 <table>

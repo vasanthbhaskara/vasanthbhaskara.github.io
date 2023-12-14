@@ -42,7 +42,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 </table>
 
 - Department Rank 3 among 200+ students in the Mechanical Engineering Department at NIT Calicut
-- Secured 10 Points in all the Mathematics Courses during Undergraduate studies
+- Secured 10 Points in all the Mathematics Courses during undergraduate studies
 
 ## Research Experience
 <table>

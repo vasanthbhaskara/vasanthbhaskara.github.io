@@ -51,22 +51,30 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 </table>
 
 ## Internship Experience
-## Internship Experience
-
-<div style="float: left; margin-right: 10px;">
-  <img src="./../images/iisc.png" width="70" height="70">
-</div>
-
-**Indian Academy of Sciences (IAS), Summer Research Fellow**
-
-- **Guide:** Dr. Susmita Dash, Indian Institute of Science (IISc), Bengaluru
-- **Title:** Droplet Dynamics on Heated Substrates
-- **Duration:** May 2023 – June 2023
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="3" style="text-align: center; vertical-align: top;"><img src="./../images/iisc.png" width="70" height="70"></td>
+      <td style="text-align: left; vertical-align: top;">**Indian Academy of Sciences (IAS), Summer Research Fellow**</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left; vertical-align: top;"><a href="https://iisc.ac.in">Indian Institute of Science (IISc), Bengaluru</a></td>
+      <td>&nbsp;</td>
+      <td style="text-align: right; vertical-align: top;">May 2023 - June 2023</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; vertical-align: top;">Droplet Dynamics on Heated Substrates, Guide: Dr. Susmita Dash</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
 
 - Conducted experiments involving water droplets on a hot pillared surface and captured dynamics using high-speed cameras
 - Conducted image processing in Python using OpenCV on the clip of a Leidenfrost droplet
 - Gained proficiency in the principles of image processing algorithms: Gaussian Blur, Canny Detector, Thresholding, and Contouring
 - Quantified the effect of an increase in heat transfer from the pillars to the droplet with pillar height, by modeling the system
+  </tbody>
+</table>
 
 ## Publications
 

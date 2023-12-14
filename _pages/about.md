@@ -52,15 +52,17 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 
 ## Research Experience
 
+## Internship Experience
+
 <table>
   <tbody>
     <tr>
       <td rowspan="3" style="text-align: center; vertical-align: top;"><img src="./../images/iisc.png" width="70" height="70"></td>
-      <td style="text-align: left; vertical-align: top;">Indian Academy of Sciences Research Fellow</a></td>
+      <td style="text-align: left; vertical-align: top;">**Indian Academy of Sciences (IAS), Summer Research Fellow**</td>
       <td></td>
     </tr>
     <tr>
-      <td style="text-align: left; vertical-align: top;"><a href="https://iisc.ac.in">Indian Institute of Science (IISc), Bengaluru</td>
+      <td style="text-align: left; vertical-align: top;">**[Indian Institute of Science (IISc), Bengaluru](https://iisc.ac.in)**</td>
       <td>&nbsp;</td>
       <td style="text-align: right; vertical-align: top;">May 2023 - June 2023</td>
     </tr>

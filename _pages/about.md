@@ -40,7 +40,12 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
       <td style="text-align: right; vertical-align: top;">2020 - 2024</td>
     </tr>
     <tr>
-      <td style="text-align: left; vertical-align: top;">Cumulative Grade Point Average: 9.19 / 10.0, Department Rank 3</td>
+      <td style="text-align: left; vertical-align: top;">Cumulative Grade Point Average: 9.19 / 10.0</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; vertical-align: top;">Department Rank 3</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>

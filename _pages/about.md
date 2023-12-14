@@ -35,14 +35,13 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
     </tr>
     <tr>
       <td style="text-align: left; vertical-align: top;">Cumulative Grade Point Average: 9.19 / 10.0</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
 ## Research Experience
-
 <table>
   <tbody>
     <tr>

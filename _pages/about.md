@@ -20,7 +20,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 <code style="color: #000000; background: #ffffff; display: inline-block;">vasanthsbhaskara [at] gmail [dot] com</code>
 
 
-## Education
+## EDUCATION
 
 <!--
 | MSc Applied Computing, [Department of Computer Science](https://web.cs.toronto.edu/), [University of Toronto](https://www.utoronto.ca/) | 2018 - 2020 | <img src="./../images/uoft.png" width="100" height="100" /> |  
@@ -51,42 +51,24 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 
 
 
-## Patents
+## INTERNSHIP EXPERIENCE
 
 
-<table id="publication-table">
-  <tbody>
-    <!-- Publication Row -->
-    <tr>
-      <td style="text-align: left; align: left; vertical-align : middle;"><b>May<br>2022</b></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td style="vertical-align : middle;">
-          <b>Unsupervised Super-Resolution Training Data Construction</b>
-          <br>Haicheng Wang, Xinyu Sun, <span style="color:#3b7ea1"><b>Vin Bhaskara</b></span>, Stavros Tsogkas, Allan Jepson, Alex Levinshtein <br>
-        <i>US Patent Application 17/512,312</i>
-        <br>
-        <p style="margin:0.5em;"></p>
-        <a class="btn btn--primary" target="_blank" href="https://patents.google.com/patent/US20220138500A1/en" role="button" style="text-decoration:none">Patent</a> 
-        <a class="btn btn--cite" target="_blank" href="files/patent2022-bibtex.txt" role="button" style="text-decoration:none">Cite</a>
-        <br>
-      </td>
-      <td id="gran_image_td" style="text-align: right; align: right; vertical-align : middle;">
-        <img id="pub_img_generic" src="images/Papers/patent22-icon.jpg" style=" width:250px; height:auto; margin:0px;">
-      </td>
-    </tr>
-    <!-- End of Publication Row -->
-    <!-- Spacing Empty Publication Row -->
-    <!-- <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr> -->
-    <!-- End of Spacing Empty Publication Row -->
-  </tbody>
-</table>
+## INTERNSHIP EXPERIENCE
+
+![IISc Logo](./../images/iisc.jpg){: style="float: left; margin-right: 10px;"}
+
+**Indian Academy of Sciences (IAS), Summer Research Fellow**{: style="text-align: right;"}
+
+- **Guide:** Dr. Susmita Dash, Indian Institute of Science (IISc), Bengaluru
+- **Title:** Droplet Dynamics on Heated Substrates
+- **Duration:** May 2023 – June 2023
+
+- Conducted experiments involving water droplets on a hot pillared surface, and captured dynamics using high-speed cameras
+- Conducted image processing in Python using OpenCV on the clip of a Leidenfrost droplet
+- Gained proficiency in the principles of image processing algorithms: Gaussian Blur, Canny Detector, Thresholding, and Contouring
+- Quantified the effect of an increase in heat transfer from the pillars to the droplet with pillar height, by modeling the system as fins
+
 
 ## Publications
 

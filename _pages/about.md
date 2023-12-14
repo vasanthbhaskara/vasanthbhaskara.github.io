@@ -30,7 +30,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 <table>
   <tbody>
     <tr>
-      <td rowspan="3" style="text-align: center; vertical-align: middle;"><img src="./../images/iitg.png" width="70" height="70"></td>
+      <td rowspan="3" style="text-align: center; vertical-align: top;"><img src="./../images/iitg.png" width="70" height="70"></td>
       <td style="text-align: left; vertical-align: top;">B.Tech. in <a href="https://nitc.ac.in/department/mechanical-engineering">Mechanical Engineering</a></td>
       <td></td>
     </tr>
@@ -46,8 +46,6 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
     </tr>
   </tbody>
 </table>
-
-
 
 
 

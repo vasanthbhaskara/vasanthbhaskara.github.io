@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Vasanth Bhaskara"
 description              : &description "Final Year Bachelor's Student at National Institute of Technology (NIT), Calicut"
@@ -41,20 +41,20 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-gtag" #"google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  
   google:
-    tracking_id          :  "G-GV6EKKGJTE"
-    anonymize_ip         :  false # default
+    tracking_id          :  
+    anonymize_ip         :  
 
 # Site Author
 author:
   name             : "Vasanth Bhaskara"
   avatar           : "profile_pic.jpg"
-  bio              : "Final Year Bachelor's Student at National Institute of Technology (NIT), Calicut"
+  bio              : "Senior Year BTech MechE @ National Institute of Technology (NIT), Calicut"
   location         : "Kozhikode, India"
   employer         :
   pubmed           : 
-  email            :
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -65,7 +65,7 @@ author:
   github           : "vasanthbhaskara"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "vasanthbhaskara"
   lastfm           :
   linkedin         : "vasanthsbhaskara"
   pinterest        :
@@ -78,7 +78,7 @@ author:
   youtube          :
   wikipedia        :
   kaggle           : "hairforceone"
-
+  Leetcode         : "vasanth_gpt"
 
 # Reading Files
 include:

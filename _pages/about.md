@@ -75,38 +75,45 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 
 ## ACHIEVEMENTS
 
-### Recipient of the prestigious IASc-INSA-NASI Summer Research Fellowship (Mar 2023)
-- Selected for the highly competitive Indian Academy of Sciences Fellowship, one of the most prestigious fellowships in India.
-- Worked under Dr. Susmita Dash at the Indian Institute of Science (IISc) Bengaluru as a summer intern.
+### Secured highest grade in the courses on Machine Learning, Computer Programming, Robotics and Mathematics courses during Bachelor's (Dec 2023)
+- Secured highest grade in the courses: "ME4131D: Machine Learning for Data Science and Analytics", "ZZ1004D: Computer Programming", "ME4023D: Introduction To Robotics" and all the Mathematics courses during Bachelor's at NIT Calicut
 
 ### Selected for the Summer Fellowship programs at IIT Madras and IIT Kanpur (May 2023)
-- Selected for the IIT Madras Summer Fellowship (SFP) program and the IIT Kanpur SURGE program.
+- Selected for the IIT Madras Summer Fellowship (SFP) program and the IIT Kanpur SURGE program
 
-### Department Rank 2 among 200+ students in the Mechanical Engineering Department at NIT Calicut (Present)
-- Standing 2nd among 200+ students in the Mechanical Engineering Department at NIT Calicut.
+### Recipient of the prestigious IASc-INSA-NASI Summer Research Fellowship (Mar 2023)
+- Selected for the highly competitive Indian Academy of Sciences Fellowship, one of the most prestigious fellowships in India.
+- Worked under Dr. Susmita Dash at the Indian Institute of Science (IISc) Bengaluru as a summer intern
+
+### Secured Highest grade in all the Mathematics Courses taken (May 2022)
+- Secured 10 Points in all the Mathematics Courses during Undergraduate studies.
+- Was the only student in the department who was awarded 10 points in the Mathematics course taken during my 4th Semester BTech.
+
+### Vidyardhi Vignan Manthan, National Level Science Talent Search Examination (Feb 2017)
+- Was shortlisted among top 500 students in the Telangana state in Vidyardhi Vignan Manthan, National Level Science Talent Search Examination, and was placed 2nd in the state-level competition, which was held at Indian Institute of Chemical Technology Hyderabad, - Involved carrying out experiments in-person and drawing conclusions. Was also eligible for the National level which was conducted at IIT Delhi.
+
 
 ## PROJECTS
 
-### Optimization of Transportation Logistics at NIT Calicut
+### Monté Carlo Simulation to estimate the real fuel cell efficiency (April 2023)
+Mentor: Dr. Deepak Lawrence K
+- Conducted Monté Carlo simulation in Python to estimate the real efficiency of a fuel cell when the distribution of each variable is known.
+
+### Optimization of Transportation Logistics at NIT Calicut (March 2023)
+Mentor: Dr. Sajan T John
 - Applied linear programming techniques to solve a transportation problem involving two warehouses and six hostels. Achieved cost-effective allocation by strategically assigning warehouses to hostels using Excel solver.
 
-### Optimizing Vehicle Routing for Cost-Efficiency Using the Savings Algorithm (Present)
+### Optimizing Vehicle Routing for Cost-Efficiency Using the Savings Algorithm (March 2023)
+Mentor: Dr. Vinay V Panicker
 - Utilized the Savings Algorithm to optimize vehicle routing, determining the most cost-efficient route while serving all the customers.
-
-### Monté Carlo Simulation to estimate the real fuel cell efficiency
-- Conducted Monté Carlo simulation in Python to estimate the real efficiency of a fuel cell when the distribution of each variable is known.
 
 ## ROLES AND RESPONSIBILITIES HELD
 
 ### Tenure at the Indian Institute of Science, Bengaluru (May 2023 – June 2023)
 - Engaged seamlessly with IISc research scholars, delivering a well-received presentation of collaborative work to lab members, garnering significant appreciation.
 
-### Interim Class Representative (Jan 2023)
-- Facilitated communication between 100+ students and faculty.
-- Ensured smooth information flow within the academic community.
-
 ### Team Lead for the Final Year Bachelor’s Project (Aug 2023 - Ongoing)
-- Leading regular brainstorming sessions and working on a Multifunctional Marine Robot.
+- Leading regular brainstorming sessions and leadign the team towards working on a novel Marine Robot.
 
 ## RELEVANT COURSEWORK
 

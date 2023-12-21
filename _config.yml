@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Vasanth Bhaskara"
-description              : &description "Final Year Bachelor's Student at National Institute of Technology (NIT), Calicut"
+description              : &description "Senior Year BTech @ NIT Calicut | Former IASc-INSA-NASI Research Fellow @ IISc | ML | Python | C++ | DSA"
 url                      : https://vasanthbhaskara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vasanthbhaskara/vasanthbhaskara.github.io"
@@ -50,7 +50,7 @@ analytics:
 author:
   name             : "Vasanth Bhaskara"
   avatar           : "profile_pic.jpg"
-  bio              : "Senior Year BTech MechE @ National Institute of Technology (NIT), Calicut"
+  bio              : "Senior Year BTech @ NIT Calicut | Former IASc-INSA-NASI Research Fellow @ IISc | ML | Python | C++ | DSA"
   location         : "Kozhikode, India"
   employer         :
   pubmed           : 
@@ -78,7 +78,7 @@ author:
   youtube          :
   wikipedia        :
   kaggle           : "hairforceone"
-  leetcode         : ""
+  leetcode         : "vasanth_gpt"
 
 # Reading Files
 include:

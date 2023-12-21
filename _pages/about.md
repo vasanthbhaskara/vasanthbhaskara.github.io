@@ -113,7 +113,7 @@ Mentor: Dr. Vinay V Panicker
 - Engaged seamlessly with IISc research scholars, delivering a well-received presentation of collaborative work to lab members, garnering significant appreciation.
 
 ### Team Lead for the Final Year Bachelor’s Project (Aug 2023 - Ongoing)
-- Leading regular brainstorming sessions and leadign the team towards working on a novel Marine Robot.
+- Leading regular brainstorming sessions and working as a team towards working on a novel Marine Robot.
 
 ## RELEVANT COURSEWORK
 

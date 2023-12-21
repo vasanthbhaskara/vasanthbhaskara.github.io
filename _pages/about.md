@@ -107,14 +107,6 @@ Mentor: Dr. Sajan T John
 Mentor: Dr. Vinay V Panicker
 - Utilized the Savings Algorithm to optimize vehicle routing, determining the most cost-efficient route while serving all the customers.
 
-## ROLES AND RESPONSIBILITIES HELD
-
-### Tenure at the Indian Institute of Science, Bengaluru (May 2023 – June 2023)
-- Engaged seamlessly with IISc research scholars, delivering a well-received presentation of collaborative work to lab members, garnering significant appreciation.
-
-### Team Lead for the Final Year Bachelor’s Project (Aug 2023 - Ongoing)
-- Leading regular brainstorming sessions and working as a team towards working on a novel Marine Robot.
-
 ## RELEVANT COURSEWORK
 
 - Computer Programming, Machine Learning for Data Science and Analytics, Statistics, Probability, Introduction to Robotics, Control Systems Engineering, Operations Research

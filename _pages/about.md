@@ -10,8 +10,9 @@ redirect_from:
 header:
   preview_card_image: profile_pic.jpg
 ---
+Aspiring Software Engineer/Data Scientist with a deep affinity for Computer Science and Machine Learning. I bring a robust foundation in Mathematics, Computational skills, and Engineering acumen honed during my bachelor's program at the esteemed National Institute of Technology (NIT), Calicut.
 
-I'm a final year student at the [National Institute of Technology (NIT), Calicut](https://www.nitc.ac.in/) majoring in [Mechanical Engineering](https://nitc.ac.in/department/mechanical-engineering).  
+Proficient in Algorithms, Machine Learning, Statistics, Probability, Linear Algebra, Calculus, and adept at utilizing programming languages such as C/C++, Python, and SQL. My toolkit includes mastery of data science libraries like Pandas, Scikit-learn, Matplotlib, NumPy, and OpenCV.
 
 I was the recipient of the prestigious [Indian Academy of Sciences (IAS) Fellowship](https://webjapps.ias.ac.in/fellowship2023/lists/selectedList.jsp), awarded to the top 200 students from premier institutes in India across all the Engineering disciplines. 
 

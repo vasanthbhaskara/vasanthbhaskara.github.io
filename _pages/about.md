@@ -42,7 +42,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 </table>
 
 - Project Title: Design, Fabrication, and Control of a Multipurpose Marine Robot
-- Project Advisor: Dr. Sudheer A P, Associate Professor, National Institute of Technology (NIT) Calicut
+- Project Advisor: [Dr. Sudheer A P](https://nitc.ac.in/department/mechanical-engineering/faculty-and-staff/faculty/8eb95fa4-0e19-4246-aa46-75095a3ec8d8), Associate Professor, National Institute of Technology (NIT) Calicut
 - Funding: Secured a Grant of Rs. 75,000 from the National Institute of Technology (NIT), Calicut.
 
 ## Research Experience
@@ -59,7 +59,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
       <td style="text-align: right; vertical-align: top;">May 2023 - June 2023</td>
     </tr>
     <tr>
-      <td style="text-align: left; vertical-align: top;">Droplet Dynamics on Heated Substrates, Guide: Dr. Susmita Dash</td>
+      <td style="text-align: left; vertical-align: top;">Droplet Dynamics on Heated Substrates, Guide: <a href="https://mecheng.iisc.ac.in/people/susmita-dash/" target="_blank">Dr. Susmita Dash</a></td>
       <td></td>
       <td></td>
     </tr>

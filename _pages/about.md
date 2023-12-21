@@ -34,15 +34,16 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
       <td style="text-align: right; vertical-align: top;">Dec 2020 - June 2024</td>
     </tr>
     <tr>
-      <td style="text-align: left; vertical-align: top;">Cumulative Grade Point Average: 9.19 / 10.0</td>
+      <td style="text-align: left; vertical-align: top;">Cumulative Grade Point Average: 9.21 / 10.0</td>
       <td></td>
       <td></td>
     </tr>
   </tbody>
 </table>
 
-- Department Rank 3 among 200+ students in the Mechanical Engineering Department at NIT Calicut
-- Secured 10 Points in all the Mathematics Courses during undergraduate studies
+- Project Title: Design, Fabrication, and Control of a Multipurpose Marine Robot
+- Project Advisor: Dr. Sudheer A P, Associate Professor, National Institute of Technology (NIT) Calicut
+- Funding: Secured a Grant of Rs. 75,000 from the National Institute of Technology (NIT), Calicut.
 
 ## Research Experience
 <table>

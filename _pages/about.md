@@ -44,7 +44,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 
 - Project Title: Design, Fabrication, and Control of a Multipurpose Marine Robot
 - Project Advisor: [Dr. Sudheer A P](https://nitc.ac.in/department/mechanical-engineering/faculty-and-staff/faculty/8eb95fa4-0e19-4246-aa46-75095a3ec8d8), Associate Professor, National Institute of Technology (NIT) Calicut
-- Funding: Secured a Grant of Rs. 75,000 from the National Institute of Technology (NIT), Calicut.
+- Funding: Secured a Grant of Rs. 75,000 from the Centre for Innovation, Entrepreneurship and Incubation (CIEI) at NIT Calicut
 
 ## Research Experience
 <table>
@@ -75,8 +75,14 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 
 ## ACHIEVEMENTS
 
+### Attained a Grade of 9.0 or above in 83% of courses taken at NITC so far (Jan 2024)
+- Secured more than 9 points (i.e., S and A grades) in 44 courses of the total 53 courses credited at NIT Calicut
+
 ### Secured highest grade in the courses on Machine Learning, Computer Programming, Robotics and Mathematics courses during Bachelor's (Dec 2023)
 - Secured highest grade in the courses: "ME4131D: Machine Learning for Data Science and Analytics", "ZZ1004D: Computer Programming", "ME4023D: Introduction To Robotics" and all the Mathematics courses during Bachelor's at NIT Calicut
+
+### Top 3 in the Mechanical Engineering Department after the end of 6th Semester (Nov 2023)
+- Standing among the Top 3 in the entire undergraduate class of Mechanical Engineering, consisting of 200+ students, after the conclusion of the 6th semester
 
 ### Selected for the Summer Fellowship programs at IIT Madras and IIT Kanpur (May 2023)
 - Selected for the IIT Madras Summer Fellowship (SFP) program and the IIT Kanpur SURGE program
@@ -89,9 +95,11 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 - Secured 10 Points in all the Mathematics Courses during Undergraduate studies.
 - Was the only student in the department who was awarded 10 points in the Mathematics course taken during my 4th Semester BTech.
 
-### Vidyardhi Vignan Manthan, National Level Science Talent Search Examination (Feb 2017)
-- Was shortlisted among top 500 students in the Telangana state in Vidyardhi Vignan Manthan, National Level Science Talent Search Examination, and was placed 2nd in the state-level competition, which was held at Indian Institute of Chemical Technology Hyderabad, - Involved carrying out experiments in-person and drawing conclusions. Was also eligible for the National level which was conducted at IIT Delhi.
+### Department Rank 1 in 4th Semester at NIT Calicut (June 2022)
+- Secured highest SGPA of 9.58 / 10.0 among 210 students in the Mechanical Engineering Department at NIT Calicut
 
+### Ranked in the Top 20 among 1256 first-year undergraduates at NIT Calicut, Was Eligible for Branch Change (Aug 2021)
+- Ranked among top 20 first-year undergraduate students across all departments at NITC and was granted the option of branch change due to my outstanding academic performance in my first year of undergraduate studies
 
 ## PROJECTS
 
@@ -103,18 +111,22 @@ Mentor: Dr. Deepak Lawrence K
 Mentor: Dr. Sajan T John
 - Applied linear programming techniques to solve a transportation problem involving two warehouses and six hostels. Achieved cost-effective allocation by strategically assigning warehouses to hostels using Excel solver.
 
-### Optimizing Vehicle Routing for Cost-Efficiency Using the Savings Algorithm (March 2023)
-Mentor: Dr. Vinay V Panicker
-- Utilized the Savings Algorithm to optimize vehicle routing, determining the most cost-efficient route while serving all the customers.
+### Top 3 teams among the class in the Kaggle Insurance Claim Challenge (Dec 2023)
+Mentor: Dr. Saketha Athkuri
+- Successfully tackled Insurance Claim Prediction claim predictions with 73% Challenge, employing XGBoost for accurate claim predictions with 73% accuracy
+- Demonstrated expertise in Data Preprocessing, Feature Engineering and Machine Learning
 
 ## RELEVANT COURSEWORK
 
-- Computer Programming, Machine Learning for Data Science and Analytics, Statistics, Probability, Introduction to Robotics, Control Systems Engineering, Operations Research
+### Courses with Perfect Grade
+- Computer Programming, Machine Learning for Data Science and Analytics, Introduction to Robotics
+
+### Online Courses
+- Machine Learning offered by Andrew Ng (Coursera), CS50: Introduction to Computer Science (edX)
 
 ## SKILLS
 
-- Tech Stack: Data Structures and Algorithms
-- Languages: C, C++, Python, SQL
-- Python Libraries: NumPy, Matplotlib, Pandas, OpenCV, Scikit-learn
-- Software: Jupyter Notebooks, VS Code, Sublime
-- CAD/CAM: Solidworks, OnShape, MasterCAM, ANSYS, Abaqus, Adams
+- Tech Stack: Data Structures and Algorithms (Proficient), SQL (Beginner)
+- Languages: Python (Proficient), C/C++ (Intermediate)
+- Python Libraries: NumPy, Pandas, Scikit- learn, OpenCV, Matplotlib 
+- Scientific: Jupyter Notebook, VS Code, Sublime Text

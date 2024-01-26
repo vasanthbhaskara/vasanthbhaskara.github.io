@@ -33,6 +33,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter "Vasanth_LLM"
+leetcode:
+  username               : &leetcode "vasanth_gpt"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -74,6 +76,7 @@ author:
   soundcloud       :
   steam            :
   tumblr           :
+  twitter          : "Vasanth_LLM"
   vine             :
   weibo            :
   xing             :

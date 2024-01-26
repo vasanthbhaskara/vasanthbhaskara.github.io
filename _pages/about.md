@@ -103,6 +103,11 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 
 ## PROJECTS
 
+### Top 3 teams among the class in the Kaggle Insurance Claim Challenge (Dec 2023)
+Mentor: Dr. Saketha Athkuri
+- Successfully tackled Insurance Claim Prediction claim predictions with 73% Challenge, employing XGBoost for accurate claim predictions with 73% accuracy
+- Demonstrated expertise in Data Preprocessing, Feature Engineering and Machine Learning
+
 ### Monté Carlo Simulation to estimate the real fuel cell efficiency (April 2023)
 Mentor: Dr. Deepak Lawrence K
 - Conducted Monté Carlo simulation in Python to estimate the real efficiency of a fuel cell when the distribution of each variable is known.
@@ -110,11 +115,6 @@ Mentor: Dr. Deepak Lawrence K
 ### Optimization of Transportation Logistics at NIT Calicut (March 2023)
 Mentor: Dr. Sajan T John
 - Applied linear programming techniques to solve a transportation problem involving two warehouses and six hostels. Achieved cost-effective allocation by strategically assigning warehouses to hostels using Excel solver.
-
-### Top 3 teams among the class in the Kaggle Insurance Claim Challenge (Dec 2023)
-Mentor: Dr. Saketha Athkuri
-- Successfully tackled Insurance Claim Prediction claim predictions with 73% Challenge, employing XGBoost for accurate claim predictions with 73% accuracy
-- Demonstrated expertise in Data Preprocessing, Feature Engineering and Machine Learning
 
 ## RELEVANT COURSEWORK
 

@@ -73,7 +73,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 - Quantified the effect of an increase in heat transfer from the pillars to the droplet with pillar height, by modelling the system as fins
 
 
-## ACHIEVEMENTS
+## Achievements
 
 ### Attained a Grade of 9.0 or above in 83% of courses taken at NITC so far (Jan 2024)
 - Secured more than 9 points (i.e., S and A grades) in 44 courses of the total 53 courses credited at NIT Calicut
@@ -101,7 +101,7 @@ Last Summer, I worked at the <a href="https://iisc.ac.in" target="_blank">Indian
 ### Ranked in the Top 20 among 1256 first-year undergraduates at NIT Calicut, Was Eligible for Branch Change (Aug 2021)
 - Ranked among top 20 first-year undergraduate students across all departments at NITC and was granted the option of branch change due to my outstanding academic performance in my first year of undergraduate studies
 
-## PROJECTS
+## Projects
 
 ### Top 3 teams among the class in the Kaggle Insurance Claim Challenge (Dec 2023)
 Mentor: Dr. Saketha Athkuri
@@ -116,7 +116,7 @@ Mentor: Dr. Deepak Lawrence K
 Mentor: Dr. Sajan T John
 - Applied linear programming techniques to solve a transportation problem involving two warehouses and six hostels. Achieved cost-effective allocation by strategically assigning warehouses to hostels using Excel solver.
 
-## RELEVANT COURSEWORK
+## Relevant Coursework
 
 ### Courses with Perfect Grade
 - Computer Programming, Machine Learning for Data Science and Analytics, Introduction to Robotics
@@ -124,7 +124,7 @@ Mentor: Dr. Sajan T John
 ### Online Courses
 - Machine Learning offered by Andrew Ng (Coursera), CS50: Introduction to Computer Science (edX)
 
-## SKILLS
+## Skills
 
 - Tech Stack: Data Structures and Algorithms (Proficient), SQL (Beginner)
 - Languages: Python (Proficient), C/C++ (Intermediate)

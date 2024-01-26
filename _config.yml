@@ -31,6 +31,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+twitter:
+  username               : &twitter "Vasanth_LLM"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -48,9 +50,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vasanth Bhaskara"
+  name             : "Vasanth S. Bhaskara"
   avatar           : "profile_pic.jpg"
-  bio              : "Senior Year BTech @ NIT Calicut | Former IASc-INSA-NASI Research Fellow @ IISc | ML | Python | C++ | DSA"
+  bio              : "Senior Year B.Tech. @ NIT Calicut | IASc-INSA-NASI Research Fellow @ IISc"
   location         : "Kozhikode, India"
   employer         :
   pubmed           : 

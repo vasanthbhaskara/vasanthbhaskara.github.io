@@ -20,36 +20,16 @@
 
 <script>
   let theme = sessionStorage.getItem('theme');
-  if(theme === "dark") {
+  if(theme === "dark")
+  {
+    sessionStorage.setItem('theme', 'dark');
     document.querySelector('html').style.filter = 'invert(100%)';
   }
-
-  // Toggle theme function
-  function toggleTheme() {
-    if (theme === "dark") {
-      sessionStorage.setItem('theme', 'light');
-      document.querySelector('html').style.filter = 'invert(0%)';
-      invertImages();
-    } else {
-      sessionStorage.setItem('theme', 'dark');
-      document.querySelector('html').style.filter = 'invert(100%)';
-      invertImages();
-    }
+  else
+  {
+    sessionStorage.setItem('theme', 'light');
+    document.querySelector('html').style.filter = 'invert(0%)';
   }
-
-  // Image inversion function
-  function invertImages() {
-    let images = document.querySelectorAll('img');
-    images.forEach(function(img) {
-      img.style.filter = (img.style.filter === 'invert(100%)') ? 'invert(0%)' : 'invert(100%)';
-    });
-  }
-
-  // Run functions on page load
-  window.onload = function() {
-    toggleTheme();
-    invertImages();
-  };
 </script>
 
 <meta http-equiv="cleartype" content="on">

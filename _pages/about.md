@@ -18,31 +18,15 @@ header:
   --accent-color: #4ecdc4;
 }
 
-* {
-  color: inherit;
+/* Default light mode */
+html, body, p, li, span, div, td, a, h1, h2, h3, h4, h5, h6, strong, code {
+  color: #1a1a1a !important;
 }
 
-html, body, p, li, span, div, td, a {
-  color: #333333;
-}
-
+/* Dark mode overrides */
 @media (prefers-color-scheme: dark) {
-  html, body, p, li, span, div, td, a, strong, code, h1, h2, h3, h4, h5, h6 {
+  html, body, p, li, span, div, td, a, h1, h2, h3, h4, h5, h6, strong, code {
     color: #f0f0f0 !important;
-  }
-  
-  code {
-    background: rgba(0, 102, 204, 0.2) !important;
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  html, body, p, li, span, div, td, a, strong, code, h1, h2, h3, h4, h5, h6 {
-    color: #333333 !important;
-  }
-  
-  code {
-    background: rgba(0, 102, 204, 0.1) !important;
   }
 }
 
@@ -64,19 +48,13 @@ h1, h2, h3 {
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ddd;
+  background: #f8f9fa;
 }
 
 @media (prefers-color-scheme: dark) {
   .experience-card, .project-card, .cert-card, .skill-category {
     background: #2d2d2d;
     border-color: #404040;
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  .experience-card, .project-card, .cert-card, .skill-category {
-    background: #f8f9fa;
-    border-color: #e0e0e0;
   }
 }
 
@@ -172,6 +150,13 @@ h1, h2, h3 {
   padding: 12px 16px;
   margin: 16px 0;
   transition: all 0.3s ease;
+  color: #1a1a1a !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .contact-badge {
+    color: #f0f0f0 !important;
+  }
 }
 
 .contact-badge:hover {
@@ -183,6 +168,13 @@ h1, h2, h3 {
 ul li, ol li {
   margin: 10px 0;
   transition: all 0.3s ease;
+  color: #1a1a1a !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  ul li, ol li {
+    color: #f0f0f0 !important;
+  }
 }
 
 ul li::marker {
@@ -201,6 +193,13 @@ strong {
   padding: 2px 6px;
   border-radius: 4px;
   animation: highlight-pulse 2s ease-in-out infinite;
+  color: #1a1a1a !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  strong {
+    color: #f0f0f0 !important;
+  }
 }
 
 /* Table Enhancement */
@@ -216,19 +215,15 @@ table td {
   padding: 16px;
   border: 1px solid #ddd;
   transition: all 0.3s ease;
+  background: #f8f9fa;
+  color: #1a1a1a !important;
 }
 
 @media (prefers-color-scheme: dark) {
   table td {
     background: #2d2d2d;
     border-color: #404040;
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  table td {
-    background: #f8f9fa;
-    border-color: #e0e0e0;
+    color: #f0f0f0 !important;
   }
 }
 

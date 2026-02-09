@@ -61,7 +61,7 @@ Databricks truly brings together the best of data engineering, scalability, and 
 ### Condition Monitoring Engineer @ Hindustan Petroleum Corporation Limited (HPCL)
 **Aug 2024 - Jan 2025** | Visakhapatnam, Andhra Pradesh, India
 
-| <img src="./../images/hpcl-logo.png" width="70" height="70"> | **Role:** Predictive Maintenance & Planning |
+| <img src="./../images/hpcl-logo_v1.png" width="70" height="70"> | **Role:** Predictive Maintenance & Planning |
 |---|---|
 
 **Condition Monitoring Activities:**

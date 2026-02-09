@@ -61,7 +61,7 @@ Databricks truly brings together the best of data engineering, scalability, and 
 ### Condition Monitoring Engineer @ Hindustan Petroleum Corporation Limited (HPCL)
 **Aug 2024 - Jan 2025** | Visakhapatnam, Andhra Pradesh, India
 
-| ![HPCL Logo - Add company logo here](./../images/hpcl-logo.png) | **Role:** Predictive Maintenance & Planning |
+| <img src="./../images/hpcl-logo.png" width="70" height="70"> | **Role:** Predictive Maintenance & Planning |
 |---|---|
 
 **Condition Monitoring Activities:**
@@ -169,7 +169,7 @@ Databricks truly brings together the best of data engineering, scalability, and 
 ## 🏆 Licenses & Certifications
 
 ### Databricks Certified Data Engineer Associate
-| ![Databricks Logo - Add logo here](./../images/databricks-logo.png) | **Databricks** |
+| <img src="./../images/databricks-logo.png" width="70" height="70"> | **Databricks** |
 |---|---|
 | **Issued:** November 2025 | **Expires:** November 2027 |
 | **Credential ID:** 166205453 | **Skills:** SQL, PySpark, Spark SQL |
@@ -178,7 +178,7 @@ Databricks truly brings together the best of data engineering, scalability, and 
 ---
 
 ### Advanced Learning Algorithms
-| ![DeepLearning.AI Logo - Add logo here](./../images/deeplearning-ai-logo.png) | **DeepLearning.AI** |
+| <img src="./../images/deeplearning-ai-logo.png" width="70" height="70"> | **DeepLearning.AI** |
 |---|---|
 | **Issued:** July 2025 | **Skills:** Deep Learning · Neural Networks · TensorFlow · Text Classification · Performance Tuning · Decision Trees · Gradient Boosting · Random Forest · XGBoost |
 | **Credential ID:** AS6WZ79ABLIF | [View Credential](#) |
@@ -186,7 +186,7 @@ Databricks truly brings together the best of data engineering, scalability, and 
 ---
 
 ### Supervised Machine Learning: Regression and Classification
-| ![DeepLearning.AI Logo - Add logo here](./../images/deeplearning-ai-logo.png) | **DeepLearning.AI** |
+| <img src="./../images/deeplearning-ai-logo.png" width="70" height="70"> | **DeepLearning.AI** |
 |---|---|
 | **Issued:** April 2024 | **Skills:** Machine Learning · Classification · Machine Learning Algorithms |
 | [View Credential](#) | |
@@ -194,7 +194,7 @@ Databricks truly brings together the best of data engineering, scalability, and 
 ---
 
 ### Python (Basic) Certification
-| ![HackerRank Logo - Add logo here](./../images/hackerrank-logo.png) | **HackerRank** |
+| <img src="./../images/hackerrank-logo.png" width="70" height="70"> | **HackerRank** |
 |---|---|
 | **Issued:** October 2023 | **Credential ID:** 32E7780D782E |
 | **Skills:** Python (Programming Language) | [View Credential](#) |
@@ -202,7 +202,7 @@ Databricks truly brings together the best of data engineering, scalability, and 
 ---
 
 ### SQL (Basic) Certification
-| ![HackerRank Logo - Add logo here](./../images/hackerrank-logo.png) | **HackerRank** |
+| <img src="./../images/hackerrank-logo.png" width="70" height="70"> | **HackerRank** |
 |---|---|
 | **Issued:** October 2023 | **Credential ID:** D45E82C5C8B8 |
 | **Skills:** SQL | [View Credential](#) |

@@ -142,48 +142,25 @@ Databricks truly brings together the best of data engineering, scalability, and 
 - Quantified the effect of an increase in heat transfer from the pillars to the droplet with pillar height, by modelling the system as fins
 
 
-## Achievements
+## Achievements & Academic Honors
 
-### Attained a Grade of 9.0 or above in 83% of courses taken at NITC so far (Jan 2024)
-- Secured more than 9 points (i.e., S and A grades) in 44 courses of the total 53 courses credited at NIT Calicut
+- **Recipient of the prestigious IASc-INSA-NASI Summer Research Fellowship (Mar 2023)**: Selected for the highly competitive Indian Academy of Sciences Fellowship, one of the most prestigious fellowships in India, and worked under Dr. Susmita Dash at IISc Bengaluru
+- **Department Rank 3 out of 210**: Secured 9.25 / 10.0 CGPA in Mechanical Engineering, with 83% of courses graded at 9.0 or above
+- **Selected for Summer Fellowship programs at IIT Madras and IIT Kanpur (May 2023)**
+- **Perfect Grade (10/10) in all Mathematics Courses**: Only student in department awarded this distinction
+- **Department Rank 1 in 4th Semester (June 2022)**: Achieved SGPA of 9.58 / 10.0 among 210 students
 
-### Secured highest grade in the courses on Machine Learning, Computer Programming, Robotics and Mathematics courses during Bachelor's (Dec 2023)
-- Secured highest grade in the courses: "ME4131D: Machine Learning for Data Science and Analytics", "ZZ1004D: Computer Programming", "ME4023D: Introduction To Robotics" and all the Mathematics courses during Bachelor's at NIT Calicut
+## Academic Projects
 
-### Top 3 in the Mechanical Engineering Department after the end of 6th Semester (Nov 2023)
-- Standing among the Top 3 in the entire undergraduate class of Mechanical Engineering, consisting of 200+ students, after the conclusion of the 6th semester
+### Top 3 teams in Kaggle Insurance Claim Challenge (Dec 2023)
+- Engineered features and built XGBoost models achieving 73% accuracy on claim predictions
+- Applied data preprocessing and feature engineering techniques
 
-### Selected for the Summer Fellowship programs at IIT Madras and IIT Kanpur (May 2023)
-- Selected for the IIT Madras Summer Fellowship (SFP) program and the IIT Kanpur SURGE program
+### Monté Carlo Simulation for Fuel Cell Efficiency (April 2023)
+- Developed probabilistic simulation in Python to estimate real fuel cell efficiency under variable distributions
 
-### Recipient of the prestigious IASc-INSA-NASI Summer Research Fellowship (Mar 2023)
-- Selected for the highly competitive Indian Academy of Sciences Fellowship, one of the most prestigious fellowships in India.
-- Worked under Dr. Susmita Dash at the Indian Institute of Science (IISc) Bengaluru as a summer intern
-
-### Secured Highest grade in all the Mathematics Courses taken (May 2022)
-- Secured 10 Points in all the Mathematics Courses during Undergraduate studies.
-- Was the only student in the department who was awarded 10 points in the Mathematics course taken during my 4th Semester BTech.
-
-### Department Rank 1 in 4th Semester at NIT Calicut (June 2022)
-- Secured highest SGPA of 9.58 / 10.0 among 210 students in the Mechanical Engineering Department at NIT Calicut
-
-### Ranked in the Top 20 among 1256 first-year undergraduates at NIT Calicut, Was Eligible for Branch Change (Aug 2021)
-- Ranked among top 20 first-year undergraduate students across all departments at NITC and was granted the option of branch change due to my outstanding academic performance in my first year of undergraduate studies
-
-## Projects
-
-### Top 3 teams among the class in the Kaggle Insurance Claim Challenge (Dec 2023)
-Mentor: Dr. Saketha Athkuri
-- Successfully tackled Insurance Claim Prediction claim predictions with 73% Challenge, employing XGBoost for accurate claim predictions with 73% accuracy
-- Demonstrated expertise in Data Preprocessing, Feature Engineering and Machine Learning
-
-### Monté Carlo Simulation to estimate the real fuel cell efficiency (April 2023)
-Mentor: Dr. Deepak Lawrence K
-- Conducted Monté Carlo simulation in Python to estimate the real efficiency of a fuel cell when the distribution of each variable is known.
-
-### Optimization of Transportation Logistics at NIT Calicut (March 2023)
-Mentor: Dr. Sajan T John
-- Applied linear programming techniques to solve a transportation problem involving two warehouses and six hostels. Achieved cost-effective allocation by strategically assigning warehouses to hostels using Excel solver.
+### Transportation Logistics Optimization (March 2023)
+- Applied linear programming to warehouse allocation problem, achieving cost-effective distribution across six hostels
 
 ## Relevant Coursework
 

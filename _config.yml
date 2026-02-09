@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bio"
-title_separator          : "-"
-name                     : &name "Vasanth Bhaskara"
-description              : &description "Senior Year B.Tech. @ NIT Calicut | IASc-INSA-NASI Research Fellow @ IISc"
+title                    : "Vasanth S. Bhaskara"
+title_separator          : "|"
+name                     : &name "Vasanth S. Bhaskara"
+description              : &description "Data Scientist @ ZS | Databricks Certified Data Engineer | Dept Rank 3 – NIT Calicut Alumni"
 url                      : https://vasanthbhaskara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vasanthbhaskara/vasanthbhaskara.github.io"
@@ -54,8 +54,8 @@ analytics:
 author:
   name             : "Vasanth S. Bhaskara"
   avatar           : "profile_pic.jpg"
-  bio              : "Senior Year B.Tech. @ NIT Calicut | IASc-INSA-NASI Research Fellow @ IISc"
-  location         : "Kozhikode, India"
+  bio              : "Data Scientist @ ZS | Databricks Certified Data Engineer | Marketing Mix Modeling | Predictive Analytics"
+  location         : "Pune, India"
   employer         :
   pubmed           : 
   email            : 

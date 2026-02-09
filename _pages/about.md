@@ -47,7 +47,7 @@ Databricks truly brings together the best of data engineering, scalability, and 
 ### Data Analyst @ ZS
 **Feb 2025 - Present** | Pune, Maharashtra, India
 
-| ![ZS](./../images/zs-logo.svg) | **Role:** Data Scientist, Digital Customer Experience |
+| <img src="./../images/zs-logo.svg" width="70" height="70"> | **Role:** Data Scientist, Digital Customer Experience |
 |---|---|
 
 - **Marketing Mix Modeling**: Conducted comprehensive MMM for a leading global pharmaceutical portfolio, supporting omnichannel strategy optimization across oncology, immunology, and neuroscience products

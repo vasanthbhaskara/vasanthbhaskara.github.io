@@ -10,17 +10,11 @@ redirect_from:
 header:
   preview_card_image: profile_pic.jpg
 ---
-
-# Vasanth S. Bhaskara
-**Data Scientist @ ZS** | **Databricks Certified Data Engineer** | **Dept Rank 3 – NIT Calicut Alumni** | **IISc Summer Research Fellow** | **160+ LeetCode Problems Solved**
-
----
-
 ## Professional Summary
 
 I bring a strong foundation in **Mathematics, Computational Skills, Engineering, and Business Acumen**, developed during my undergraduate studies at NIT Calicut and refined through professional experience at leading organizations.
 
-Currently working at **ZS**, a premier global consulting firm specializing in data-driven solutions for the pharmaceutical and healthcare industry. I solve high-impact business problems in the **Digital Customer Experience space**, leveraging **Marketing Mix Modeling** with statistical analysis, advanced feature engineering (ad stocking horizons, log transformations), and regression modeling to help top pharma and life sciences clients make strategic, data-informed decisions.
+Currently working at **ZS**, a premier global consulting firm specializing in data-driven solutions for the pharmaceutical and healthcare industry. I solve high-impact business problems in the Digital Customer Experience space, leveraging Marketing Mix Modeling with statistical analysis, advanced feature engineering (ad stocking horizons, log transformations), and regression modeling to help top pharma and life sciences clients make strategic, data-informed decisions.
 
 Previously, at **HPCL**—one of India's largest Oil Marketing Companies—I worked as a **Condition Monitoring Engineer** at the Visakh Refinery, where I implemented AI-driven predictive maintenance tools to reduce downtime, built dashboards for maintenance compliance tracking, and managed procurement activities across the oil business value chain.
 
@@ -31,7 +25,7 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 
 ---
 
-## 🚀 About Databricks Certification
+## About Databricks Certification
 
 I've been diving into Databricks over the past few months, and it's been absolutely fascinating:
 
@@ -48,12 +42,12 @@ Databricks truly brings together the best of data engineering, scalability, and 
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Data Analyst @ ZS
 **Feb 2025 - Present** | Pune, Maharashtra, India
 
-| ![ZS Logo - Add company logo here](./../images/zs-logo.png) | **Role:** Data Scientist, Digital Customer Experience |
+| !(./../images/zs-logo.svg) | **Role:** Data Scientist, Digital Customer Experience |
 |---|---|
 
 - **Marketing Mix Modeling**: Conducted comprehensive MMM for a leading global pharmaceutical portfolio, supporting omnichannel strategy optimization across oncology, immunology, and neuroscience products

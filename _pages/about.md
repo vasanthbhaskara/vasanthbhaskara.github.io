@@ -16,9 +16,6 @@ header:
     margin-top: 0.5em;
   }
 </style>
-
-## Professional Summary
-
 I bring a strong foundation in **Mathematics, Computational Skills, Engineering, and Business Acumen**, developed during my undergraduate studies at NIT Calicut and refined through professional experience at leading organizations.
 
 Currently working at **ZS**, a premier global consulting firm specializing in data-driven solutions for the pharmaceutical and healthcare industry. I solve high-impact business problems in the Digital Customer Experience space, leveraging Marketing Mix Modeling with statistical analysis, advanced feature engineering (ad stocking horizons, log transformations), and regression modeling to help top pharma and life sciences clients make strategic, data-informed decisions.

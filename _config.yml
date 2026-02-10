@@ -30,11 +30,41 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter "Vasanth_LLM"
-leetcode:
-  username               : &leetcode "vasanth_gpt"
+author:
+  name             : "Vasanth S. Bhaskara"
+  avatar           : "profile_pic.jpg"
+  bio              : "Data Analyst at ZS | Databricks Certified Data Engineer | Dept Rank 3 – NIT Calicut Alumni | IISc Intern | Solved 160+ LeetCode Problems"
+  location         : "Pune, India"
+  employer         :
+  pubmed           : 
+  email            : 
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "vasanthbhaskara"
+  google_plus      :
+  keybase          :
+  instagram        : 
+  lastfm           :
+  linkedin         : "vasanthsbhaskara"
+  pinterest        :
+  soundcloud       :
+  steam            :
+  tumblr           :
+  x                : "Vasanth_LLM"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+  kaggle           : "hairforceone"
+  leetcode         : "vasanth_gpt"
+
+Please provide the desired output or describe the changes you'd like to make.
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -54,7 +84,7 @@ analytics:
 author:
   name             : "Vasanth S. Bhaskara"
   avatar           : "profile_pic.jpg"
-  bio              : "Data Scientist @ ZS | Databricks Certified Data Engineer | Marketing Mix Modeling | Predictive Analytics"
+  bio              : "Data Analyst at ZS | Databricks Certified Data Engineer | Dept Rank 3 – NIT Calicut Alumni | IISc Intern | Solved 160+ LeetCode Problems"
   location         : "Pune, India"
   employer         :
   pubmed           : 

@@ -56,6 +56,18 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 </div>
 
 - Conducted equipment monitoring using software like Honeywell Forge and Bentley Nevada System
+- Conducted comprehensive MMM for a leading global pharmaceutical portfolio, supporting omnichannel strategy optimization across oncology, immunology, and neuroscience products
+---
+
+<div style="display:flex; align-items:center; gap:16px;">
+  <img src="./../images/hpcl-logo.png" width="70" height="70" alt="ZS logo">
+  <div>
+    <strong>ZS Associates</strong><br>
+    <small> Data Analyst | Feb 2025 - Present | Pune, Maharashtra, India</small>
+  </div>
+</div>
+
+- Conducted equipment monitoring using software like Honeywell Forge and Bentley Nevada System
 ---
 
 ## Education

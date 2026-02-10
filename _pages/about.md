@@ -119,9 +119,10 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 ## Licenses & Certifications
 
 ### Databricks Certified Data Engineer Associate
+
 | <img src="./../images/databricks-logo.png" width="70" height="70"> | **Databricks** | **Issued:** November 2025 | **Expires:** November 2027 |
-| **Credential ID:** 166205453 | **Skills:** SQL, PySpark, Spark SQL |
-| [View Credential](https://credentials.databricks.com/e5dcc7f5-3a30-4c67-926a-6ec0285b5604#acc.05d2JjUw) | |
+|---|---|---|---|
+| **Credential ID:** 166205453 | **Skills:** SQL, PySpark, Spark SQL | [View Credential](https://credentials.databricks.com/e5dcc7f5-3a30-4c67-926a-6ec0285b5604#acc.05d2JjUw) |  |
 
 ---
 

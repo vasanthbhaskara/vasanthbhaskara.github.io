@@ -119,42 +119,32 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 ## Licenses & Certifications
 
 ### Databricks Certified Data Engineer Associate
-| <img src="./../images/databricks-logo.png" width="70" height="70"> | **Databricks** |
-|---|---|
-| **Issued:** November 2025 | **Expires:** November 2027 |
+| <img src="./../images/databricks-logo.png" width="70" height="70"> | **Databricks** | **Issued:** November 2025 | **Expires:** November 2027 |
 | **Credential ID:** 166205453 | **Skills:** SQL, PySpark, Spark SQL |
 | [View Credential](https://credentials.databricks.com/e5dcc7f5-3a30-4c67-926a-6ec0285b5604#acc.05d2JjUw) | |
 
 ---
 
 ### Advanced Learning Algorithms
-| <img src="./../images/deeplearning-ai-logo.jpeg" width="70" height="70"> | **DeepLearning.AI** |
-|---|---|
-| **Issued:** July 2025 | **Skills:** Deep Learning · Neural Networks · TensorFlow · Text Classification · Performance Tuning · Decision Trees · Gradient Boosting · Random Forest · XGBoost |
+| <img src="./../images/deeplearning-ai-logo.jpeg" width="70" height="70"> | **DeepLearning.AI** | **Issued:** July 2025 | **Skills:** Deep Learning · Neural Networks · TensorFlow · Text Classification · Performance Tuning · Decision Trees · Gradient Boosting · Random Forest · XGBoost |
 | **Credential ID:** AS6WZ79ABLIF | [View Credential](https://coursera.org/share/636609f2e33f83527d5961a28cc07019) |
 
 ---
 
 ### Supervised Machine Learning: Regression and Classification
-| <img src="./../images/deeplearning-ai-logo.jpeg" width="70" height="70"> | **DeepLearning.AI** |
-|---|---|
-| **Issued:** April 2024 | **Skills:** Machine Learning · Classification · Machine Learning Algorithms |
+| <img src="./../images/deeplearning-ai-logo.jpeg" width="70" height="70"> | **DeepLearning.AI** | **Issued:** April 2024 | **Skills:** Machine Learning · Classification · Machine Learning Algorithms |
 | [View Credential](https://www.coursera.org/account/accomplishments/verify/5JB4LEDS2PLK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) | |
 
 ---
 
 ### Python (Basic) Certification
-| <img src="./../images/hackerrank-logo.png" width="70" height="70"> | **HackerRank** |
-|---|---|
-| **Issued:** October 2023 | **Credential ID:** 32E7780D782E |
+| <img src="./../images/hackerrank-logo.png" width="70" height="70"> | **HackerRank** | **Issued:** October 2023 | **Credential ID:** 32E7780D782E |
 | **Skills:** Python (Programming Language) | [View Credential](https://www.hackerrank.com/certificates/32e7780d782e) |
 
 ---
 
 ### SQL (Basic) Certification
-| <img src="./../images/hackerrank-logo.png" width="70" height="70"> | **HackerRank** |
-|---|---|
-| **Issued:** October 2023 | **Credential ID:** D45E82C5C8B8 |
+| <img src="./../images/hackerrank-logo.png" width="70" height="70"> | **HackerRank** | **Issued:** October 2023 | **Credential ID:** D45E82C5C8B8 |
 | **Skills:** SQL | [View Credential](https://www.hackerrank.com/certificates/d45e82c5c8b8) |
 
 ---

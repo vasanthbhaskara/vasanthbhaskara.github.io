@@ -32,12 +32,11 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 
 ---
 ## Experience
-### Data Analyst @ ZS
 <div style="display:flex; align-items:center; gap:16px;">
   <img src="./../images/zs-logo.svg" width="70" height="70" alt="ZS logo">
   <div>
-    <strong>Data Analyst @ ZS</strong><br>
-    <small>Feb 2025 - Present | Pune, Maharashtra, India</small>
+    <strong>ZS Associates</strong><br>
+    <small>Role: Data Analyst | Feb 2025 - Present | Pune, Maharashtra, India</small>
   </div>
 </div>
 
@@ -48,16 +47,15 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 - Won 1st place in ZS's internal case competition by applying t-SNE and K-Means clustering to segment Healthcare Professionals (HCPs) and design targeted engagement strategies
 
 ---
-
-### Condition Monitoring Engineer
 <div style="display:flex; align-items:center; gap:16px;">
   <img src="./../images/hpcl-logo.png" width="70" height="70" alt="HPCL logo">
   <div>
     <strong>Hindustan Petroleum (HP)</strong><br>
-    <small>Visakhapatnam, AP</small>
+    <small>Engineer | Aug 2024 - Feb 2025 | Visakhapatnam, AP, India</small>
   </div>
 </div>
-- Conducted equipment monitoring using software like Honeywell Forge and Bentley Nevada System
+
+ - Conducted equipment monitoring using software like Honeywell Forge and Bentley Nevada System
 ---
 
 ## Education

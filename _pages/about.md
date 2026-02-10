@@ -36,7 +36,7 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
   <img src="./../images/zs-logo.svg" width="70" height="70" alt="ZS logo">
   <div>
     <strong>ZS Associates</strong><br>
-    <small>Role: Data Analyst | Feb 2025 - Present | Pune, Maharashtra, India</small>
+    <small> Data Analyst | Feb 2025 - Present | Pune, Maharashtra, India</small>
   </div>
 </div>
 

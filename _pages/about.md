@@ -57,7 +57,6 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
     <small>Visakhapatnam, AP</small>
   </div>
 </div>
-
 - Conducted equipment monitoring using software like Honeywell Forge and Bentley Nevada System
 ---
 

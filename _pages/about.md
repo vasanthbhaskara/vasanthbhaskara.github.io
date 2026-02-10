@@ -55,7 +55,7 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
   </div>
 </div>
 
- - Conducted equipment monitoring using software like Honeywell Forge and Bentley Nevada System
+- Conducted equipment monitoring using software like Honeywell Forge and Bentley Nevada System
 ---
 
 ## Education

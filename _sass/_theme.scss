@@ -7,67 +7,75 @@
   --primary-color: #667eea;
   --secondary-color: #764ba2;
   --bg-light: #ffffff;
-  --bg-dark: #1a1a2e;
-  --text-light: #34495e;
-  --text-dark: #ecf0f1;
+  --bg-dark: #0a0a0a;
+  --bg-card-dark: #1a1a2e;
+  --text-light: #2c3e50;
+  --text-dark: #f5f5f7;
   --border-color: rgba(0, 0, 0, 0.1);
-}
-
-html {
-  transition: filter 0.5s ease;
+  --border-color-dark: rgba(255, 255, 255, 0.08);
 }
 
 html[data-theme="dark"] {
-  filter: invert(1) hue-rotate(180deg);
+  --primary-color: #7c8cfd;
+  --secondary-color: #8b5cf6;
+  --bg-light: #0a0a0a;
+  --bg-card-dark: #1f1f3a;
+  --text-light: #f5f5f7;
+  --border-color: rgba(255, 255, 255, 0.08);
 }
 
-html[data-theme="dark"] *:not(img):not(video) {
-  background-color: inherit;
-  color: inherit;
+html {
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 /* Smooth transitions for dark mode */
 body {
-  transition: background-color 0.5s ease, color 0.5s ease;
+  background-color: var(--bg-light);
+  color: var(--text-light);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html[data-theme="dark"] body {
+  background-color: var(--bg-light);
+  color: var(--text-light);
 }
 
 .page__content {
-  background: white;
-  border-radius: 12px;
+  background: var(--bg-light);
+  border-radius: 16px;
   padding: 2rem;
   transition: all 0.3s ease;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   margin: 20px 0;
+  color: var(--text-light);
 
   @media (prefers-reduced-motion: no-preference) {
     animation: fadeIn 0.6s ease-out;
   }
 }
 
+html[data-theme="dark"] .page__content {
+  background: var(--bg-card-dark);
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.05);
+}
+
 /* Main content wrapper background */
 .page__inner {
-  background: white;
+  background: transparent;
   padding: 0;
   margin: 0;
+  color: var(--text-light);
 }
 
 /* Enhanced accessibility for focus states */
 *:focus-visible {
-  outline: 3px solid #667eea;
+  outline: 3px solid var(--primary-color);
   outline-offset: 2px;
 }
 
 /* Smooth color transitions */
 a, button, .btn, label {
   transition: all 0.3s ease;
-}
-
-/* Gradient text for headings */
-h1, h2, h3 {
-  background: var(--primary-gradient);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
 }
 
 /* Enhanced form styling */
@@ -77,11 +85,25 @@ input, textarea, select {
   padding: 0.75rem 1rem;
   background: white;
   border: 1px solid #e0e0e0;
+  color: #2c3e50;
 
   &:focus {
     box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
     border-color: #667eea;
     background: white;
+  }
+}
+
+html[data-theme="dark"] input,
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] select {
+  background: #2a2a3e;
+  border-color: rgba(255, 255, 255, 0.1);
+  color: #f5f5f7;
+
+  &:focus {
+    box-shadow: 0 0 0 3px rgba(124, 140, 253, 0.2);
+    border-color: #7c8cfd;
   }
 }
 

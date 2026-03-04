@@ -8,17 +8,26 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   position: relative;
   background: white;
-  border-radius: 8px;
-  padding: 16px;
+  border-radius: 12px;
+  padding: 20px;
   border: 1px solid rgba(0, 0, 0, 0.05);
 
   &:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(102, 126, 234, 0.15);
+    transform: translateY(-6px);
+    box-shadow: 0 12px 32px rgba(102, 126, 234, 0.18);
 
     .archive__item-title {
       color: #667eea;
     }
+  }
+}
+
+html[data-theme="dark"] .archive__item {
+  background: #1f1f3a;
+  border-color: rgba(255, 255, 255, 0.08);
+
+  &:hover {
+    box-shadow: 0 12px 32px rgba(124, 140, 253, 0.25);
   }
 }
 
@@ -52,13 +61,15 @@ a {
 .btn {
   position: relative;
   overflow: hidden;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.25);
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.3);
   font-weight: 600;
-  border-radius: 8px;
+  border-radius: 12px;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   border: none;
+  letter-spacing: 0.5px;
+  padding: 12px 32px;
 
   &::before {
     content: '';
@@ -74,8 +85,8 @@ a {
   }
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(102, 126, 234, 0.4);
+    transform: translateY(-3px);
+    box-shadow: 0 12px 28px rgba(102, 126, 234, 0.45);
 
     &::before {
       width: 300px;
@@ -84,7 +95,7 @@ a {
   }
 
   &:active {
-    transform: translateY(0);
+    transform: translateY(-1px);
   }
 }
 
@@ -149,15 +160,16 @@ ul, ol {
 
 /* Code blocks with better styling */
 pre {
-  border-radius: 8px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
-  background: #1a1a2e;
+  border-radius: 12px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+  background: #0a0a0a;
   transition: all 0.3s ease;
   overflow: auto;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 20px;
 
   &:hover {
-    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.2);
   }
 }
 
@@ -190,8 +202,8 @@ blockquote {
 table {
   border-collapse: collapse;
   width: 100%;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  border-radius: 8px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
   overflow: hidden;
   background: white;
 
@@ -205,14 +217,30 @@ table {
       transition: background-color 0.2s ease;
 
       &:hover {
-        background-color: rgba(102, 126, 234, 0.05);
+        background-color: rgba(102, 126, 234, 0.08);
       }
     }
   }
 
   td, th {
-    border: 1px solid rgba(0, 0, 0, 0.05);
-    padding: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    padding: 16px;
+  }
+}
+
+html[data-theme="dark"] table {
+  background: #1f1f3a;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+
+  td, th {
+    border-color: rgba(255, 255, 255, 0.1);
+    color: #f5f5f7;
+  }
+
+  tbody tr {
+    &:hover {
+      background-color: rgba(124, 140, 253, 0.1);
+    }
   }
 }
 

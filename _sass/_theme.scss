@@ -1,0 +1,88 @@
+/* ==========================================================================
+   DARK MODE THEME
+   ========================================================================== */
+
+:root {
+  --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --primary-color: #667eea;
+  --secondary-color: #764ba2;
+  --bg-light: #f5f7fa;
+  --bg-dark: #1a1a2e;
+  --text-light: #34495e;
+  --text-dark: #ecf0f1;
+  --border-color: rgba(0, 0, 0, 0.1);
+}
+
+html {
+  transition: filter 0.5s ease;
+}
+
+html[data-theme="dark"] {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+html[data-theme="dark"] *:not(img):not(video) {
+  background-color: inherit;
+  color: inherit;
+}
+
+/* Smooth transitions for dark mode */
+body {
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.page__content {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 12px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+
+  @media (prefers-reduced-motion: no-preference) {
+    animation: fadeIn 0.6s ease-out;
+  }
+}
+
+/* Enhanced accessibility for focus states */
+*:focus-visible {
+  outline: 3px solid #667eea;
+  outline-offset: 2px;
+}
+
+/* Smooth color transitions */
+a, button, .btn, label {
+  transition: all 0.3s ease;
+}
+
+/* Gradient text for headings */
+h1, h2, h3 {
+  background: var(--primary-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Enhanced form styling */
+input, textarea, select {
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+
+  &:focus {
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+    border-color: #667eea;
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

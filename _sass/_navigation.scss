@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: transparent;
 
   a {
     display: block;
@@ -183,9 +183,26 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    position: relative;
+    transition: color 0.3s ease;
 
     &:hover {
       color: $masthead-link-color-hover;
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -5px;
+      height: 3px;
+      background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+      width: 0;
+      transition: width 0.3s ease;
+    }
+
+    &:hover:before {
+      width: 100%;
     }
   }
 
@@ -196,9 +213,16 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: #fff;
     cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+
+    &:hover {
+      box-shadow: 0 4px 16px rgba(102, 126, 234, 0.5);
+      transform: translateY(-2px);
+    }
   }
 
   .visible-links {
@@ -213,6 +237,10 @@
 
         a {
           margin-left: 0;
+
+          &:before {
+            display: none;
+          }
         }
       }
 
@@ -231,20 +259,14 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
-        width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
+        height: 3px;
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        width: 0;
+        transition: width 0.3s ease;
       }
 
       &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
+        width: 100%;
       }
     }
   }
@@ -255,19 +277,23 @@
     right: 0;
     margin-top: 15px;
     padding: 5px;
-    border: 1px solid $border-color;
+    border: 1px solid rgba($border-color, 0.2);
     border-radius: $border-radius;
-    background: #fff;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    background: rgba(#fff, 0.95);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px rgba(#000, 0.1);
+    animation: slideDown 0.3s ease-out;
 
     a {
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      transition: all 0.2s ease;
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+        transform: translateX(5px);
       }
     }
 
@@ -279,7 +305,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: $border-color transparent;
+      border-color: rgba($border-color, 0.2) transparent;
       display: block;
       z-index: 0;
     }
@@ -292,19 +318,46 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #fff transparent;
+      border-color: rgba(#fff, 0.95) transparent;
       display: block;
       z-index: 1;
     }
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 1px solid rgba($border-color, 0.1);
 
       &:last-child {
         border-bottom: none;
       }
     }
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Dark mode toggle styling */
+#dark-mode-toggle {
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-block;
+
+  &:hover {
+    transform: rotate(20deg) scale(1.1);
+    filter: drop-shadow(0 0 4px rgba(102, 126, 234, 0.5));
+  }
+
+  &.dark-mode-active {
+    filter: drop-shadow(0 0 6px rgba(255, 215, 0, 0.6));
   }
 }
 

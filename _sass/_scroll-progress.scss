@@ -1,0 +1,27 @@
+/* ==========================================================================
+   SCROLL PROGRESS BAR
+   ========================================================================== */
+
+.scroll-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+  width: 0%;
+  z-index: 999;
+  transition: width 0.2s ease-out;
+
+  &.active {
+    opacity: 1;
+  }
+}
+
+/* Adjust body padding for fixed navbar */
+body {
+  padding-top: 3.5rem;
+
+  @include breakpoint($medium) {
+    padding-top: 4rem;
+  }
+}

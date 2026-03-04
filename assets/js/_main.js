@@ -95,4 +95,54 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  // Scroll Progress Bar
+  var updateScrollProgress = function() {
+    var scrollTop = $(window).scrollTop();
+    var docHeight = $(document).height() - $(window).height();
+    var scrollPercent = (scrollTop / docHeight) * 100;
+    $(".scroll-progress-bar").css("width", scrollPercent + "%");
+  };
+
+  $(window).scroll(function() {
+    updateScrollProgress();
+  });
+
+  // Masthead scroll effect
+  $(window).scroll(function() {
+    if ($(window).scrollTop() > 50) {
+      $(".masthead").addClass("scrolled");
+    } else {
+      $(".masthead").removeClass("scrolled");
+    }
+  });
+
+  // Dark mode toggle
+  var darkModeToggle = document.getElementById("dark-mode-toggle");
+  if (darkModeToggle) {
+    // Check for saved preference or system preference
+    var currentTheme = localStorage.getItem("theme") ||
+      (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+
+    // Apply saved theme on page load
+    if (currentTheme === "dark") {
+      document.documentElement.setAttribute("data-theme", "dark");
+      darkModeToggle.classList.add("dark-mode-active");
+    }
+
+    // Toggle dark mode
+    darkModeToggle.addEventListener("click", function(e) {
+      e.preventDefault();
+      var theme = document.documentElement.getAttribute("data-theme");
+      if (theme === "dark") {
+        document.documentElement.removeAttribute("data-theme");
+        localStorage.setItem("theme", "light");
+        darkModeToggle.classList.remove("dark-mode-active");
+      } else {
+        document.documentElement.setAttribute("data-theme", "dark");
+        localStorage.setItem("theme", "dark");
+        darkModeToggle.classList.add("dark-mode-active");
+      }
+    });
+  }
+
 });

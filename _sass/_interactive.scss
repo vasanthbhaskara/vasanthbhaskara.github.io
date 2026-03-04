@@ -1,0 +1,246 @@
+/* ==========================================================================
+   INTERACTIVE ELEMENTS
+   ========================================================================== */
+
+/* Archive items with hover effects */
+.archive__item {
+  animation: fadeIn 0.6s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+
+    .archive__item-title {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+  }
+}
+
+.archive__item-title {
+  transition: all 0.3s ease;
+  font-weight: 600;
+}
+
+/* Links with gradient underline effect */
+a {
+  position: relative;
+  transition: color 0.3s ease;
+
+  &:not(.btn):not(.pagination__meta):not(.breadcrumbs) {
+    &:hover {
+      color: #667eea;
+    }
+  }
+}
+
+/* Page titles with elegant styling */
+.page__title {
+  animation: slideUp 0.6s ease;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+/* Enhanced buttons */
+.btn {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.25);
+  font-weight: 600;
+  border-radius: 8px;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: translate(-50%, -50%);
+    transition: width 0.6s, height 0.6s;
+  }
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(102, 126, 234, 0.4);
+
+    &::before {
+      width: 300px;
+      height: 300px;
+    }
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+/* Social icons with hover effects */
+.social-icons {
+  display: flex;
+  gap: 1rem;
+  animation: fadeIn 0.8s ease 0.4s both;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #fff;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+
+    &:hover {
+      transform: translateY(-4px) scale(1.1);
+      box-shadow: 0 8px 24px rgba(102, 126, 234, 0.5);
+    }
+  }
+}
+
+/* Cards with depth */
+.archive-wrap,
+.feature-row,
+.post-list {
+  animation: fadeIn 0.6s ease;
+}
+
+/* Author profile enhancements */
+.author__urls {
+  animation: fadeIn 0.6s ease;
+
+  .author__urls-wrapper {
+    transition: all 0.3s ease;
+  }
+
+  .author__name {
+    font-weight: 700;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+/* Enhanced lists */
+ul, ol {
+  li {
+    transition: all 0.2s ease;
+    padding: 0.25rem 0;
+
+    &:hover {
+      padding-left: 0.5rem;
+      color: #667eea;
+    }
+  }
+}
+
+/* Code blocks with better styling */
+pre {
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  transition: all 0.3s ease;
+  overflow: auto;
+
+  &:hover {
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
+  }
+}
+
+code {
+  font-family: 'Monaco', 'Courier New', monospace;
+  font-size: 0.875em;
+  padding: 0.2em 0.4em;
+  background: rgba(102, 126, 234, 0.1);
+  border-radius: 4px;
+  color: #667eea;
+  transition: all 0.2s ease;
+}
+
+/* Blockquotes with gradient left border */
+blockquote {
+  border-left: 4px solid;
+  border-image: linear-gradient(180deg, #667eea 0%, #764ba2 100%) 1;
+  padding-left: 1em;
+  margin-left: 0;
+  background: linear-gradient(90deg, rgba(102, 126, 234, 0.05) 0%, transparent 100%);
+  transition: all 0.3s ease;
+
+  &:hover {
+    padding-left: 1.5em;
+    background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 0%, transparent 100%);
+  }
+}
+
+/* Tables with enhanced styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  overflow: hidden;
+
+  thead {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+  }
+
+  tbody {
+    tr {
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background-color: rgba(102, 126, 234, 0.05);
+      }
+    }
+  }
+}
+
+/* Page content animations */
+.page__content {
+  > * {
+    animation: fadeIn 0.6s ease;
+  }
+
+  h2, h3 {
+    margin-top: 1.5em;
+    position: relative;
+    padding-bottom: 0.5em;
+
+    &:after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 3px;
+      background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+      transition: width 0.3s ease;
+    }
+
+    &:hover:after {
+      width: 40px;
+    }
+  }
+}
+
+/* Smooth fade in for delayed elements */
+.archive__item:nth-child(1) { animation-delay: 0.1s; }
+.archive__item:nth-child(2) { animation-delay: 0.2s; }
+.archive__item:nth-child(3) { animation-delay: 0.3s; }
+.archive__item:nth-child(4) { animation-delay: 0.4s; }
+.archive__item:nth-child(n+5) { animation-delay: 0.5s; }

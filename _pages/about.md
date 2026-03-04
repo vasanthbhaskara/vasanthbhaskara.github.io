@@ -56,6 +56,72 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 
 ---
 
+## Projects
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 24px; margin: 20px 0;">
+
+  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
+    <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
+      <div style="flex: 1;">
+        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">LSTM Based Real-time Music Generation Application</h4>
+        <p style="margin: 4px 0; color: #667eea; font-weight: 600; font-size: 0.9em;">Personal Project | Aug 2024 – Jan 2025</p>
+        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
+          Trained a character-level LSTM on ~800 songs with embedding, sequence batching, and softmax sampling to learn next-token probability distributions for symbolic music generation.
+        </p>
+        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
+          Deployed a Streamlit-based interactive inference system using pretrained weights with configurable generation parameters, real-time audio synthesis, and live web deployment.
+        </p>
+        <p style="margin: 12px 0 0 0; font-size: 0.9em;">
+          <strong>Tech Stack:</strong> <span style="color: #667eea;">PyTorch, LSTM, Streamlit, Python</span>
+        </p>
+        <div style="margin-top: 12px; display: flex; gap: 12px;">
+          <a href="https://huggingface.co/spaces/vasanth-bhaskara/AI-Music-Lab" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 8px 12px; background: rgba(102, 126, 234, 0.1); border-radius: 6px; transition: all 0.3s ease;" onmouseover="this.style.background='rgba(102, 126, 234, 0.2)'" onmouseout="this.style.background='rgba(102, 126, 234, 0.1)'">→ Live Demo</a>
+          <a href="https://github.com/vasanthbhaskara" style="color: #764ba2; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 8px 12px; background: rgba(118, 75, 162, 0.1); border-radius: 6px; transition: all 0.3s ease;" onmouseover="this.style.background='rgba(118, 75, 162, 0.2)'" onmouseout="this.style.background='rgba(118, 75, 162, 0.1)'">→ GitHub</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
+    <div style="display: flex; align-items: flex-start; gap: 20px;">
+      <div style="flex: 1;">
+        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Promotion Impact Estimation using Bayesian Regression</h4>
+        <p style="margin: 4px 0; color: #667eea; font-weight: 600; font-size: 0.9em;">Decision Analyst, ZS Associates | Dec 2025</p>
+        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
+          Built Bayesian regression models to quantify channel-level contribution across marketing channels for a rapidly growing J&J's immunology brand.
+        </p>
+        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
+          Delivered actionable insights enabling data-driven budget allocation, maximizing ROI and optimizing spend efficiency in competitive immunology markets.
+        </p>
+        <p style="margin: 12px 0 0 0; font-size: 0.9em;">
+          <strong>Tech Stack:</strong> <span style="color: #667eea;">Python, Bayesian Statistics, Pandas, Marketing Mix Modeling</span>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
+    <div style="display: flex; align-items: flex-start; gap: 20px;">
+      <div style="flex: 1;">
+        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">HealthCare Professionals Targeting & Segmentation</h4>
+        <p style="margin: 4px 0; color: #667eea; font-weight: 600; font-size: 0.9em;">Decision Analyst, ZS Associates | Feb 2025</p>
+        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
+          Segmented HCPs into high/mid/low deciles based on total prescriptions to identify priority targets for promotional detailing.
+        </p>
+        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
+          Applied unsupervised learning (t-SNE, K-Means) on multi-therapy prescribing vectors to identify behavioral segments and enable data-driven physician targeting strategy. Awarded 1st place in internal case competition.
+        </p>
+        <p style="margin: 12px 0 0 0; font-size: 0.9em;">
+          <strong>Tech Stack:</strong> <span style="color: #667eea;">Python, t-SNE, K-Means Clustering, Scikit-learn</span>
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
 ## Education
 <table>
   <tbody>

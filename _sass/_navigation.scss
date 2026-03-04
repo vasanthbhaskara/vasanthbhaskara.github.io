@@ -482,4 +482,28 @@
       display: block;
     }
   }
+
+  /* Dark mode toggle button */
+  #dark-mode-toggle {
+    color: #667eea;
+    transition: all 0.3s ease;
+
+    &:hover {
+      color: #764ba2;
+      transform: rotate(20deg) scale(1.1);
+    }
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  /* Dark theme icon color change */
+  html[data-theme="dark"] #dark-mode-toggle {
+    color: #7c8cfd;
+
+    &:hover {
+      color: #8b5cf6;
+    }
+  }
 }

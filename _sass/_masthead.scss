@@ -7,30 +7,30 @@
   top: 0;
   left: 0;
   right: 0;
-  border-bottom: 1px solid rgba($border-color, 0.08);
+  border-bottom: 1px solid rgba($border-color, 0.05);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background: rgba(255, 255, 255, 0.92);
-  backdrop-filter: blur(15px);
-  -webkit-backdrop-filter: blur(15px);
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.02);
   transition: all 0.3s ease-in-out;
 
   &.scrolled {
-    background: rgba(255, 255, 255, 0.95);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.85);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
   }
 
   html[data-theme="dark"] & {
-    background: rgba(10, 10, 10, 0.9);
-    border-bottom-color: rgba(255, 255, 255, 0.1);
+    background: rgba(10, 10, 10, 0.7);
+    border-bottom-color: rgba(255, 255, 255, 0.05);
 
     &.scrolled {
-      background: rgba(10, 10, 10, 0.95);
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+      background: rgba(10, 10, 10, 0.8);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
     }
   }
 

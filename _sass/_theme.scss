@@ -6,7 +6,7 @@
   --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   --primary-color: #667eea;
   --secondary-color: #764ba2;
-  --bg-light: #f5f7fa;
+  --bg-light: #ffffff;
   --bg-dark: #1a1a2e;
   --text-light: #34495e;
   --text-dark: #ecf0f1;
@@ -32,14 +32,23 @@ body {
 }
 
 .page__content {
-  background: rgba(255, 255, 255, 0.95);
+  background: white;
   border-radius: 12px;
   padding: 2rem;
   transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  margin: 20px 0;
 
   @media (prefers-reduced-motion: no-preference) {
     animation: fadeIn 0.6s ease-out;
   }
+}
+
+/* Main content wrapper background */
+.page__inner {
+  background: white;
+  padding: 0;
+  margin: 0;
 }
 
 /* Enhanced accessibility for focus states */
@@ -66,10 +75,13 @@ input, textarea, select {
   transition: all 0.3s ease;
   border-radius: 8px;
   padding: 0.75rem 1rem;
+  background: white;
+  border: 1px solid #e0e0e0;
 
   &:focus {
     box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
     border-color: #667eea;
+    background: white;
   }
 }
 

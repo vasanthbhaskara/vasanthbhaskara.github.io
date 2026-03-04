@@ -115,45 +115,94 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 
 ## Licenses & Certifications
 
-### Databricks Certified Data Engineer Associate
+<div style="display: grid; grid-template-columns: 1fr; gap: 24px; margin: 20px 0;">
 
-| <img src="./../images/databricks-logo.png" width="70" height="70"> | **Databricks** | **Issued:** November 2025 | **Expires:** November 2027 |
-|---|---|---|---|
-| **Credential ID:** 166205453 | **Skills:** SQL, PySpark, Spark SQL | [View Credential](https://credentials.databricks.com/e5dcc7f5-3a30-4c67-926a-6ec0285b5604#acc.05d2JjUw) |  |
+  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
+    <div style="display: flex; align-items: flex-start; gap: 20px;">
+      <img src="./../images/databricks-logo.png" width="60" height="60" style="flex-shrink: 0;">
+      <div style="flex: 1;">
+        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Databricks Certified Data Engineer Associate</h4>
+        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">Databricks</p>
+        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
+          <strong>Issued:</strong> November 2025 | <strong>Expires:</strong> November 2027
+        </p>
+        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
+          <strong>Credential ID:</strong> 166205453 | <strong>Skills:</strong> SQL, PySpark, Spark SQL
+        </p>
+        <a href="https://credentials.databricks.com/e5dcc7f5-3a30-4c67-926a-6ec0285b5604#acc.05d2JjUw" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
+      </div>
+    </div>
+  </div>
 
----
+  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
+    <div style="display: flex; align-items: flex-start; gap: 20px;">
+      <img src="./../images/deeplearning-ai-logo.jpeg" width="60" height="60" style="flex-shrink: 0;">
+      <div style="flex: 1;">
+        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Advanced Learning Algorithms</h4>
+        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">DeepLearning.AI</p>
+        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
+          <strong>Issued:</strong> July 2025
+        </p>
+        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
+          <strong>Credential ID:</strong> AS6WZ79ABLIF | <strong>Skills:</strong> Deep Learning, Neural Networks, TensorFlow, XGBoost
+        </p>
+        <a href="https://coursera.org/share/636609f2e33f83527d5961a28cc07019" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
+      </div>
+    </div>
+  </div>
 
-### Advanced Learning Algorithms
+  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
+    <div style="display: flex; align-items: flex-start; gap: 20px;">
+      <img src="./../images/deeplearning-ai-logo.jpeg" width="60" height="60" style="flex-shrink: 0;">
+      <div style="flex: 1;">
+        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Supervised Machine Learning: Regression and Classification</h4>
+        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">DeepLearning.AI</p>
+        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
+          <strong>Issued:</strong> April 2024
+        </p>
+        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
+          <strong>Skills:</strong> Machine Learning, Classification, Regression Algorithms
+        </p>
+        <a href="https://www.coursera.org/account/accomplishments/verify/5JB4LEDS2PLK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
+      </div>
+    </div>
+  </div>
 
-| <img src="./../images/deeplearning-ai-logo.jpeg" width="70" height="70"> | **DeepLearning.AI** | **Issued:** July 2025 | **Skills:** Deep Learning · Neural Networks · TensorFlow · Text Classification · Performance Tuning · Decision Trees · Gradient Boosting · Random Forest · XGBoost |
-|---|---|---|---|
-| **Credential ID:** AS6WZ79ABLIF | [View Credential](https://coursera.org/share/636609f2e33f83527d5961a28cc07019) |  |  |
+  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
+    <div style="display: flex; align-items: flex-start; gap: 20px;">
+      <img src="./../images/hackerrank-logo.png" width="60" height="60" style="flex-shrink: 0;">
+      <div style="flex: 1;">
+        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Python (Basic) Certification</h4>
+        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">HackerRank</p>
+        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
+          <strong>Issued:</strong> October 2023
+        </p>
+        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
+          <strong>Credential ID:</strong> 32E7780D782E | <strong>Skills:</strong> Python Programming
+        </p>
+        <a href="https://www.hackerrank.com/certificates/32e7780d782e" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
+      </div>
+    </div>
+  </div>
 
----
+  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
+    <div style="display: flex; align-items: flex-start; gap: 20px;">
+      <img src="./../images/hackerrank-logo.png" width="60" height="60" style="flex-shrink: 0;">
+      <div style="flex: 1;">
+        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">SQL (Basic) Certification</h4>
+        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">HackerRank</p>
+        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
+          <strong>Issued:</strong> October 2023
+        </p>
+        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
+          <strong>Credential ID:</strong> D45E82C5C8B8 | <strong>Skills:</strong> SQL
+        </p>
+        <a href="https://www.hackerrank.com/certificates/d45e82c5c8b8" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
+      </div>
+    </div>
+  </div>
 
-### Supervised Machine Learning: Regression and Classification
-
-| <img src="./../images/deeplearning-ai-logo.jpeg" width="70" height="70"> | **DeepLearning.AI** | **Issued:** April 2024 | **Skills:** Machine Learning · Classification · Machine Learning Algorithms |
-|---|---|---|---|
-| [View Credential](https://www.coursera.org/account/accomplishments/verify/5JB4LEDS2PLK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) |  |  |  |
-
----
-
-### Python (Basic) Certification
-
-| <img src="./../images/hackerrank-logo.png" width="70" height="70"> | **HackerRank** | **Issued:** October 2023 | **Credential ID:** 32E7780D782E |
-|---|---|---|---|
-| **Skills:** Python (Programming Language) | [View Credential](https://www.hackerrank.com/certificates/32e7780d782e) |  |  |
-
----
-
-### SQL (Basic) Certification
-
-| <img src="./../images/hackerrank-logo.png" width="70" height="70"> | **HackerRank** | **Issued:** October 2023 | **Credential ID:** D45E82C5C8B8 |
-|---|---|---|---|
-| **Skills:** SQL | [View Credential](https://www.hackerrank.com/certificates/d45e82c5c8b8) |  |  |
-
----
+</div>
 
 ## Skills
 
@@ -164,3 +213,9 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 - **Machine Learning**: Supervised Learning, Regression, Classification, XGBoost, Deep Learning, TensorFlow
 - **Tools & IDEs**: VS Code, Jupyter Notebook, Sublime Text, Excel, SAP (MM/PM modules)
 - **Business Tools**: Marketing Mix Modeling, Feature Engineering, Statistical Analysis, Data Visualization
+
+---
+
+<small style="color: #7f8c8d; text-align: center; display: block; margin-top: 40px;">
+  <i>Last updated: March 4, 2026</i>
+</small>

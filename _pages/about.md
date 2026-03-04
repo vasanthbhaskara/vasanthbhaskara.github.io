@@ -75,8 +75,8 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
           <strong>Tech Stack:</strong> <span style="color: #667eea;">PyTorch, LSTM, Streamlit, Python</span>
         </p>
         <div style="margin-top: 12px; display: flex; gap: 12px;">
-          <a href="https://huggingface.co/spaces/vasanth-bhaskara/AI-Music-Lab" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 8px 12px; background: rgba(102, 126, 234, 0.1); border-radius: 6px; transition: all 0.3s ease;" onmouseover="this.style.background='rgba(102, 126, 234, 0.2)'" onmouseout="this.style.background='rgba(102, 126, 234, 0.1)'">→ Live Demo</a>
-          <a href="https://github.com/vasanthbhaskara" style="color: #764ba2; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 8px 12px; background: rgba(118, 75, 162, 0.1); border-radius: 6px; transition: all 0.3s ease;" onmouseover="this.style.background='rgba(118, 75, 162, 0.2)'" onmouseout="this.style.background='rgba(118, 75, 162, 0.1)'">→ GitHub</a>
+          <a href="https://ai-music-lab.streamlit.app/" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 8px 12px; background: rgba(102, 126, 234, 0.1); border-radius: 6px; transition: all 0.3s ease;" onmouseover="this.style.background='rgba(102, 126, 234, 0.2)'" onmouseout="this.style.background='rgba(102, 126, 234, 0.1)'">→ Live Demo</a>
+          <a href="https://github.com/vasanthbhaskara/ai-music-composer" style="color: #764ba2; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 8px 12px; background: rgba(118, 75, 162, 0.1); border-radius: 6px; transition: all 0.3s ease;" onmouseover="this.style.background='rgba(118, 75, 162, 0.2)'" onmouseout="this.style.background='rgba(118, 75, 162, 0.1)'">→ GitHub</a>
         </div>
       </div>
     </div>

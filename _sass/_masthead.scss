@@ -13,14 +13,14 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background: rgba(255, 255, 255, 0.58);
+  background: rgba(255, 255, 255, 0.20);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   box-shadow: 0 1px 8px rgba(0, 0, 0, 0.02);
   transition: all 0.3s ease-in-out;
 
   &.scrolled {
-    background: rgba(255, 255, 255, 0.68);
+    background: rgba(255, 255, 255, 0.20);
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
   }
 

@@ -13,7 +13,6 @@ header:
 
 <section class="hero-grid">
   <div class="hero-copy">
-    <p class="hero-lead">Data Analyst at <strong>ZS</strong> with a background spanning analytics, engineering, and applied machine learning.</p>
     <p>I bring a strong foundation in <strong>mathematics, computational problem-solving, engineering, and business acumen</strong>, developed at NIT Calicut and sharpened through work on data-intensive business problems.</p>
     <p>At <a href="https://www.zs.com/">ZS</a>, I work on high-impact commercial analytics in healthcare and pharmaceuticals, with experience in marketing mix modeling, feature engineering, regression workflows, and patient-level analysis. Before that, at <a href="https://www.hindustanpetroleum.com/">Hindustan Petroleum</a>, I worked on condition monitoring systems, refinery reliability workflows, and engineering operations support at the Visakh Refinery.</p>
     <p>I recently earned the <strong>Databricks Certified Data Engineer Associate</strong> certification and continue building depth in Spark, distributed data systems, and decision-focused analytics.</p>

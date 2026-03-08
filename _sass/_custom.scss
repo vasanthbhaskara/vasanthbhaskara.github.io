@@ -78,6 +78,21 @@
   align-items: center;
 }
 
+.greedy-nav .visible-links .masthead__menu-item--theme #myInverter {
+  position: static;
+  right: auto;
+  height: 2.25rem;
+  margin: 0 0 0 0.75rem;
+  box-shadow: none;
+  background: #fff;
+}
+
+.greedy-nav .visible-links .masthead__menu-item--theme #myInverter:hover {
+  transform: none;
+  box-shadow: none;
+  background: #f3f3f3;
+}
+
 /* ==========================================================================
    SUPPRESS INTRO ANIMATIONS ON INTERNAL NAVIGATION
    ========================================================================== */
@@ -151,12 +166,6 @@
   padding: 1.4rem 1.5rem;
 }
 
-.hero-lead {
-  font-size: 1.1rem;
-  font-weight: 700;
-  margin-bottom: 0.85rem !important;
-}
-
 .brand-stack {
   display: grid;
   gap: 1rem;
@@ -166,8 +175,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 130px;
-  padding: 1.25rem;
+  min-height: 102px;
+  padding: 0.9rem;
   border: 1px solid #ececf2;
   border-radius: 14px;
   background: #fff;
@@ -175,7 +184,7 @@
 }
 
 .brand-card img {
-  max-width: 100%;
+  max-width: 78%;
   height: auto;
 }
 

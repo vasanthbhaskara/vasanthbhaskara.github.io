@@ -11,281 +11,209 @@ header:
   preview_card_image: profile_pic.jpg
 ---
 
-<table>
-  <tbody>
-    <tr>
-      <td style="vertical-align: top;">
-        I bring a strong foundation in <strong>Mathematics, Computational Skills, Engineering, and Business Acumen</strong>, developed during my undergraduate studies at NIT Calicut and refined through professional experience at leading organizations.<br><br>
-        Currently, I work at <a href="https://www.zs.com/">ZS</a>, where I solve high-impact business problems in the digital customer experience space for pharmaceutical and healthcare clients. My work spans marketing mix modeling, feature engineering, regression modeling, and patient-level analytics to support strategic decisions with data.<br><br>
-        Before that, I worked at <a href="https://www.hindustanpetroleum.com/">Hindustan Petroleum</a> as a Condition Monitoring Engineer at the Visakh Refinery. I built AI-driven predictive maintenance tools, maintenance dashboards, and supported procurement operations across the oil and gas value chain.<br><br>
-        I recently earned the <strong>Databricks Certified Data Engineer Associate</strong> certification, and I work extensively with Spark, Delta Lake, Python, SQL, and large-scale data workflows.
-      </td>
-      <td>&nbsp;&nbsp;&nbsp;</td>
-      <td style="text-align: right; vertical-align: top;">
-        <a href="https://www.zs.com/"><img src="./../images/zs-logo.svg" width="280" height="auto" alt="ZS logo"></a><br><br>
-        <a href="https://www.hindustanpetroleum.com/"><img src="./../images/hpcl-logo.png" width="180" height="auto" alt="HPCL logo"></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<section class="hero-grid">
+  <div class="hero-copy">
+    <p class="hero-lead">Data Analyst at <strong>ZS</strong> with a background spanning analytics, engineering, and applied machine learning.</p>
+    <p>I bring a strong foundation in <strong>mathematics, computational problem-solving, engineering, and business acumen</strong>, developed at NIT Calicut and sharpened through work on data-intensive business problems.</p>
+    <p>At <a href="https://www.zs.com/">ZS</a>, I work on high-impact commercial analytics in healthcare and pharmaceuticals, with experience in marketing mix modeling, feature engineering, regression workflows, and patient-level analysis. Before that, at <a href="https://www.hindustanpetroleum.com/">Hindustan Petroleum</a>, I worked on refinery reliability, predictive maintenance, and engineering dashboards.</p>
+    <p>I recently earned the <strong>Databricks Certified Data Engineer Associate</strong> certification and continue building depth in Spark, distributed data systems, and decision-focused analytics.</p>
+    <p><strong>Contact</strong>: <code style="color: #000000; background: #ffffff;"><strong>vasanthsbhaskara [at] gmail [dot] com</strong></code></p>
+  </div>
+  <div class="brand-stack">
+    <a class="brand-card" href="https://www.zs.com/">
+      <img src="./../images/zs-logo.svg" alt="ZS logo">
+    </a>
+    <a class="brand-card" href="https://www.hindustanpetroleum.com/">
+      <img src="./../images/hpcl-logo.png" alt="HPCL logo">
+    </a>
+  </div>
+</section>
 
 <div class="news-flash">
   <div class="news-header">
     <strong class="news-badge"><span class="star">★</span> NEWS</strong>
   </div>
   <ul class="news-list">
-    <li><strong>Nov 2025</strong> - Passed the Databricks Certified Data Engineer Associate exam.</li>
-    <li><strong>Feb 2025</strong> - Joined ZS as a Data Analyst in Pune.</li>
+    <li><strong>November 2025</strong> - Passed the Databricks Certified Data Engineer Associate exam.</li>
+    <li><strong>February 2025</strong> - Joined ZS as a Data Analyst in Pune.</li>
   </ul>
 </div>
 
-<strong>Contact</strong>: <code style="color: #000000; background: #ffffff;"><strong>vasanthsbhaskara [at] gmail [dot] com</strong></code>
-
 ## Experience
 
-<table>
-  <tbody>
-    <tr>
-      <td style="text-align: left; vertical-align: top;"><strong>Data Analyst</strong></td>
-      <td rowspan="4" style="text-align: center;"><img src="./../images/zs-logo.svg" width="70" height="70" alt="ZS logo"></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: top;"><strong><a href="https://www.zs.com/">ZS Associates</a></strong></td>
-      <td>&nbsp;</td>
-      <td style="text-align: right; vertical-align: top;">Feb 2025 - Present</td>
-    </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: top;">Pune, Maharashtra, India</td>
-      <td>&nbsp;</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: top;">Marketing Mix Modeling, regression, feature engineering, PLD analysis, segmentation</td>
-      <td>&nbsp;</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        Led comprehensive MMM work for a global pharmaceutical portfolio across oncology, immunology, and neuroscience brands.<br>
-        Engineered adstock, normalization, and log-transformed features and built linear and Bayesian regression models in Python.<br>
-        Analyzed patient-level referral patterns and sales force activity to surface key commercial drivers.<br>
-        Won first place in ZS's internal case competition using t-SNE and K-Means based HCP segmentation.
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3">&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: top;"><strong>Engineer</strong></td>
-      <td rowspan="4" style="text-align: center;"><img src="./../images/hpcl-logo.png" width="70" height="70" alt="HPCL logo"></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: top;"><strong><a href="https://www.hindustanpetroleum.com/">Hindustan Petroleum</a></strong></td>
-      <td>&nbsp;</td>
-      <td style="text-align: right; vertical-align: top;">Aug 2024 - Feb 2025</td>
-    </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: top;">Visakhapatnam, Andhra Pradesh, India</td>
-      <td>&nbsp;</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: top;">Condition monitoring, predictive maintenance, dashboards, procurement support</td>
-      <td>&nbsp;</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        Worked with Honeywell Forge and Bentley Nevada systems for equipment monitoring and maintenance reliability.<br>
-        Built AI-enabled maintenance tools and dashboards to reduce downtime and improve compliance tracking.
-      </td>
-    </tr>
-  </tbody>
-</table>
+<section class="stack-grid">
+  <article class="resume-card">
+    <div class="resume-card__header">
+      <div>
+        <h3>Data Analyst</h3>
+        <p class="resume-card__org"><a href="https://www.zs.com/">ZS Associates</a></p>
+      </div>
+      <img src="./../images/zs-logo.svg" width="64" height="64" alt="ZS logo">
+    </div>
+    <p class="resume-card__meta">Pune, Maharashtra, India | February 2025 - Present</p>
+    <ul class="clean-list">
+      <li>Led marketing mix modeling work for a global pharmaceutical portfolio across oncology, immunology, and neuroscience brands.</li>
+      <li>Engineered adstock, normalization, and log-transformed features and built linear and Bayesian regression models in Python.</li>
+      <li>Analyzed patient-level referral behavior and sales-force activity to identify key commercial drivers.</li>
+      <li>Won first place in an internal case competition using t-SNE and K-Means based HCP segmentation.</li>
+    </ul>
+  </article>
+
+  <article class="resume-card">
+    <div class="resume-card__header">
+      <div>
+        <h3>Engineer</h3>
+        <p class="resume-card__org"><a href="https://www.hindustanpetroleum.com/">Hindustan Petroleum</a></p>
+      </div>
+      <img src="./../images/hpcl-logo.png" width="64" height="64" alt="HPCL logo">
+    </div>
+    <p class="resume-card__meta">Visakhapatnam, Andhra Pradesh, India | August 2024 - February 2025</p>
+    <ul class="clean-list">
+      <li>Worked with Honeywell Forge and Bentley Nevada systems for refinery equipment monitoring and maintenance reliability.</li>
+      <li>Built AI-enabled maintenance tools and dashboards to reduce downtime and improve compliance tracking.</li>
+      <li>Supported engineering operations across predictive maintenance and procurement workflows.</li>
+    </ul>
+  </article>
+</section>
 
 ## Projects
 
-<table id="project-table">
-  <tbody>
-    <tr>
-      <td style="text-align: left; vertical-align: middle;"><b>1.</b></td>
-      <td style="text-align: left; vertical-align: middle;">
-        <b>LSTM Based Real-time Music Generation Application</b><br>
-        <small>Personal Project | Aug 2024 - Jan 2025</small><br><br>
-        Trained a character-level LSTM on roughly 800 songs with embedding, sequence batching, and softmax sampling to learn next-token probability distributions for symbolic music generation.<br><br>
-        Deployed a Streamlit inference app with configurable generation controls, pretrained weights, and real-time audio synthesis.<br><br>
-        <small><strong>Tech Stack:</strong> PyTorch, LSTM, Streamlit, Python</small><br>
-        <a class="btn btn--primary" target="_blank" href="https://ai-music-lab.streamlit.app/" role="button" style="text-decoration:none">Live Demo</a>
-        <a class="btn btn--secondary" target="_blank" href="https://github.com/vasanthbhaskara/ai-music-composer" role="button" style="text-decoration:none">Github</a>
-      </td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: middle;"><b>2.</b></td>
-      <td style="text-align: left; vertical-align: middle;">
-        <b>Promotion Impact Estimation using Bayesian Regression</b><br>
-        <small>ZS Associates | Dec 2025</small><br><br>
-        Built Bayesian regression models to estimate channel-level promotional contribution for a rapidly growing immunology brand.<br><br>
-        Delivered budget-allocation insights that improved marketing ROI and spending efficiency.<br><br>
-        <small><strong>Tech Stack:</strong> Python, Bayesian Statistics, Pandas, Marketing Mix Modeling</small>
-      </td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="text-align: left; vertical-align: middle;"><b>3.</b></td>
-      <td style="text-align: left; vertical-align: middle;">
-        <b>Healthcare Professional Targeting and Segmentation</b><br>
-        <small>ZS Associates | Feb 2025</small><br><br>
-        Segmented physicians into priority cohorts using prescribing behavior and total prescription volume.<br><br>
-        Applied t-SNE and K-Means on multi-therapy prescribing vectors to design a data-driven physician targeting strategy that won first place in an internal case competition.<br><br>
-        <small><strong>Tech Stack:</strong> Python, t-SNE, K-Means, Scikit-learn</small>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<section class="stack-grid">
+  <article class="project-card">
+    <h3>LSTM Based Real-time Music Generation Application</h3>
+    <p class="project-card__meta">Personal Project | August 2024 - January 2025</p>
+    <p>Trained a character-level LSTM on roughly 800 songs with embedding, sequence batching, and softmax sampling to model next-token probability distributions for symbolic music generation.</p>
+    <p>Built and deployed a Streamlit inference app with configurable generation controls, pretrained weights, and real-time audio synthesis.</p>
+    <p><strong>Tech Stack:</strong> PyTorch, LSTM, Streamlit, Python</p>
+    <div class="button-row">
+      <a class="btn btn--primary" target="_blank" href="https://ai-music-lab.streamlit.app/" role="button" style="text-decoration:none">Live Demo</a>
+      <a class="btn btn--secondary" target="_blank" href="https://github.com/vasanthbhaskara/ai-music-composer" role="button" style="text-decoration:none">Github</a>
+    </div>
+  </article>
+
+  <article class="project-card">
+    <h3>Promotion Impact Estimation using Bayesian Regression</h3>
+    <p class="project-card__meta">ZS Associates | December 2025</p>
+    <p>Built Bayesian regression models to estimate channel-level promotional contribution for a rapidly growing immunology brand.</p>
+    <p>Delivered budget allocation insights that improved marketing ROI and overall spending efficiency.</p>
+    <p><strong>Tech Stack:</strong> Python, Bayesian Statistics, Pandas, Marketing Mix Modeling</p>
+  </article>
+
+  <article class="project-card">
+    <h3>Healthcare Professional Targeting and Segmentation</h3>
+    <p class="project-card__meta">ZS Associates | February 2025</p>
+    <p>Segmented physicians into actionable priority cohorts using prescribing behavior and total prescription volume.</p>
+    <p>Applied t-SNE and K-Means to create a data-driven physician targeting strategy that won first place in an internal case competition.</p>
+    <p><strong>Tech Stack:</strong> Python, t-SNE, K-Means, Scikit-learn</p>
+  </article>
+</section>
 
 ## Education
 
-<table>
-  <tbody>
-    <tr>
-      <td style="text-align: left;"><strong>B.Tech. in Mechanical Engineering</strong></td>
-      <td rowspan="4" style="text-align: center;"><a href="https://www.nitc.ac.in/"><img src="./../images/iitg.png" width="70" height="70" alt="NIT Calicut"></a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><strong><a href="https://www.nitc.ac.in/">National Institute of Technology Calicut</a></strong></td>
-      <td>&nbsp;</td>
-      <td style="text-align: right;">Dec 2020 - May 2024</td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">CGPA: 9.25 / 10.0, Department Rank 3 out of 210</td>
-      <td>&nbsp;</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">Capstone: Design, Fabrication, and Control of a Multipurpose Marine Robot</td>
-      <td>&nbsp;</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-Secured a grant of Rs. 75,000 from the Centre for Innovation, Entrepreneurship and Incubation (CIEI) at NIT Calicut and led a three-person team through CAD design, CFD analysis, fabrication planning, budgeting, and milestone delivery.
+<article class="resume-card">
+  <div class="resume-card__header">
+    <div>
+      <h3>B.Tech. in Mechanical Engineering</h3>
+      <p class="resume-card__org"><a href="https://www.nitc.ac.in/">National Institute of Technology Calicut</a></p>
+    </div>
+    <img src="./../images/iitg.png" width="64" height="64" alt="NIT Calicut">
+  </div>
+  <p class="resume-card__meta">December 2020 - May 2024</p>
+  <ul class="clean-list">
+    <li>Graduated with a CGPA of 9.25 / 10.0 and Department Rank 3 out of 210.</li>
+    <li>Led a funded capstone project on the design, fabrication, and control of a multipurpose marine robot.</li>
+    <li>Secured a grant of Rs. 75,000 from CIEI and managed planning, budgeting, CAD design, CFD analysis, and execution.</li>
+  </ul>
+</article>
 
 ## Research Experience
 
-<table>
-  <tbody>
-    <tr>
-      <td style="text-align: left;"><strong>Summer Research Fellow</strong></td>
-      <td rowspan="4" style="text-align: center;"><a href="https://iisc.ac.in/"><img src="./../images/iisc.png" width="70" height="70" alt="IISc"></a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><strong><a href="https://iisc.ac.in/">Indian Institute of Science, Bengaluru</a></strong></td>
-      <td>&nbsp;</td>
-      <td style="text-align: right;">May 2023 - Jun 2023</td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">Indian Academy of Sciences Summer Research Fellowship</td>
-      <td>&nbsp;</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">Guide: <a href="https://mecheng.iisc.ac.in/people/susmita-dash/" target="_blank">Dr. Susmita Dash</a></td>
-      <td>&nbsp;</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        Studied droplet dynamics on heated pillared substrates using high-speed imaging.<br>
-        Applied OpenCV-based image processing techniques including Gaussian blur, Canny detection, thresholding, and contour extraction.<br>
-        Modeled heat-transfer effects of pillar geometry by treating the system as a fin array.
-      </td>
-    </tr>
-  </tbody>
-</table>
+<article class="resume-card">
+  <div class="resume-card__header">
+    <div>
+      <h3>Summer Research Fellow</h3>
+      <p class="resume-card__org"><a href="https://iisc.ac.in/">Indian Institute of Science, Bengaluru</a></p>
+    </div>
+    <img src="./../images/iisc.png" width="64" height="64" alt="IISc">
+  </div>
+  <p class="resume-card__meta">May 2023 - June 2023 | Indian Academy of Sciences Summer Research Fellowship</p>
+  <ul class="clean-list">
+    <li>Studied droplet dynamics on heated pillared substrates using high-speed imaging.</li>
+    <li>Applied OpenCV workflows including Gaussian blur, Canny detection, thresholding, and contour extraction.</li>
+    <li>Modeled heat-transfer effects of pillar geometry by treating the system as a fin array.</li>
+  </ul>
+</article>
 
 ## Licenses and Certifications
 
-<table>
-  <tbody>
-    <tr>
-      <td style="text-align: center; vertical-align: top;"><img src="./../images/databricks-logo.png" width="60" height="60" alt="Databricks logo"></td>
-      <td style="text-align: left; vertical-align: top;">
-        <strong>Databricks Certified Data Engineer Associate</strong><br>
-        <small>Databricks | Issued Nov 2025 | Expires Nov 2027</small><br>
-        <small><strong>Credential ID:</strong> 166205453 | <strong>Skills:</strong> SQL, PySpark, Spark SQL</small><br>
-        <a class="btn btn--primary" target="_blank" href="https://credentials.databricks.com/e5dcc7f5-3a30-4c67-926a-6ec0285b5604#acc.05d2JjUw" role="button" style="text-decoration:none">Credential</a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; vertical-align: top;"><img src="./../images/deeplearning-ai-logo.jpeg" width="60" height="60" alt="DeepLearning.AI logo"></td>
-      <td style="text-align: left; vertical-align: top;">
-        <strong>Advanced Learning Algorithms</strong><br>
-        <small>DeepLearning.AI | Issued Jul 2025</small><br>
-        <small><strong>Credential ID:</strong> AS6WZ79ABLIF | <strong>Skills:</strong> Deep Learning, Neural Networks, TensorFlow, XGBoost</small><br>
-        <a class="btn btn--primary" target="_blank" href="https://coursera.org/share/636609f2e33f83527d5961a28cc07019" role="button" style="text-decoration:none">Credential</a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; vertical-align: top;"><img src="./../images/deeplearning-ai-logo.jpeg" width="60" height="60" alt="DeepLearning.AI logo"></td>
-      <td style="text-align: left; vertical-align: top;">
-        <strong>Supervised Machine Learning: Regression and Classification</strong><br>
-        <small>DeepLearning.AI | Issued Apr 2024</small><br>
-        <small><strong>Skills:</strong> Machine Learning, Classification, Regression Algorithms</small><br>
-        <a class="btn btn--primary" target="_blank" href="https://www.coursera.org/account/accomplishments/verify/5JB4LEDS2PLK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" role="button" style="text-decoration:none">Credential</a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; vertical-align: top;"><img src="./../images/hackerrank-logo.png" width="60" height="60" alt="HackerRank logo"></td>
-      <td style="text-align: left; vertical-align: top;">
-        <strong>Python (Basic) Certification</strong><br>
-        <small>HackerRank | Issued Oct 2023</small><br>
-        <small><strong>Credential ID:</strong> 32E7780D782E | <strong>Skills:</strong> Python Programming</small><br>
-        <a class="btn btn--primary" target="_blank" href="https://www.hackerrank.com/certificates/32e7780d782e" role="button" style="text-decoration:none">Credential</a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; vertical-align: top;"><img src="./../images/hackerrank-logo.png" width="60" height="60" alt="HackerRank logo"></td>
-      <td style="text-align: left; vertical-align: top;">
-        <strong>SQL (Basic) Certification</strong><br>
-        <small>HackerRank | Issued Oct 2023</small><br>
-        <small><strong>Credential ID:</strong> D45E82C5C8B8 | <strong>Skills:</strong> SQL</small><br>
-        <a class="btn btn--primary" target="_blank" href="https://www.hackerrank.com/certificates/d45e82c5c8b8" role="button" style="text-decoration:none">Credential</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<section class="stack-grid certifications-grid">
+  <article class="credential-card">
+    <img src="./../images/databricks-logo.png" width="56" height="56" alt="Databricks logo">
+    <h3>Databricks Certified Data Engineer Associate</h3>
+    <p class="credential-card__meta">Databricks | Issued November 2025 | Expires November 2027</p>
+    <p>Credential ID: 166205453 | Skills: SQL, PySpark, Spark SQL</p>
+    <a class="btn btn--primary" target="_blank" href="https://credentials.databricks.com/e5dcc7f5-3a30-4c67-926a-6ec0285b5604#acc.05d2JjUw" role="button" style="text-decoration:none">Credential</a>
+  </article>
+
+  <article class="credential-card">
+    <img src="./../images/deeplearning-ai-logo.jpeg" width="56" height="56" alt="DeepLearning.AI logo">
+    <h3>Advanced Learning Algorithms</h3>
+    <p class="credential-card__meta">DeepLearning.AI | Issued July 2025</p>
+    <p>Credential ID: AS6WZ79ABLIF | Skills: Deep Learning, Neural Networks, TensorFlow, XGBoost</p>
+    <a class="btn btn--primary" target="_blank" href="https://coursera.org/share/636609f2e33f83527d5961a28cc07019" role="button" style="text-decoration:none">Credential</a>
+  </article>
+
+  <article class="credential-card">
+    <img src="./../images/deeplearning-ai-logo.jpeg" width="56" height="56" alt="DeepLearning.AI logo">
+    <h3>Supervised Machine Learning: Regression and Classification</h3>
+    <p class="credential-card__meta">DeepLearning.AI | Issued April 2024</p>
+    <p>Skills: Machine Learning, Classification, Regression Algorithms</p>
+    <a class="btn btn--primary" target="_blank" href="https://www.coursera.org/account/accomplishments/verify/5JB4LEDS2PLK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" role="button" style="text-decoration:none">Credential</a>
+  </article>
+
+  <article class="credential-card">
+    <img src="./../images/hackerrank-logo.png" width="56" height="56" alt="HackerRank logo">
+    <h3>Python (Basic) Certification</h3>
+    <p class="credential-card__meta">HackerRank | Issued October 2023</p>
+    <p>Credential ID: 32E7780D782E | Skills: Python Programming</p>
+    <a class="btn btn--primary" target="_blank" href="https://www.hackerrank.com/certificates/32e7780d782e" role="button" style="text-decoration:none">Credential</a>
+  </article>
+
+  <article class="credential-card">
+    <img src="./../images/hackerrank-logo.png" width="56" height="56" alt="HackerRank logo">
+    <h3>SQL (Basic) Certification</h3>
+    <p class="credential-card__meta">HackerRank | Issued October 2023</p>
+    <p>Credential ID: D45E82C5C8B8 | Skills: SQL</p>
+    <a class="btn btn--primary" target="_blank" href="https://www.hackerrank.com/certificates/d45e82c5c8b8" role="button" style="text-decoration:none">Credential</a>
+  </article>
+</section>
 
 ## Skills
 
-- <strong>Languages</strong>: Python, C, C++
-- <strong>Data and ML</strong>: Pandas, NumPy, Scikit-learn, OpenCV, TensorFlow, XGBoost
-- <strong>Big Data and Cloud</strong>: Apache Spark, PySpark, Delta Lake, Databricks, SQL
-- <strong>Analytics</strong>: Marketing Mix Modeling, Statistical Analysis, Feature Engineering, Data Visualization
-- <strong>Tools</strong>: VS Code, Jupyter Notebook, Excel, SAP
+<div class="chip-list">
+  <span class="chip">Python</span>
+  <span class="chip">C</span>
+  <span class="chip">C++</span>
+  <span class="chip">Pandas</span>
+  <span class="chip">NumPy</span>
+  <span class="chip">Scikit-learn</span>
+  <span class="chip">OpenCV</span>
+  <span class="chip">TensorFlow</span>
+  <span class="chip">XGBoost</span>
+  <span class="chip">Apache Spark</span>
+  <span class="chip">PySpark</span>
+  <span class="chip">Delta Lake</span>
+  <span class="chip">Databricks</span>
+  <span class="chip">SQL</span>
+  <span class="chip">Marketing Mix Modeling</span>
+  <span class="chip">Feature Engineering</span>
+  <span class="chip">Statistical Analysis</span>
+  <span class="chip">Data Visualization</span>
+  <span class="chip">Jupyter Notebook</span>
+  <span class="chip">VS Code</span>
+  <span class="chip">Excel</span>
+  <span class="chip">SAP</span>
+</div>
 
 <small style="color: #7f8c8d; text-align: center; display: block; margin-top: 40px;">
   <i>Last updated: March 8, 2026</i>

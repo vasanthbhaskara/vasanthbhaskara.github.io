@@ -15,7 +15,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name"><span itemprop="name">{{ author.name }}</span><span aria-label="pronouns" style="font-size: 0.7em; font-weight: normal; color: #666; margin-left: 0.8em; vertical-align: middle;">he/him</span></h3>
+    <h3 class="author__name"><span itemprop="name">{{ author.name }}</span></h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -53,7 +53,7 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://bsky.app/profile/{{ author.twitter }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-twitter-square" style="color: #000000;" aria-hidden="true"></i></span> Bluesky</a></li>
+        <li><a href="https://x.com/{{ author.twitter }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-twitter-square" style="color: #000000;" aria-hidden="true"></i></span> X</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>

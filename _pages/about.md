@@ -13,29 +13,17 @@ header:
 <table>
   <tbody>
     <tr>
-      <td rowspan="4" style="vertical-align: top;">
+      <td style="vertical-align: top;">
         I bring a strong foundation in <strong>Mathematics, Computational Skills, Engineering, and Business Acumen</strong>, developed during my undergraduate studies at NIT Calicut and refined through professional experience at leading organizations.<br><br>
         Currently, I work at <a href="https://www.zs.com/">ZS</a>, where I solve high-impact business problems in the digital customer experience space for pharmaceutical and healthcare clients. My work spans marketing mix modeling, feature engineering, regression modeling, and patient-level analytics to support strategic decisions with data.<br><br>
         Before that, I worked at <a href="https://www.hindustanpetroleum.com/">Hindustan Petroleum</a> as a Condition Monitoring Engineer at the Visakh Refinery. I built AI-driven predictive maintenance tools, maintenance dashboards, and supported procurement operations across the oil and gas value chain.<br><br>
         I recently earned the <strong>Databricks Certified Data Engineer Associate</strong> certification, and I work extensively with Spark, Delta Lake, Python, SQL, and large-scale data workflows.
       </td>
       <td>&nbsp;&nbsp;&nbsp;</td>
-      <td rowspan="3" style="text-align: right;">
-        <a href="https://www.zs.com/"><img src="./../images/zs-logo.svg" width="320" height="auto" alt="ZS logo"></a><br><br>
-        <a href="https://www.hindustanpetroleum.com/"><img src="./../images/hpcl-logo.png" width="220" height="auto" alt="HPCL logo"></a>
+      <td style="text-align: right; vertical-align: top;">
+        <a href="https://www.zs.com/"><img src="./../images/zs-logo.svg" width="280" height="auto" alt="ZS logo"></a><br><br>
+        <a href="https://www.hindustanpetroleum.com/"><img src="./../images/hpcl-logo.png" width="180" height="auto" alt="HPCL logo"></a>
       </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td style="text-align: right;"></td>
     </tr>
   </tbody>
 </table>

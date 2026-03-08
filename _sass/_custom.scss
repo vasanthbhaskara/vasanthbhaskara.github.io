@@ -46,8 +46,8 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2.25rem;
-  height: 2.25rem;
+  width: 2rem;
+  height: 2rem;
   padding: 0;
   border: 1px solid #000;
   border-radius: 999px;
@@ -58,6 +58,7 @@
   position: relative;
   z-index: 5;
   flex-shrink: 0;
+  text-decoration: none !important;
 }
 
 #myInverter:hover {
@@ -79,12 +80,13 @@
 }
 
 .greedy-nav .visible-links .masthead__menu-item--theme #myInverter {
-  position: static;
-  right: auto;
-  height: 2.25rem;
-  margin: 0 0 0 0.75rem;
+  position: relative !important;
+  right: auto !important;
+  top: auto !important;
+  margin: 0 0 0 0.75rem !important;
   box-shadow: none;
   background: #fff;
+  padding: 0 !important;
 }
 
 .greedy-nav .visible-links .masthead__menu-item--theme #myInverter:hover {
@@ -175,8 +177,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 102px;
-  padding: 0.9rem;
+  min-height: 82px;
+  padding: 0.65rem;
   border: 1px solid #ececf2;
   border-radius: 14px;
   background: #fff;
@@ -184,7 +186,7 @@
 }
 
 .brand-card img {
-  max-width: 78%;
+  max-width: 58%;
   height: auto;
 }
 

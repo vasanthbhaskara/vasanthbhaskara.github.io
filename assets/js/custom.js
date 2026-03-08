@@ -50,7 +50,8 @@
 
     applyTheme(sessionStorage.getItem('theme'));
 
-    inverter.addEventListener('click', function () {
+    inverter.addEventListener('click', function (event) {
+      event.preventDefault();
       var current = sessionStorage.getItem('theme') === 'dark' ? 'dark' : 'light';
       applyTheme(current === 'dark' ? 'light' : 'dark');
     });

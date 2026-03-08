@@ -7,30 +7,30 @@
   top: 0;
   left: 0;
   right: 0;
-  border-bottom: 1px solid rgba($border-color, 0.05);
+  border-bottom: 1px solid rgba($border-color, 0.02);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background: rgba(255, 255, 255, 0.05);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.001);
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.01);
   transition: all 0.3s ease-in-out;
 
   &.scrolled {
-    background: rgba(255, 255, 255, 0.001);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    background: rgba(255, 255, 255, 0.08);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
   }
 
   html[data-theme="dark"] & {
-    background: rgba(10, 10, 10, 0.7);
-    border-bottom-color: rgba(255, 255, 255, 0.05);
+    background: rgba(10, 10, 10, 0.08);
+    border-bottom-color: rgba(255, 255, 255, 0.03);
 
     &.scrolled {
-      background: rgba(10, 10, 10, 0.8);
-      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+      background: rgba(10, 10, 10, 0.14);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
     }
   }
 

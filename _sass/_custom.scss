@@ -99,6 +99,17 @@ html[style*="invert(100%)"] #myInverter {
   background: #f3f3f3;
 }
 
+.greedy-nav .visible-links .masthead__menu-item--theme #myInverter.is-active {
+  background: #000;
+  color: #fff;
+  border-color: #000;
+}
+
+.greedy-nav .visible-links .masthead__menu-item--theme #myInverter.is-active:hover {
+  background: #111;
+  color: #fff;
+}
+
 /* ==========================================================================
    SUPPRESS INTRO ANIMATIONS ON INTERNAL NAVIGATION
    ========================================================================== */

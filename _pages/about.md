@@ -18,14 +18,6 @@ header:
     <p>I recently earned the <strong>Databricks Certified Data Engineer Associate</strong> certification and continue building depth in Spark, distributed data systems, and decision-focused analytics.</p>
     <p><strong>Contact</strong>: <code style="color: #000000; background: #ffffff;"><strong>vasanthsbhaskara [at] gmail [dot] com</strong></code></p>
   </div>
-  <div class="brand-stack">
-    <a class="brand-card" href="https://www.zs.com/">
-      <img src="./../images/zs-logo.svg" alt="ZS logo">
-    </a>
-    <a class="brand-card" href="https://www.hindustanpetroleum.com/">
-      <img src="./../images/hpcl-logo.png" alt="HPCL logo">
-    </a>
-  </div>
 </section>
 
 <div class="news-flash">

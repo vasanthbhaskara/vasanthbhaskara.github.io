@@ -137,7 +137,7 @@ header:
 
 ## Skills
 
-<article class="resume-card">
+<article class="resume-card resume-card--compact">
   <h3>Technical Skills</h3>
   <ul class="clean-list">
     <li><strong>Tech Stack:</strong> Python, SQL, Databricks, Algorithms, Excel</li>
@@ -193,7 +193,7 @@ header:
 
 <article class="resume-card">
   <ul class="clean-list">
-    <li>Vasanth B S, Vysakh P, M Thashreef, A P Sudheer. “Design, Fabrication and Control of a Multi-purpose Marine Robot”, NIT Calicut, Paper (To be Submitted)</li>
+    <li>Vasanth B S, Vysakh P, M Thashreef, A P Sudheer. “Design, Fabrication and Control of a Multi-purpose Marine Robot”, NIT Calicut</li>
   </ul>
 </article>
 

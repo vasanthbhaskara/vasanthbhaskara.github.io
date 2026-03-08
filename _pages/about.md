@@ -29,96 +29,90 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 
 ---
 ## Experience
-<div style="display:flex; align-items:center; gap:16px;">
-  <img src="./../images/zs-logo.svg" width="70" height="70" alt="ZS logo">
-  <div>
-    <strong>ZS Associates</strong><br>
-    <small> Data Analyst | Feb 2025 - Present | Pune, Maharashtra, India</small>
-  </div>
-</div>
 
-- Conducted comprehensive MMM for a leading global pharmaceutical portfolio, supporting omnichannel strategy optimization across oncology, immunology, and neuroscience products
-- Engineered sophisticated features (adstocking, normalization, log transforms) and built linear/Bayesian regression models in Python to maximize predictive accuracy
-- Performed large-scale data preprocessing and exploratory data analysis using Pandas, including cleaning, transformation, and aggregation-based summarization
--  Analyzed Patient Level Data (PLD) to identify key drivers of referrals, accounting for carryover effects and salesforce activity patterns
-- Won 1st place in ZS's internal case competition by applying t-SNE and K-Means clustering to segment Healthcare Professionals (HCPs) and design targeted engagement strategies
-
----
-<div style="display:flex; align-items:center; gap:16px;">
-  <img src="./../images/hpcl-logo.png" width="70" height="70" alt="HPCL logo">
-  <div>
-    <strong>Hindustan Petroleum (HP)</strong><br>
-    <small>Engineer | Aug 2024 - Feb 2025 | Visakhapatnam, AP, India</small>
-  </div>
-</div>
-
-- Conducted equipment monitoring using software like Honeywell Forge and Bentley Nevada System
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="1" style="text-align: center; vertical-align: top;"><img src="./../images/zs-logo.svg" width="70" height="70" alt="ZS logo"></td>
+      <td style="text-align: left; vertical-align: top;">
+        <strong>ZS Associates</strong><br>
+        <small>Data Analyst | Feb 2025 - Present | Pune, Maharashtra, India</small><br><br>
+        • Conducted comprehensive MMM for a leading global pharmaceutical portfolio, supporting omnichannel strategy optimization across oncology, immunology, and neuroscience products<br>
+        • Engineered sophisticated features (adstocking, normalization, log transforms) and built linear/Bayesian regression models in Python to maximize predictive accuracy<br>
+        • Performed large-scale data preprocessing and exploratory data analysis using Pandas, including cleaning, transformation, and aggregation-based summarization<br>
+        • Analyzed Patient Level Data (PLD) to identify key drivers of referrals, accounting for carryover effects and salesforce activity patterns<br>
+        • Won 1st place in ZS's internal case competition by applying t-SNE and K-Means clustering to segment Healthcare Professionals (HCPs) and design targeted engagement strategies
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td rowspan="1" style="text-align: center; vertical-align: top;"><img src="./../images/hpcl-logo.png" width="70" height="70" alt="HPCL logo"></td>
+      <td style="text-align: left; vertical-align: top;">
+        <strong>Hindustan Petroleum (HP)</strong><br>
+        <small>Engineer | Aug 2024 - Feb 2025 | Visakhapatnam, AP, India</small><br><br>
+        • Conducted equipment monitoring using software like Honeywell Forge and Bentley Nevada System
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## Projects
 
-<div style="display: grid; grid-template-columns: 1fr; gap: 24px; margin: 20px 0;">
-
-  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
-    <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
-      <div style="flex: 1;">
-        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">LSTM Based Real-time Music Generation Application</h4>
-        <p style="margin: 4px 0; color: #667eea; font-weight: 600; font-size: 0.9em;">Personal Project | Aug 2024 – Jan 2025</p>
-        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
-          Trained a character-level LSTM on ~800 songs with embedding, sequence batching, and softmax sampling to learn next-token probability distributions for symbolic music generation.
-        </p>
-        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
-          Deployed a Streamlit-based interactive inference system using pretrained weights with configurable generation parameters, real-time audio synthesis, and live web deployment.
-        </p>
-        <p style="margin: 12px 0 0 0; font-size: 0.9em;">
-          <strong>Tech Stack:</strong> <span style="color: #667eea;">PyTorch, LSTM, Streamlit, Python</span>
-        </p>
-        <div style="margin-top: 12px; display: flex; gap: 12px;">
-          <a href="https://ai-music-lab.streamlit.app/" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 8px 12px; background: rgba(102, 126, 234, 0.1); border-radius: 6px; transition: all 0.3s ease;" onmouseover="this.style.background='rgba(102, 126, 234, 0.2)'" onmouseout="this.style.background='rgba(102, 126, 234, 0.1)'">→ Live Demo</a>
-          <a href="https://github.com/vasanthbhaskara/ai-music-composer" style="color: #764ba2; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 8px 12px; background: rgba(118, 75, 162, 0.1); border-radius: 6px; transition: all 0.3s ease;" onmouseover="this.style.background='rgba(118, 75, 162, 0.2)'" onmouseout="this.style.background='rgba(118, 75, 162, 0.1)'">→ GitHub</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
-    <div style="display: flex; align-items: flex-start; gap: 20px;">
-      <div style="flex: 1;">
-        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Promotion Impact Estimation using Bayesian Regression</h4>
-        <p style="margin: 4px 0; color: #667eea; font-weight: 600; font-size: 0.9em;">Decision Analyst, ZS Associates | Dec 2025</p>
-        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
-          Built Bayesian regression models to quantify channel-level contribution across marketing channels for a rapidly growing J&J's immunology brand.
-        </p>
-        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
-          Delivered actionable insights enabling data-driven budget allocation, maximizing ROI and optimizing spend efficiency in competitive immunology markets.
-        </p>
-        <p style="margin: 12px 0 0 0; font-size: 0.9em;">
-          <strong>Tech Stack:</strong> <span style="color: #667eea;">Python, Bayesian Statistics, Pandas, Marketing Mix Modeling</span>
-        </p>
-      </div>
-    </div>
-  </div>
-
-  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
-    <div style="display: flex; align-items: flex-start; gap: 20px;">
-      <div style="flex: 1;">
-        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">HealthCare Professionals Targeting & Segmentation</h4>
-        <p style="margin: 4px 0; color: #667eea; font-weight: 600; font-size: 0.9em;">Decision Analyst, ZS Associates | Feb 2025</p>
-        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
-          Segmented HCPs into high/mid/low deciles based on total prescriptions to identify priority targets for promotional detailing.
-        </p>
-        <p style="margin: 12px 0; font-size: 0.95em; color: #34495e; line-height: 1.6;">
-          Applied unsupervised learning (t-SNE, K-Means) on multi-therapy prescribing vectors to identify behavioral segments and enable data-driven physician targeting strategy. Awarded 1st place in internal case competition.
-        </p>
-        <p style="margin: 12px 0 0 0; font-size: 0.9em;">
-          <strong>Tech Stack:</strong> <span style="color: #667eea;">Python, t-SNE, K-Means Clustering, Scikit-learn</span>
-        </p>
-      </div>
-    </div>
-  </div>
-
-</div>
+<table id="project-table">
+  <tbody>
+    <!-- Project Row -->
+    <tr>
+      <td style="text-align: left; align: left; vertical-align: middle;"><b>1.&nbsp;&nbsp;&nbsp;</b></td>
+      <td style="text-align: left; vertical-align: middle;">
+        <b>LSTM Based Real-time Music Generation Application</b><br>
+        <small>Personal Project | Aug 2024 – Jan 2025</small><br><br>
+        Trained a character-level LSTM on ~800 songs with embedding, sequence batching, and softmax sampling to learn next-token probability distributions for symbolic music generation.<br><br>
+        Deployed a Streamlit-based interactive inference system using pretrained weights with configurable generation parameters, real-time audio synthesis, and live web deployment.<br><br>
+        <small><strong>Tech Stack:</strong> PyTorch, LSTM, Streamlit, Python</small><br>
+        <a href="https://ai-music-lab.streamlit.app/" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 6px 12px; background: rgba(102, 126, 234, 0.1); border-radius: 4px; margin-top: 8px;">→ Live Demo</a>
+        <a href="https://github.com/vasanthbhaskara/ai-music-composer" style="color: #764ba2; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; padding: 6px 12px; background: rgba(118, 75, 162, 0.1); border-radius: 4px; margin-top: 8px;">→ GitHub</a>
+      </td>
+    </tr>
+    <!-- Spacing -->
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    
+    <!-- Project Row -->
+    <tr>
+      <td style="text-align: left; align: left; vertical-align: middle;"><b>2.&nbsp;&nbsp;&nbsp;</b></td>
+      <td style="text-align: left; vertical-align: middle;">
+        <b>Promotion Impact Estimation using Bayesian Regression</b><br>
+        <small>Decision Analyst, ZS Associates | Dec 2025</small><br><br>
+        Built Bayesian regression models to quantify channel-level contribution across marketing channels for a rapidly growing J&J's immunology brand.<br><br>
+        Delivered actionable insights enabling data-driven budget allocation, maximizing ROI and optimizing spend efficiency in competitive immunology markets.<br><br>
+        <small><strong>Tech Stack:</strong> Python, Bayesian Statistics, Pandas, Marketing Mix Modeling</small>
+      </td>
+    </tr>
+    <!-- Spacing -->
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    
+    <!-- Project Row -->
+    <tr>
+      <td style="text-align: left; align: left; vertical-align: middle;"><b>3.&nbsp;&nbsp;&nbsp;</b></td>
+      <td style="text-align: left; vertical-align: middle;">
+        <b>HealthCare Professionals Targeting & Segmentation</b><br>
+        <small>Decision Analyst, ZS Associates | Feb 2025</small><br><br>
+        Segmented HCPs into high/mid/low deciles based on total prescriptions to identify priority targets for promotional detailing.<br><br>
+        Applied unsupervised learning (t-SNE, K-Means) on multi-therapy prescribing vectors to identify behavioral segments and enable data-driven physician targeting strategy. Awarded 1st place in internal case competition.<br><br>
+        <small><strong>Tech Stack:</strong> Python, t-SNE, K-Means Clustering, Scikit-learn</small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -181,94 +175,69 @@ I recently passed the **Databricks Certified Data Engineer Associate** exam and 
 
 ## Licenses & Certifications
 
-<div style="display: grid; grid-template-columns: 1fr; gap: 24px; margin: 20px 0;">
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: center; vertical-align: top;"><img src="./../images/databricks-logo.png" width="60" height="60" alt="Databricks logo"></td>
+      <td style="text-align: left; vertical-align: top;">
+        <strong>Databricks Certified Data Engineer Associate</strong><br>
+        <small>Databricks | Issued: November 2025 | Expires: November 2027</small><br>
+        <small><strong>Credential ID:</strong> 166205453 | <strong>Skills:</strong> SQL, PySpark, Spark SQL</small><br>
+        <a href="https://credentials.databricks.com/e5dcc7f5-3a30-4c67-926a-6ec0285b5604#acc.05d2JjUw" style="color: #667eea; text-decoration: none;">→ View Credential</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: top;"><img src="./../images/deeplearning-ai-logo.jpeg" width="60" height="60" alt="DeepLearning.AI logo"></td>
+      <td style="text-align: left; vertical-align: top;">
+        <strong>Advanced Learning Algorithms</strong><br>
+        <small>DeepLearning.AI | Issued: July 2025</small><br>
+        <small><strong>Credential ID:</strong> AS6WZ79ABLIF | <strong>Skills:</strong> Deep Learning, Neural Networks, TensorFlow, XGBoost</small><br>
+        <a href="https://coursera.org/share/636609f2e33f83527d5961a28cc07019" style="color: #667eea; text-decoration: none;">→ View Credential</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: top;"><img src="./../images/deeplearning-ai-logo.jpeg" width="60" height="60" alt="DeepLearning.AI logo"></td>
+      <td style="text-align: left; vertical-align: top;">
+        <strong>Supervised Machine Learning: Regression and Classification</strong><br>
+        <small>DeepLearning.AI | Issued: April 2024</small><br>
+        <small><strong>Skills:</strong> Machine Learning, Classification, Regression Algorithms</small><br>
+        <a href="https://www.coursera.org/account/accomplishments/verify/5JB4LEDS2PLK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" style="color: #667eea; text-decoration: none;">→ View Credential</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: top;"><img src="./../images/hackerrank-logo.png" width="60" height="60" alt="HackerRank logo"></td>
+      <td style="text-align: left; vertical-align: top;">
+        <strong>Python (Basic) Certification</strong><br>
+        <small>HackerRank | Issued: October 2023</small><br>
+        <small><strong>Credential ID:</strong> 32E7780D782E | <strong>Skills:</strong> Python Programming</small><br>
+        <a href="https://www.hackerrank.com/certificates/32e7780d782e" style="color: #667eea; text-decoration: none;">→ View Credential</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: top;"><img src="./../images/hackerrank-logo.png" width="60" height="60" alt="HackerRank logo"></td>
+      <td style="text-align: left; vertical-align: top;">
+        <strong>SQL (Basic) Certification</strong><br>
+        <small>HackerRank | Issued: October 2023</small><br>
+        <small><strong>Credential ID:</strong> D45E82C5C8B8 | <strong>Skills:</strong> SQL</small><br>
+        <a href="https://www.hackerrank.com/certificates/d45e82c5c8b8" style="color: #667eea; text-decoration: none;">→ View Credential</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
-    <div style="display: flex; align-items: flex-start; gap: 20px;">
-      <img src="./../images/databricks-logo.png" width="60" height="60" style="flex-shrink: 0;">
-      <div style="flex: 1;">
-        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Databricks Certified Data Engineer Associate</h4>
-        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">Databricks</p>
-        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
-          <strong>Issued:</strong> November 2025 | <strong>Expires:</strong> November 2027
-        </p>
-        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
-          <strong>Credential ID:</strong> 166205453 | <strong>Skills:</strong> SQL, PySpark, Spark SQL
-        </p>
-        <a href="https://credentials.databricks.com/e5dcc7f5-3a30-4c67-926a-6ec0285b5604#acc.05d2JjUw" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
-      </div>
-    </div>
-  </div>
-
-  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
-    <div style="display: flex; align-items: flex-start; gap: 20px;">
-      <img src="./../images/deeplearning-ai-logo.jpeg" width="60" height="60" style="flex-shrink: 0;">
-      <div style="flex: 1;">
-        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Advanced Learning Algorithms</h4>
-        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">DeepLearning.AI</p>
-        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
-          <strong>Issued:</strong> July 2025
-        </p>
-        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
-          <strong>Credential ID:</strong> AS6WZ79ABLIF | <strong>Skills:</strong> Deep Learning, Neural Networks, TensorFlow, XGBoost
-        </p>
-        <a href="https://coursera.org/share/636609f2e33f83527d5961a28cc07019" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
-      </div>
-    </div>
-  </div>
-
-  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
-    <div style="display: flex; align-items: flex-start; gap: 20px;">
-      <img src="./../images/deeplearning-ai-logo.jpeg" width="60" height="60" style="flex-shrink: 0;">
-      <div style="flex: 1;">
-        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Supervised Machine Learning: Regression and Classification</h4>
-        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">DeepLearning.AI</p>
-        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
-          <strong>Issued:</strong> April 2024
-        </p>
-        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
-          <strong>Skills:</strong> Machine Learning, Classification, Regression Algorithms
-        </p>
-        <a href="https://www.coursera.org/account/accomplishments/verify/5JB4LEDS2PLK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
-      </div>
-    </div>
-  </div>
-
-  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
-    <div style="display: flex; align-items: flex-start; gap: 20px;">
-      <img src="./../images/hackerrank-logo.png" width="60" height="60" style="flex-shrink: 0;">
-      <div style="flex: 1;">
-        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">Python (Basic) Certification</h4>
-        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">HackerRank</p>
-        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
-          <strong>Issued:</strong> October 2023
-        </p>
-        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
-          <strong>Credential ID:</strong> 32E7780D782E | <strong>Skills:</strong> Python Programming
-        </p>
-        <a href="https://www.hackerrank.com/certificates/32e7780d782e" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
-      </div>
-    </div>
-  </div>
-
-  <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #667eea;">
-    <div style="display: flex; align-items: flex-start; gap: 20px;">
-      <img src="./../images/hackerrank-logo.png" width="60" height="60" style="flex-shrink: 0;">
-      <div style="flex: 1;">
-        <h4 style="margin: 0 0 8px 0; color: #2c3e50;">SQL (Basic) Certification</h4>
-        <p style="margin: 4px 0; color: #667eea; font-weight: 600;">HackerRank</p>
-        <p style="margin: 4px 0; font-size: 0.9em; color: #7f8c8d;">
-          <strong>Issued:</strong> October 2023
-        </p>
-        <p style="margin: 8px 0 0 0; font-size: 0.9em; color: #34495e;">
-          <strong>Credential ID:</strong> D45E82C5C8B8 | <strong>Skills:</strong> SQL
-        </p>
-        <a href="https://www.hackerrank.com/certificates/d45e82c5c8b8" style="color: #667eea; text-decoration: none; font-weight: 600; font-size: 0.9em; display: inline-block; margin-top: 8px;">→ View Credential</a>
-      </div>
-    </div>
-  </div>
-
-</div>
+---
 
 ## Skills
 

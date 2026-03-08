@@ -37,7 +37,10 @@ author:
   location         : "Pune, India"
   employer         :
   pubmed           : 
-  email            : 
+  googlescholar    : 
+  resumecv         : 
+  email            : "vasanthsbhaskara@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -49,11 +52,16 @@ author:
   google_plus      :
   keybase          :
   instagram        : 
+  impactstory      :
   lastfm           :
   linkedin         : "vasanthsbhaskara"
+  orcid            : 
+  openreview       : 
   pinterest        :
   soundcloud       :
+  stackoverflow    : 
   steam            :
+  strava           : 
   tumblr           :
   x                : "vasanth_ai"
   vine             :
@@ -63,6 +71,9 @@ author:
   wikipedia        :
   kaggle           : "hairforceone"
   leetcode         : "vasanth_gpt"
+  goodreads        : 
+  confluence       : 
+  jira             :
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles

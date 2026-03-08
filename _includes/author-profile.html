@@ -15,7 +15,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name"><span itemprop="name">{{ author.name }}</span><span aria-label="pronouns" style="font-size: 0.7em; font-weight: normal; color: #666; margin-left: 0.8em; vertical-align: middle;">he/him</span></h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -25,14 +25,26 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.email %}
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" style="color: #000000;" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      {% endif %}
+      {% if author.resumecv %}
+        <li><a href="{{ author.resumecv }}" target="_blank"><span style="color: black;"><i class="fa fa-fw fa-download" style="color: #000000;" aria-hidden="true"></i></span> CV</a></li>
+      {% endif %}
+      {% if author.linkedin %}
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-linkedin" style="color: #000000;" aria-hidden="true"></i></span> LinkedIn</a></li>
+      {% endif %}
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}" target="_blank"><span style="color: black;"><i class="fas fa-fw fa-graduation-cap"></i></span> Google Scholar</a></li>
+      {% endif %}
+      {% if author.kaggle %}
+      <li><a href="https://www.kaggle.com/{{ author.kaggle }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-kaggle" aria-hidden="true"></i></span> Kaggle</a></li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
-      {% endif %}
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -41,16 +53,13 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-twitter-square" style="color: #000000;" aria-hidden="true"></i></span> Twitter</a></li>
+        <li><a href="https://bsky.app/profile/{{ author.twitter }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-twitter-square" style="color: #000000;" aria-hidden="true"></i></span> Bluesky</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
-      {% endif %}
-      {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-linkedin" style="color: #000000;" aria-hidden="true"></i></span> LinkedIn</a></li>
       {% endif %}
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
@@ -103,9 +112,6 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
-      {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}" target="_blank"><span style="color: black;"><i class="fas fa-fw fa-graduation-cap"></i></span> Google Scholar</a></li>
-      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i>PubMed</a></li>
       {% endif %}
@@ -114,9 +120,6 @@
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
-      {% endif %}
-      {% if author.kaggle %}
-      <li><a href="https://www.kaggle.com/{{ author.kaggle }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-kaggle" aria-hidden="true"></i></span> Kaggle</a></li>
       {% endif %}
       {% if author.goodreads %}
         <li><a href="https://www.goodreads.com/{{ author.goodreads }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-goodreads" aria-hidden="true"></i></span> Goodreads</a></li>
@@ -129,6 +132,9 @@
       {% endif %}
       {% if author.strava %}
         <li><a href="{{ author.strava }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-strava" aria-hidden="true"></i></span> Strava</a></li>
+      {% endif %}
+      {% if author.openreview %}
+        <li><a href="{{ author.openreview }}" target="_blank"><span style="color: black;"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i></span> OpenReview</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>

@@ -149,16 +149,7 @@
    HOMEPAGE POLISH
    ========================================================================== */
 .hero-grid {
-  display: grid;
-  gap: 1.5rem;
-  align-items: start;
   margin-bottom: 1.75rem;
-}
-
-@media (min-width: 900px) {
-  .hero-grid {
-    grid-template-columns: minmax(0, 1.7fr) minmax(220px, 0.9fr);
-  }
 }
 
 .hero-copy {
@@ -190,8 +181,10 @@
   height: auto;
 }
 
-html[style*="invert(100%)"] .author__avatar img {
-  filter: invert(100%);
+html[style*="invert(100%)"] img,
+html[style*="invert(100%)"] video,
+html[style*="invert(100%)"] iframe {
+  filter: invert(100%) hue-rotate(180deg);
 }
 
 .stack-grid {

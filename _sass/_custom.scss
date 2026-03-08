@@ -184,7 +184,7 @@
 html[style*="invert(100%)"] img,
 html[style*="invert(100%)"] video,
 html[style*="invert(100%)"] iframe {
-  filter: invert(100%) hue-rotate(180deg);
+  filter: invert(100%);
 }
 
 .stack-grid {

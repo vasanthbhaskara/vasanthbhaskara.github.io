@@ -30,6 +30,24 @@ header:
   </ul>
 </div>
 
+## Education
+
+<article class="resume-card">
+  <div class="resume-card__header">
+    <div>
+      <h3>B.Tech. in Mechanical Engineering</h3>
+      <p class="resume-card__org"><a href="https://www.nitc.ac.in/">National Institute of Technology Calicut</a></p>
+    </div>
+    <img src="./../images/iitg.png" width="64" height="64" alt="NIT Calicut">
+  </div>
+  <p class="resume-card__meta">December 2020 - May 2024</p>
+  <ul class="clean-list">
+    <li>Graduated with a CGPA of 9.25 / 10.0 and Department Rank 3 out of 210.</li>
+    <li>Led a funded capstone project on the design, fabrication, and control of a multipurpose marine robot.</li>
+    <li>Secured a grant of Rs. 75,000 from CIEI and managed planning, budgeting, CAD design, CFD analysis, and execution.</li>
+  </ul>
+</article>
+
 ## Experience
 
 <section class="stack-grid">
@@ -61,13 +79,31 @@ header:
     <p class="resume-card__meta">Visakhapatnam, Andhra Pradesh, India | August 2024 - February 2025</p>
     <ul class="clean-list">
       <li>Worked with Honeywell Forge and Bentley Nevada systems for refinery equipment monitoring and maintenance reliability.</li>
-      <li>Built AI-enabled maintenance tools and dashboards to reduce downtime and improve compliance tracking.</li>
-      <li>Supported engineering operations across predictive maintenance and procurement workflows.</li>
+      <li>Supported engineering operations across condition monitoring, predictive maintenance, and procurement workflows.</li>
+      <li>Contributed to maintenance dashboards and reliability tracking processes in the refinery environment.</li>
     </ul>
   </article>
 </section>
 
-## Projects
+## Research Experience
+
+<article class="resume-card">
+  <div class="resume-card__header">
+    <div>
+      <h3>Summer Research Fellow</h3>
+      <p class="resume-card__org"><a href="https://iisc.ac.in/">Indian Institute of Science, Bengaluru</a></p>
+    </div>
+    <img src="./../images/iisc.png" width="64" height="64" alt="IISc">
+  </div>
+  <p class="resume-card__meta">May 2023 - June 2023 | Indian Academy of Sciences Summer Research Fellowship</p>
+  <ul class="clean-list">
+    <li>Studied droplet dynamics on heated pillared substrates using high-speed imaging.</li>
+    <li>Applied OpenCV workflows including Gaussian blur, Canny detection, thresholding, and contour extraction.</li>
+    <li>Modeled heat-transfer effects of pillar geometry by treating the system as a fin array.</li>
+  </ul>
+</article>
+
+## Selected Projects
 
 <section class="stack-grid">
   <article class="project-card">
@@ -99,39 +135,13 @@ header:
   </article>
 </section>
 
-## Education
+## Skills
 
 <article class="resume-card">
-  <div class="resume-card__header">
-    <div>
-      <h3>B.Tech. in Mechanical Engineering</h3>
-      <p class="resume-card__org"><a href="https://www.nitc.ac.in/">National Institute of Technology Calicut</a></p>
-    </div>
-    <img src="./../images/iitg.png" width="64" height="64" alt="NIT Calicut">
-  </div>
-  <p class="resume-card__meta">December 2020 - May 2024</p>
+  <h3>Technical Skills</h3>
   <ul class="clean-list">
-    <li>Graduated with a CGPA of 9.25 / 10.0 and Department Rank 3 out of 210.</li>
-    <li>Led a funded capstone project on the design, fabrication, and control of a multipurpose marine robot.</li>
-    <li>Secured a grant of Rs. 75,000 from CIEI and managed planning, budgeting, CAD design, CFD analysis, and execution.</li>
-  </ul>
-</article>
-
-## Research Experience
-
-<article class="resume-card">
-  <div class="resume-card__header">
-    <div>
-      <h3>Summer Research Fellow</h3>
-      <p class="resume-card__org"><a href="https://iisc.ac.in/">Indian Institute of Science, Bengaluru</a></p>
-    </div>
-    <img src="./../images/iisc.png" width="64" height="64" alt="IISc">
-  </div>
-  <p class="resume-card__meta">May 2023 - June 2023 | Indian Academy of Sciences Summer Research Fellowship</p>
-  <ul class="clean-list">
-    <li>Studied droplet dynamics on heated pillared substrates using high-speed imaging.</li>
-    <li>Applied OpenCV workflows including Gaussian blur, Canny detection, thresholding, and contour extraction.</li>
-    <li>Modeled heat-transfer effects of pillar geometry by treating the system as a fin array.</li>
+    <li><strong>Tech Stack:</strong> Python, SQL, Databricks, Algorithms, Excel</li>
+    <li><strong>Frameworks:</strong> PyTorch, XGBoost, PySpark, Pandas, NumPy</li>
   </ul>
 </article>
 
@@ -179,32 +189,13 @@ header:
   </article>
 </section>
 
-## Skills
+## Publications
 
-<div class="chip-list">
-  <span class="chip">Python</span>
-  <span class="chip">C</span>
-  <span class="chip">C++</span>
-  <span class="chip">Pandas</span>
-  <span class="chip">NumPy</span>
-  <span class="chip">Scikit-learn</span>
-  <span class="chip">OpenCV</span>
-  <span class="chip">TensorFlow</span>
-  <span class="chip">XGBoost</span>
-  <span class="chip">Apache Spark</span>
-  <span class="chip">PySpark</span>
-  <span class="chip">Delta Lake</span>
-  <span class="chip">Databricks</span>
-  <span class="chip">SQL</span>
-  <span class="chip">Marketing Mix Modeling</span>
-  <span class="chip">Feature Engineering</span>
-  <span class="chip">Statistical Analysis</span>
-  <span class="chip">Data Visualization</span>
-  <span class="chip">Jupyter Notebook</span>
-  <span class="chip">VS Code</span>
-  <span class="chip">Excel</span>
-  <span class="chip">SAP</span>
-</div>
+<article class="resume-card">
+  <ul class="clean-list">
+    <li>Vasanth B S, Vysakh P, M Thashreef, A P Sudheer. “Design, Fabrication and Control of a Multi-purpose Marine Robot”, NIT Calicut, Paper (To be Submitted)</li>
+  </ul>
+</article>
 
 <small style="color: #7f8c8d; text-align: center; display: block; margin-top: 40px;">
   <i>Last updated: March 8, 2026</i>

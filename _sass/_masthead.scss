@@ -39,12 +39,13 @@
   &::after {
     content: '';
     position: absolute;
-    top: -18px;
+    top: 0;
     right: 18%;
     width: 90px;
     height: 60px;
     background: radial-gradient(ellipse at center, rgba(140, 190, 255, 0.24) 0%, rgba(180, 160, 255, 0.12) 50%, transparent 75%);
-    filter: blur(6px);
+    filter: blur(10px);
+    opacity: 0.55;
     pointer-events: none;
   }
 

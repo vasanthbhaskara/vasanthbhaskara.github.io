@@ -108,7 +108,7 @@ header:
 <section class="stack-grid">
   <article class="project-card">
     <h3>LSTM Based Real-time Music Generation Application</h3>
-    <p class="project-card__meta">Personal Project | August 2024 - January 2025</p>
+    <p class="project-card__meta">February 2026</p>
     <p>Trained a character-level LSTM on roughly 800 songs with embedding, sequence batching, and softmax sampling to model next-token probability distributions for symbolic music generation.</p>
     <p>Built and deployed a Streamlit inference app with configurable generation controls, pretrained weights, and real-time audio synthesis.</p>
     <p><strong>Tech Stack:</strong> PyTorch, LSTM, Streamlit, Python</p>

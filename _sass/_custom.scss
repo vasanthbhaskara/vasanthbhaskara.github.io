@@ -190,6 +190,10 @@
   height: auto;
 }
 
+html[style*="invert(100%)"] .author__avatar img {
+  filter: invert(100%);
+}
+
 .stack-grid {
   display: grid;
   gap: 1rem;

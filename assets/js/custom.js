@@ -36,6 +36,26 @@
     $('.masthead').toggleClass('scrolled', $(this).scrollTop() > 20);
   });
 
+  (function () {
+    var inverter = document.getElementById('myInverter');
+    if (!inverter) return;
+
+    function applyTheme(theme) {
+      var nextTheme = theme === 'dark' ? 'dark' : 'light';
+      sessionStorage.setItem('theme', nextTheme);
+      document.documentElement.style.filter = nextTheme === 'dark' ? 'invert(100%)' : 'invert(0%)';
+      inverter.setAttribute('aria-pressed', nextTheme === 'dark' ? 'true' : 'false');
+      inverter.classList.toggle('is-active', nextTheme === 'dark');
+    }
+
+    applyTheme(sessionStorage.getItem('theme'));
+
+    inverter.addEventListener('click', function () {
+      var current = sessionStorage.getItem('theme') === 'dark' ? 'dark' : 'light';
+      applyTheme(current === 'dark' ? 'light' : 'dark');
+    });
+  }());
+
   if ('IntersectionObserver' in window) {
     var observer = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {

@@ -40,6 +40,33 @@
 }
 
 /* ==========================================================================
+   MASTHEAD DARK MODE BUTTON
+   ========================================================================== */
+#myInverter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  border: 1px solid #000;
+  border-radius: 999px;
+  background: #fff;
+  color: #000;
+  cursor: pointer;
+  line-height: 1;
+}
+
+#myInverter:hover {
+  background: #f3f3f3;
+}
+
+#myInverter.is-active {
+  background: #000;
+  color: #fff;
+}
+
+/* ==========================================================================
    SUPPRESS INTRO ANIMATIONS ON INTERNAL NAVIGATION
    ========================================================================== */
 .no-intro,

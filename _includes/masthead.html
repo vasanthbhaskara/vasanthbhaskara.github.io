@@ -4,9 +4,12 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+        <button type="button" aria-label="Toggle navigation menu"><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          {% if site.author.linkedin %}
+          <li class="masthead__menu-item"><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+          {% endif %}
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -15,7 +18,11 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <li class="masthead__menu-item"><button id="dark-mode-toggle" title="Toggle Dark Mode" style="background: none; border: none; cursor: pointer; padding: 8px 12px; margin: 0; display: flex; align-items: center; justify-content: center;"><i class="fas fa-fw fa-moon" aria-hidden="true" style="transition: all 0.3s ease; font-size: 1.3em; color: #667eea; display: block;"></i></button></li>
+          <li class="masthead__menu-item">
+            <button id="myInverter" type="button" aria-label="Toggle dark mode" aria-pressed="false" title="Toggle dark mode">
+              <i class="fas fa-fw fa-adjust" aria-hidden="true"></i>
+            </button>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

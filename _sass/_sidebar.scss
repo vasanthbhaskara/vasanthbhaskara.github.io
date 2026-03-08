@@ -6,328 +6,260 @@
    Default
    ========================================================================== */
 
-   .sidebar {
-    -webkit-transform: translate3d(0, 0 , 0);
-            transform: translate3d(0, 0 , 0);
+.sidebar {
+  -webkit-transform: translate3d(0, 0 , 0);
+          transform: translate3d(0, 0 , 0);
 
-    @include clearfix();
-    margin-bottom: 1em;
-    background: rgba(255, 255, 255, 0.98);
-    border-radius: 16px;
-    padding: 24px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
+  @include clearfix();
+  margin-bottom: 1em;
 
-    @include breakpoint($large) {
-      @include span(3 of 12);
-      opacity: 1;
-      -webkit-transition: opacity 0.2s ease-in-out;
-              transition: opacity 0.2s ease-in-out;
-
-      &:hover {
-        opacity: 1;
-      }
-    }
-  
-  
-    @include breakpoint($x-large) {
-      padding-right: 0;
-    }
-  
-    h2, h3, h4, h5, h6 {
-      margin-bottom: 0;
-      font-family: $sans-serif-narrow;
-    }
-  
-    h3, h4 {
-      font-size: $type-size-5;
-    }
-  
-    p, li {
-      font-family: $sans-serif;
-      font-size: $type-size-6;
-      line-height: 1.5;
-    }
-  
-    img {
-      width: 100%;
-    }
-  }
-  
-  .sidebar__right {
-    margin-bottom: 1em;
-  
-    @include breakpoint($large) {
-      position: relative;
-      float: right;
-      width: $right-sidebar-width-narrow;
-      margin-left: span(0.5 of 12);
-      z-index: 10;
-    }
-  
-    @include breakpoint($x-large) {
-      width: $right-sidebar-width;
-    }
-  }
-  
-  /*
-     Author profile and links
-     ========================================================================== */
-  
-  .author__avatar {
-    display: table-cell;
-    vertical-align: top;
-    width: 36px;
-    // set width only, for non-square avatars
-    // height: 36px;
-
-    @include breakpoint($large) {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      width: 100%;
-      margin-bottom: 16px;
-    }
-
-    img {
-      max-width: 175px;
-      border-radius: 50%;
-
-      @include breakpoint($large) {
-        padding: 8px;
-        border: 2px solid rgba(102, 126, 234, 0.2);
-        box-shadow: 0 8px 24px rgba(102, 126, 234, 0.12);
-        transition: all 0.3s ease;
-
-        &:hover {
-          box-shadow: 0 12px 32px rgba(102, 126, 234, 0.18);
-          border-color: rgba(102, 126, 234, 0.3);
-        }
-      }
-    }
-  }
-  
-  .author__content {
-    display: table-cell;
-    vertical-align: top;
-    padding-left: 15px;
-    padding-right: 25px;
-    line-height: 1;
-
-    @include breakpoint($large) {
-      display: block;
-      width: 100%;
-      padding-left: 0;
-      padding-right: 0;
-      text-align: center;
-    }
-  }
-  
-  .author__name {
-    margin: 0;
-  
-    @include breakpoint($large) {
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
-  }
-  .sidebar .author__name {
-    font-family: $sans-serif;
-    font-size: $type-size-5;
-  }
-  
-  .author__bio {
-    margin: 0;
-  
-    @include breakpoint($large) {
-      margin-top: 10px;
-      margin-bottom: 20px;
-    }
-  }
-  
-  .author__urls-wrapper {
-    position: relative;
-    display: table-cell;
-    vertical-align: middle;
-    font-family: $sans-serif;
-    z-index: 10;
-    position: relative;
-    cursor: pointer;
-
-    li:last-child {
-      a {
-        margin-bottom: 0;
-      }
-    }
-
-    @include breakpoint($large) {
-      display: block;
-      padding: 20px 0;
-      border-top: 1px solid rgba($border-color, 0.3);
-      margin-top: 20px;
-    }
-
-    button {
-      margin-bottom: 0;
-
-      @include breakpoint($large) {
-        display: none;
-      }
-    }
-  }
-
-  .author__urls {
-    display: none;
-    position: absolute;
-    right: auto;
-    left: 0;
-    margin-top: 15px;
-    padding: 10px;
-    list-style-type: none;
-    border: 1px solid $border-color;
-    border-radius: $border-radius;
-    background: #fff;
-    z-index: -1;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
-    cursor: default;
-
-    @include breakpoint($large) {
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      align-items: center;
-      position: relative;
-      margin: 0;
-      margin-top: 20px;
-      padding: 0;
-      border: 0;
-      background: transparent;
-      box-shadow: none;
-      gap: 12px;
-      flex-wrap: wrap;
-    }
-
-    &:before {
-      display: block;
-      content: "";
-      position: absolute;
-      top: -11px;
-      left: 0;
-      width: 0;
-      border-style: solid;
-      border-width: 0 10px 10px;
-      border-color: $border-color transparent;
-      z-index: 0;
-
-      @include breakpoint($large) {
-        display: none;
-      }
-    }
-
-    &:after {
-      display: block;
-      content: "";
-      position: absolute;
-      top: -10px;
-      left: 0;
-      width: 0;
-      border-style: solid;
-      border-width: 0 10px 10px;
-      border-color: #fff transparent;
-      z-index: 1;
-
-      @include breakpoint($large) {
-        display: none;
-      }
-    }
-
-    li {
-      white-space: nowrap;
-
-      @include breakpoint($large) {
-        white-space: normal;
-      }
-    }
-
-    a {
-      display: inline-flex;
-      justify-content: center;
-      align-items: center;
-      width: 42px;
-      height: 42px;
-      margin-bottom: 5px;
-      padding: 0;
-      color: #667eea;
-      background: rgba(102, 126, 234, 0.08);
-      border: 1px solid rgba(102, 126, 234, 0.15);
-      border-radius: 10px;
-      font-size: 18px;
-      text-decoration: none;
-      transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
-
-      &:hover {
-        color: #fff;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        border-color: transparent;
-        transform: translateY(-3px) scale(1.08);
-        box-shadow: 0 8px 20px rgba(102, 126, 234, 0.35);
-      }
-
-      @include breakpoint($large) {
-        margin-bottom: 0;
-        font-size: 18px;
-      }
-    }
-  }
-
-  /* Dark mode styles */
-  html[data-theme="dark"] .sidebar {
-    background: rgba(26, 26, 46, 0.98);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  }
-
-  html[data-theme="dark"] .author__name {
-    color: #f5f5f7;
-  }
-
-  html[data-theme="dark"] .author__bio {
-    color: #d0d0d7;
-  }
-
-  html[data-theme="dark"] .author__urls a {
-    color: #7c8cfd;
-    background: rgba(124, 140, 253, 0.1);
-    border-color: rgba(124, 140, 253, 0.2);
+  @include breakpoint($large) {
+    @include span(2 of 12);
+    opacity: 1;
+    -webkit-transition: opacity 0.2s ease-in-out;
+            transition: opacity 0.2s ease-in-out;
 
     &:hover {
-      color: #fff;
-      background: linear-gradient(135deg, #7c8cfd 0%, #8b5cf6 100%);
-      border-color: transparent;
+      opacity: 1;
     }
   }
 
-  /*
-     Wide Pages
-     ========================================================================== */
-  
-     .wide .sidebar__right {
-      margin-bottom: 1em;
-      @include breakpoint($large) {
-        position: initial;
-        top: initial;
-        right: initial;
-        width: initial;
-        margin-right: initial;
-        padding-left: initial;
-        z-index: initial;
-      }
-    
-      @include breakpoint($x-large) {
-        width: initial;
-        margin-right: initial;
-      }
+  @include breakpoint($x-large) {
+    padding-right: 0;
+  }
+
+  h2, h3, h4, h5, h6 {
+    margin-bottom: 0;
+    font-family: $sans-serif-narrow;
+  }
+
+  h3, h4 {
+    font-size: $type-size-5;
+  }
+
+  p, li {
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    line-height: 1.5;
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+.sidebar__top {
+  position: fixed;
+  bottom: 1.5em;
+  right: 2em;
+  z-index: 10;
+}
+
+.sidebar__right {
+  margin-bottom: 1em;
+
+  @include breakpoint($large) {
+    position: relative;
+    float: right;
+    width: $right-sidebar-width-narrow;
+    margin-left: span(0.5 of 12);
+    z-index: 10;
+  }
+
+  @include breakpoint($x-large) {
+    width: $right-sidebar-width;
+  }
+}
+
+/*
+   Author profile and links
+   ========================================================================== */
+
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 36px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: 100%;
+    height: auto;
+    text-align: center;
+  }
+
+  img {
+    max-width: 155px;
+    border-radius: 6px;
+
+    @include breakpoint($large) {
+      padding: 4px;
+      border: 1px solid $border-color;
     }
-  
-    
+  }
+}
+
+.author__content {
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 15px;
+  padding-right: 25px;
+  line-height: 1;
+
+  @include breakpoint($large) {
+    display: block;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.author__name {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.sidebar .author__name {
+  font-family: $sans-serif;
+  font-size: $type-size-5;
+}
+
+.author__bio {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+.author__urls-wrapper {
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  font-family: $sans-serif;
+  z-index: 10;
+  cursor: pointer;
+
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
+
+  @include breakpoint($large) {
+    display: block;
+  }
+
+  button {
+    margin-bottom: 0;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
+}
+
+.author__urls {
+  display: none;
+  position: absolute;
+  right: 0;
+  margin-top: 15px;
+  padding: 10px;
+  list-style-type: none;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: #fff;
+  z-index: -1;
+  box-shadow: 0 0 10px rgba(#000, 0.25);
+  cursor: default;
+
+  @include breakpoint($large) {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  &:before {
+    display: block;
+    content: "";
+    position: absolute;
+    top: -11px;
+    left: calc(50% - 10px);
+    width: 0;
+    border-style: solid;
+    border-width: 0 10px 10px;
+    border-color: $border-color transparent;
+    z-index: 0;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
+
+  &:after {
+    display: block;
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: calc(50% - 10px);
+    width: 0;
+    border-style: solid;
+    border-width: 0 10px 10px;
+    border-color: #fff transparent;
+    z-index: 1;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
+
+  li {
+    white-space: nowrap;
+  }
+
+  a {
+    display: block;
+    margin-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #2979ab;
+    font-size: $type-size-5;
+    text-decoration: none;
+
+    &:hover {
+      color: #180462;
+    }
+  }
+}
+
+/*
+   Wide Pages
+   ========================================================================== */
+
+.wide .sidebar__right {
+  margin-bottom: 1em;
+
+  @include breakpoint($large) {
+    position: initial;
+    top: initial;
+    right: initial;
+    width: initial;
+    margin-right: initial;
+    padding-left: initial;
+    z-index: initial;
+  }
+
+  @include breakpoint($x-large) {
+    width: initial;
+    margin-right: initial;
+  }
+}

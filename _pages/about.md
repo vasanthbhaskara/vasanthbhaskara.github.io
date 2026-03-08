@@ -3,6 +3,7 @@ permalink: /
 title: "Bio"
 author_profile: true
 classes: wide
+show_title: false
 redirect_from:
   - /about/
   - /about.html

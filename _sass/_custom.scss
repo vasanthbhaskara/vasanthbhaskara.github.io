@@ -70,6 +70,10 @@
   color: #fff;
 }
 
+html[style*="invert(100%)"] #myInverter {
+  filter: invert(100%);
+}
+
 .masthead__menu-item--theme {
   display: flex;
   align-items: center;

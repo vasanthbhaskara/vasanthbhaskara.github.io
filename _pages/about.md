@@ -1,9 +1,10 @@
 ---
 permalink: /
-title: "Bio"
+title: "Vasanth Bhaskara"
 author_profile: true
 classes: wide
 show_title: false
+modified: 2026-05-15
 redirect_from:
   - /about/
   - /about.html
@@ -11,13 +12,46 @@ header:
   preview_card_image: profile_pic.png
 ---
 
-<section class="hero-grid">
-  <div class="hero-copy">
-    <p>I bring a strong foundation in <strong>mathematics, computational problem-solving, engineering, and business acumen</strong>, developed at NIT Calicut and sharpened through work on data-intensive business problems.</p>
-    <p>At <a href="https://www.zs.com/">ZS</a>, I work on high-impact commercial analytics in healthcare and pharmaceuticals, with experience in marketing mix modeling, feature engineering, regression workflows, and patient-level analysis. Before that, at <a href="https://www.hindustanpetroleum.com/">Hindustan Petroleum</a>, I worked on condition monitoring systems, refinery reliability workflows, and engineering operations support at the Visakh Refinery.</p>
-    <p>I recently earned the <strong>Databricks Certified Data Engineer Associate</strong> certification and continue building depth in Spark, distributed data systems, and decision-focused analytics.</p>
-    <p><strong>Contact</strong>: <code style="color: #000000; background: #ffffff;"><strong>vasanthsbhaskara [at] gmail [dot] com</strong></code></p>
+<section class="spotlight">
+  <div class="spotlight__copy">
+    <p class="spotlight__eyebrow">Decision Analytics • Data Science • Applied Machine Learning</p>
+    <h1>Building analytical systems that turn commercial and technical complexity into decisions.</h1>
+    <p class="spotlight__lead">I work at <a href="https://www.zs.com/" target="_blank">ZS Associates</a> on data science and advanced analytics for commercial healthcare applications, with recent work spanning promotion impact modeling, feature engineering, ETL pipelines, and marketing attribution. My background blends top-tier academic performance at NIT Calicut with hands-on engineering experience and a growing body of machine learning projects across RAG, fine-tuning, and generative modeling.</p>
+    <div class="button-row">
+      <a class="btn btn--primary" target="_blank" href="/cv/Bhaskara_Vasanth_CV_2026.pdf" role="button" style="text-decoration:none">View Resume</a>
+      <a class="btn btn--secondary" target="_blank" href="https://github.com/vasanthbhaskara" role="button" style="text-decoration:none">GitHub</a>
+      <a class="btn btn--secondary" target="_blank" href="https://www.linkedin.com/in/vasanthsbhaskara" role="button" style="text-decoration:none">LinkedIn</a>
+    </div>
   </div>
+  <div class="spotlight__panel">
+    <p class="spotlight__panel-title">Current Focus</p>
+    <ul class="clean-list clean-list--tight">
+      <li>Decision analytics for omnichannel healthcare marketing</li>
+      <li>SQL and Python pipelines over large-scale analytical datasets</li>
+      <li>Machine learning systems with practical deployment workflows</li>
+      <li>Applied LLM and retrieval pipelines for domain-specific use cases</li>
+    </ul>
+    <p class="spotlight__contact"><strong>Contact</strong><br><code style="color: #132238; background: #f7fbff;"><strong>vasanthsbhaskara [at] gmail [dot] com</strong></code></p>
+  </div>
+</section>
+
+<section class="metrics-grid">
+  <article class="metric-card">
+    <p class="metric-card__value">9.25 / 10</p>
+    <p class="metric-card__label">B.Tech. CGPA at NIT Calicut</p>
+  </article>
+  <article class="metric-card">
+    <p class="metric-card__value">#3 / 210</p>
+    <p class="metric-card__label">Department Rank</p>
+  </article>
+  <article class="metric-card">
+    <p class="metric-card__value">160+</p>
+    <p class="metric-card__label">LeetCode Problems Solved</p>
+  </article>
+  <article class="metric-card">
+    <p class="metric-card__value">3+</p>
+    <p class="metric-card__label">Analytics and engineering roles across industry</p>
+  </article>
 </section>
 
 <div class="news-flash">
@@ -25,10 +59,28 @@ header:
     <strong class="news-badge"><span class="star">★</span> NEWS</strong>
   </div>
   <ul class="news-list">
+    <li><strong>May 2026</strong> - Added a biomedical RAG system and LoRA fine-tuning work to my project portfolio.</li>
     <li><strong>November 2025</strong> - Passed the Databricks Certified Data Engineer Associate exam.</li>
-    <li><strong>February 2025</strong> - Joined ZS as a Data Analyst in Pune.</li>
+    <li><strong>February 2025</strong> - Joined ZS in Pune in a decision analytics role focused on commercial healthcare applications.</li>
   </ul>
 </div>
+
+## Snapshot
+
+<section class="insight-grid">
+  <article class="insight-card">
+    <h3>What I do</h3>
+    <p>I build analytical workflows that connect messy real-world data to decision making, especially in healthcare commercial analytics. My work usually sits at the intersection of business context, statistical modeling, and practical data engineering.</p>
+  </article>
+  <article class="insight-card">
+    <h3>How I work</h3>
+    <p>I like problems that need both structured thinking and implementation detail: defining metrics, shaping features, building pipelines, validating models, and translating output into something a team can act on.</p>
+  </article>
+  <article class="insight-card">
+    <h3>What I’m building toward</h3>
+    <p>I’m steadily deepening in machine learning systems, modern data tooling, and applied AI, with a focus on projects that are technically solid and useful beyond a notebook demo.</p>
+  </article>
+</section>
 
 ## Education
 
@@ -43,8 +95,8 @@ header:
   <p class="resume-card__meta">December 2020 - May 2024</p>
   <ul class="clean-list">
     <li>Graduated with a CGPA of 9.25 / 10.0 and Department Rank 3 out of 210.</li>
-    <li>Led a funded capstone project on the design, fabrication, and control of a multipurpose marine robot.</li>
-    <li>Secured a grant of Rs. 75,000 from CIEI and managed planning, budgeting, CAD design, CFD analysis, and execution.</li>
+    <li>Relevant coursework included Machine Learning, Statistics, Probability, and Computer Programming.</li>
+    <li>Built a strong quantitative base that now supports my work in analytics, machine learning, and data-driven problem solving.</li>
   </ul>
 </article>
 
@@ -54,17 +106,17 @@ header:
   <article class="resume-card">
     <div class="resume-card__header">
       <div>
-        <h3>Data Analyst</h3>
+        <h3>Decision Analytics Associate</h3>
         <p class="resume-card__org"><a href="https://www.zs.com/">ZS Associates</a></p>
       </div>
       <img src="./../images/zs-logo.svg" width="64" height="64" alt="ZS logo">
     </div>
     <p class="resume-card__meta">Pune, Maharashtra, India | February 2025 - Present</p>
     <ul class="clean-list">
-      <li>Led marketing mix modeling work for a global pharmaceutical portfolio across oncology, immunology, and neuroscience brands.</li>
-      <li>Engineered adstock, normalization, and log-transformed features and built linear and Bayesian regression models in Python.</li>
-      <li>Analyzed patient-level referral behavior and sales-force activity to identify key commercial drivers.</li>
-      <li>Won first place in an internal case competition using t-SNE and K-Means based HCP segmentation.</li>
+      <li>Developed promotion impact models for Johnson &amp; Johnson immunology brands using linear and Bayesian regression to quantify channel-level contribution and improve omnichannel marketing effectiveness.</li>
+      <li>Engineered ETL and analytical data pipelines using SQL, AWS Redshift, and Pandas for large-scale promotional and sales datasets following medallion-style architecture principles.</li>
+      <li>Built transformation pipelines with adstocking, lagging, normalization, and logarithmic features to model carryover effects and improve attribution quality across channels.</li>
+      <li>Worked within data science and advanced analytics workflows for commercial healthcare applications, balancing modeling rigor with business usability.</li>
     </ul>
   </article>
 
@@ -78,9 +130,9 @@ header:
     </div>
     <p class="resume-card__meta">Visakhapatnam, Andhra Pradesh, India | August 2024 - February 2025</p>
     <ul class="clean-list">
-      <li>Worked with Honeywell Forge and Bentley Nevada systems for refinery equipment monitoring and maintenance reliability.</li>
-      <li>Supported engineering operations across condition monitoring, predictive maintenance, and procurement workflows.</li>
-      <li>Contributed to maintenance dashboards and reliability tracking processes in the refinery environment.</li>
+      <li>Conducted condition monitoring for critical refinery equipment using Honeywell Forge and Bently Nevada software.</li>
+      <li>Supported engineering workflows around equipment health, maintenance reliability, and large-scale industrial monitoring.</li>
+      <li>Built operational perspective on working with safety-critical systems, process discipline, and engineering execution in production environments.</li>
     </ul>
   </article>
 </section>
@@ -99,7 +151,7 @@ header:
   <ul class="clean-list">
     <li>Studied droplet dynamics on heated pillared substrates using high-speed imaging.</li>
     <li>Applied OpenCV workflows including Gaussian blur, Canny detection, thresholding, and contour extraction.</li>
-    <li>Modeled heat-transfer effects of pillar geometry by treating the system as a fin array.</li>
+    <li>Modeled the heat-transfer effects of pillar geometry by treating the substrate as a fin-array system.</li>
   </ul>
 </article>
 
@@ -107,10 +159,29 @@ header:
 
 <section class="stack-grid">
   <article class="project-card">
-    <h3>LSTM Based Real-time Music Generation Application</h3>
+    <span class="section-tag">Applied LLM Systems</span>
+    <h3>Biomedical Retrieval-Augmented Generation System</h3>
+    <p class="project-card__meta">May 2026</p>
+    <p>Built a biomedical RAG pipeline over PubMed abstracts using TF-IDF retrieval, recursive chunking, and LLM-based grounded generation for medical question answering.</p>
+    <p>Evaluated response grounding and retrieval quality with RAGAS metrics and chunking ablation experiments, then reduced deployment overhead by replacing heavier dense retrieval components with lightweight lexical search.</p>
+    <p><strong>Tech Stack:</strong> FastAPI, Docker, Python, RAGAS, Retrieval Pipelines</p>
+  </article>
+
+  <article class="project-card">
+    <span class="section-tag">LLM Fine-Tuning</span>
+    <h3>LLM Style Transfer via Parameter-Efficient Fine-Tuning</h3>
     <p class="project-card__meta">February 2026</p>
-    <p>Trained a character-level LSTM on roughly 800 songs with embedding, sequence batching, and softmax sampling to model next-token probability distributions for symbolic music generation.</p>
-    <p>Built and deployed a Streamlit inference app with configurable generation controls, pretrained weights, and real-time audio synthesis.</p>
+    <p>Fine-tuned LiquidAI LFM2-1.2B using LoRA on 2,048 style-transfer examples while updating less than 0.05% of model parameters.</p>
+    <p>Built training and evaluation pipelines in PyTorch and Hugging Face, and assessed outputs with LLM-as-a-Judge methodology using Gemini 2.5 Flash alongside negative log-likelihood based evaluation.</p>
+    <p><strong>Tech Stack:</strong> PyTorch, Hugging Face, LoRA, PEFT, Python</p>
+  </article>
+
+  <article class="project-card">
+    <span class="section-tag">Sequence Modeling</span>
+    <h3>LSTM Based Real-time Music Generation Application</h3>
+    <p class="project-card__meta">January 2026</p>
+    <p>Trained a character-level LSTM on roughly 800 songs with embedding, sequence batching, and multinomial sampling with temperature control for symbolic music generation.</p>
+    <p>Deployed a Streamlit inference app with configurable generation controls, pretrained weights, and real-time audio synthesis for live interaction.</p>
     <p><strong>Tech Stack:</strong> PyTorch, LSTM, Streamlit, Python</p>
     <div class="button-row">
       <a class="btn btn--primary" target="_blank" href="https://ai-music-lab.streamlit.app/" role="button" style="text-decoration:none">Live Demo</a>
@@ -119,31 +190,56 @@ header:
   </article>
 
   <article class="project-card">
+    <span class="section-tag">Commercial Analytics</span>
     <h3>Promotion Impact Estimation using Bayesian Regression</h3>
     <p class="project-card__meta">ZS Associates | December 2025</p>
     <p>Built Bayesian regression models to estimate channel-level promotional contribution for a rapidly growing immunology brand.</p>
     <p>Delivered budget allocation insights that improved marketing ROI and overall spending efficiency.</p>
     <p><strong>Tech Stack:</strong> Python, Bayesian Statistics, Pandas, Marketing Mix Modeling</p>
   </article>
-
-  <article class="project-card">
-    <h3>Healthcare Professional Targeting and Segmentation</h3>
-    <p class="project-card__meta">ZS Associates | February 2025</p>
-    <p>Segmented physicians into actionable priority cohorts using prescribing behavior and total prescription volume.</p>
-    <p>Applied t-SNE and K-Means to create a data-driven physician targeting strategy that won first place in an internal case competition.</p>
-    <p><strong>Tech Stack:</strong> Python, t-SNE, K-Means, Scikit-learn</p>
-  </article>
 </section>
 
 ## Skills
 
-<article class="resume-card resume-card--compact">
-  <h3>Technical Skills</h3>
-  <ul class="clean-list">
-    <li><strong>Tech Stack:</strong> Python, SQL, Databricks, Algorithms, Excel</li>
-    <li><strong>Frameworks:</strong> PyTorch, XGBoost, PySpark, Pandas, NumPy</li>
-  </ul>
-</article>
+<section class="skills-grid">
+  <article class="resume-card resume-card--compact">
+    <h3>Programming and Data</h3>
+    <div class="chip-list">
+      <span class="chip">Python</span>
+      <span class="chip">SQL</span>
+      <span class="chip">Databricks</span>
+      <span class="chip">AWS Redshift</span>
+      <span class="chip">Pandas</span>
+      <span class="chip">PySpark</span>
+      <span class="chip">Excel</span>
+      <span class="chip">Git</span>
+    </div>
+  </article>
+  <article class="resume-card resume-card--compact">
+    <h3>Machine Learning and AI</h3>
+    <div class="chip-list">
+      <span class="chip">PyTorch</span>
+      <span class="chip">Hugging Face</span>
+      <span class="chip">LangChain</span>
+      <span class="chip">FastAPI</span>
+      <span class="chip">LoRA</span>
+      <span class="chip">RAG</span>
+      <span class="chip">Bayesian Regression</span>
+      <span class="chip">Feature Engineering</span>
+    </div>
+  </article>
+  <article class="resume-card resume-card--compact">
+    <h3>Delivery and Tooling</h3>
+    <div class="chip-list">
+      <span class="chip">Docker</span>
+      <span class="chip">Streamlit</span>
+      <span class="chip">Analytics Pipelines</span>
+      <span class="chip">ETL Workflows</span>
+      <span class="chip">Model Evaluation</span>
+      <span class="chip">Commercial Analytics</span>
+    </div>
+  </article>
+</section>
 
 ## Licenses and Certifications
 
@@ -158,10 +254,9 @@ header:
 
   <article class="credential-card">
     <img src="./../images/deeplearning-ai-logo.jpeg" width="56" height="56" alt="DeepLearning.AI logo">
-    <h3>Advanced Learning Algorithms</h3>
-    <p class="credential-card__meta">DeepLearning.AI | Issued July 2025</p>
-    <p>Credential ID: AS6WZ79ABLIF | Skills: Deep Learning, Neural Networks, TensorFlow, XGBoost</p>
-    <a class="btn btn--primary" target="_blank" href="https://coursera.org/share/636609f2e33f83527d5961a28cc07019" role="button" style="text-decoration:none">Credential</a>
+    <h3>Deep Learning Specialization Coursework</h3>
+    <p class="credential-card__meta">Stanford Online / DeepLearning.AI</p>
+    <p>Covered modern machine learning fundamentals across supervised learning, optimization, and neural network workflows.</p>
   </article>
 
   <article class="credential-card">
@@ -198,5 +293,5 @@ header:
 </article>
 
 <small style="color: #7f8c8d; text-align: center; display: block; margin-top: 40px;">
-  <i>Last updated: March 8, 2026</i>
+  <i>Last updated: May 15, 2026</i>
 </small>

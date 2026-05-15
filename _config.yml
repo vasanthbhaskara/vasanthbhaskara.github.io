@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vasanth S. Bhaskara"
 title_separator          : "|"
 name                     : &name "Vasanth S. Bhaskara"
-description              : &description "Data Analyst at ZS | Databricks Certified Data Engineer | Dept Rank 3 – NIT Calicut Alumni"
+description              : &description "Decision Analytics Associate at ZS | Applied ML, Data Science, and Analytics Engineering | NIT Calicut Rank 3"
 url                      : https://vasanthbhaskara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vasanthbhaskara/vasanthbhaskara.github.io"
@@ -33,7 +33,7 @@ yandex_site_verification :
 author:
   name             : "Vasanth S. Bhaskara"
   avatar           : "profile_pic.png"
-  bio              : "Data Analyst at ZS | Databricks Certified Data Engineer | Dept Rank 3 – NIT Calicut Alumni | IISc Intern | Solved 160+ LeetCode Problems"
+  bio              : "Decision Analytics Associate at ZS | Applied ML, Data Science, and Analytics Engineering | NIT Calicut Rank 3 | IISc Research Intern"
   location         : "Pune, India"
   employer         :
   pubmed           : 
@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Vasanth S. Bhaskara"
   avatar           : "profile_pic.png"
-  bio              : "Data Analyst at ZS | Databricks Certified Data Engineer | Dept Rank 3 – NIT Calicut Alumni | IISc Intern | Solved 160+ LeetCode Problems"
+  bio              : "Decision Analytics Associate at ZS | Applied ML, Data Science, and Analytics Engineering | NIT Calicut Rank 3 | IISc Research Intern"
   location         : "Pune, India"
   employer         :
   pubmed           : 

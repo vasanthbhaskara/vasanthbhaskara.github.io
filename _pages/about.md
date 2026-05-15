@@ -12,19 +12,12 @@ header:
   preview_card_image: profile_pic.png
 ---
 
-## About
-
 <section class="hero-grid">
   <div class="hero-copy">
-    <p>I work at <a href="https://www.zs.com/" target="_blank">ZS Associates</a> on data science and advanced analytics for commercial healthcare applications, with recent work spanning promotion impact modeling, feature engineering, ETL pipelines, and marketing attribution.</p>
-    <p>My background blends strong academic performance at <a href="https://www.nitc.ac.in/" target="_blank">NIT Calicut</a>, hands-on engineering experience, and a growing portfolio of machine learning projects across retrieval-augmented generation, fine-tuning, and generative modeling.</p>
-    <p>I enjoy building analytical systems that turn commercial and technical complexity into decisions, especially where data engineering, modeling, and real-world usability all matter.</p>
+    <p>I bring a strong foundation in <strong>mathematics, computational problem-solving, engineering, and business acumen</strong>, developed at NIT Calicut and sharpened through work on data-intensive business problems.</p>
+    <p>At <a href="https://www.zs.com/">ZS</a>, I work on high-impact commercial analytics in healthcare and pharmaceuticals, with experience in marketing mix modeling, feature engineering, regression workflows, and patient-level analysis. Before that, at <a href="https://www.hindustanpetroleum.com/">Hindustan Petroleum</a>, I worked on condition monitoring systems, refinery reliability workflows, and engineering operations support at the Visakh Refinery.</p>
+    <p>I recently earned the <strong>Databricks Certified Data Engineer Associate</strong> certification and continue building depth in Spark, distributed data systems, and decision-focused analytics.</p>
     <p><strong>Contact</strong>: <code style="color: #000000; background: #ffffff;"><strong>vasanthsbhaskara [at] gmail [dot] com</strong></code></p>
-    <div class="button-row">
-      <a class="btn btn--primary" target="_blank" href="/cv/Bhaskara_Vasanth_CV_2026.pdf" role="button" style="text-decoration:none">View Resume</a>
-      <a class="btn btn--secondary" target="_blank" href="https://github.com/vasanthbhaskara" role="button" style="text-decoration:none">GitHub</a>
-      <a class="btn btn--secondary" target="_blank" href="https://www.linkedin.com/in/vasanthsbhaskara" role="button" style="text-decoration:none">LinkedIn</a>
-    </div>
   </div>
 </section>
 
@@ -122,6 +115,9 @@ header:
     <p>Built a biomedical RAG pipeline over PubMed abstracts using TF-IDF retrieval, recursive chunking, and LLM-based grounded generation for medical question answering.</p>
     <p>Evaluated response grounding and retrieval quality with RAGAS metrics and chunking ablation experiments, then reduced deployment overhead by replacing heavier dense retrieval components with lightweight lexical search.</p>
     <p><strong>Tech Stack:</strong> FastAPI, Docker, Python, RAGAS, Retrieval Pipelines</p>
+    <div class="button-row">
+      <a class="btn btn--secondary" target="_blank" href="https://github.com/vasanthbhaskara/biomedical-rag" role="button" style="text-decoration:none">Github</a>
+    </div>
   </article>
 
   <article class="project-card">
@@ -131,6 +127,9 @@ header:
     <p>Fine-tuned LiquidAI LFM2-1.2B using LoRA on 2,048 style-transfer examples while updating less than 0.05% of model parameters.</p>
     <p>Built training and evaluation pipelines in PyTorch and Hugging Face, and assessed outputs with LLM-as-a-Judge methodology using Gemini 2.5 Flash alongside negative log-likelihood based evaluation.</p>
     <p><strong>Tech Stack:</strong> PyTorch, Hugging Face, LoRA, PEFT, Python</p>
+    <div class="button-row">
+      <a class="btn btn--secondary" target="_blank" href="https://github.com/vasanthbhaskara/llm-fine-tuning-with-lora" role="button" style="text-decoration:none">Github</a>
+    </div>
   </article>
 
   <article class="project-card">

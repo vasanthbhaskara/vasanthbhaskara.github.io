@@ -12,46 +12,20 @@ header:
   preview_card_image: profile_pic.png
 ---
 
-<section class="spotlight">
-  <div class="spotlight__copy">
-    <p class="spotlight__eyebrow">Decision Analytics • Data Science • Applied Machine Learning</p>
-    <h1>Building analytical systems that turn commercial and technical complexity into decisions.</h1>
-    <p class="spotlight__lead">I work at <a href="https://www.zs.com/" target="_blank">ZS Associates</a> on data science and advanced analytics for commercial healthcare applications, with recent work spanning promotion impact modeling, feature engineering, ETL pipelines, and marketing attribution. My background blends top-tier academic performance at NIT Calicut with hands-on engineering experience and a growing body of machine learning projects across RAG, fine-tuning, and generative modeling.</p>
+## About
+
+<section class="hero-grid">
+  <div class="hero-copy">
+    <p>I work at <a href="https://www.zs.com/" target="_blank">ZS Associates</a> on data science and advanced analytics for commercial healthcare applications, with recent work spanning promotion impact modeling, feature engineering, ETL pipelines, and marketing attribution.</p>
+    <p>My background blends strong academic performance at <a href="https://www.nitc.ac.in/" target="_blank">NIT Calicut</a>, hands-on engineering experience, and a growing portfolio of machine learning projects across retrieval-augmented generation, fine-tuning, and generative modeling.</p>
+    <p>I enjoy building analytical systems that turn commercial and technical complexity into decisions, especially where data engineering, modeling, and real-world usability all matter.</p>
+    <p><strong>Contact</strong>: <code style="color: #000000; background: #ffffff;"><strong>vasanthsbhaskara [at] gmail [dot] com</strong></code></p>
     <div class="button-row">
       <a class="btn btn--primary" target="_blank" href="/cv/Bhaskara_Vasanth_CV_2026.pdf" role="button" style="text-decoration:none">View Resume</a>
       <a class="btn btn--secondary" target="_blank" href="https://github.com/vasanthbhaskara" role="button" style="text-decoration:none">GitHub</a>
       <a class="btn btn--secondary" target="_blank" href="https://www.linkedin.com/in/vasanthsbhaskara" role="button" style="text-decoration:none">LinkedIn</a>
     </div>
   </div>
-  <div class="spotlight__panel">
-    <p class="spotlight__panel-title">Current Focus</p>
-    <ul class="clean-list clean-list--tight">
-      <li>Decision analytics for omnichannel healthcare marketing</li>
-      <li>SQL and Python pipelines over large-scale analytical datasets</li>
-      <li>Machine learning systems with practical deployment workflows</li>
-      <li>Applied LLM and retrieval pipelines for domain-specific use cases</li>
-    </ul>
-    <p class="spotlight__contact"><strong>Contact</strong><br><code style="color: #132238; background: #f7fbff;"><strong>vasanthsbhaskara [at] gmail [dot] com</strong></code></p>
-  </div>
-</section>
-
-<section class="metrics-grid">
-  <article class="metric-card">
-    <p class="metric-card__value">9.25 / 10</p>
-    <p class="metric-card__label">B.Tech. CGPA at NIT Calicut</p>
-  </article>
-  <article class="metric-card">
-    <p class="metric-card__value">#3 / 210</p>
-    <p class="metric-card__label">Department Rank</p>
-  </article>
-  <article class="metric-card">
-    <p class="metric-card__value">160+</p>
-    <p class="metric-card__label">LeetCode Problems Solved</p>
-  </article>
-  <article class="metric-card">
-    <p class="metric-card__value">3+</p>
-    <p class="metric-card__label">Analytics and engineering roles across industry</p>
-  </article>
 </section>
 
 <div class="news-flash">
@@ -64,23 +38,6 @@ header:
     <li><strong>February 2025</strong> - Joined ZS in Pune in a decision analytics role focused on commercial healthcare applications.</li>
   </ul>
 </div>
-
-## Snapshot
-
-<section class="insight-grid">
-  <article class="insight-card">
-    <h3>What I do</h3>
-    <p>I build analytical workflows that connect messy real-world data to decision making, especially in healthcare commercial analytics. My work usually sits at the intersection of business context, statistical modeling, and practical data engineering.</p>
-  </article>
-  <article class="insight-card">
-    <h3>How I work</h3>
-    <p>I like problems that need both structured thinking and implementation detail: defining metrics, shaping features, building pipelines, validating models, and translating output into something a team can act on.</p>
-  </article>
-  <article class="insight-card">
-    <h3>What I’m building toward</h3>
-    <p>I’m steadily deepening in machine learning systems, modern data tooling, and applied AI, with a focus on projects that are technically solid and useful beyond a notebook demo.</p>
-  </article>
-</section>
 
 ## Education
 

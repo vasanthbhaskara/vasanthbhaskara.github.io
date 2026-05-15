@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  preview_card_image: profile_pic.jpg
+  preview_card_image: profile_pic.png
 ---
 
 <section class="hero-grid">

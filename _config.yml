@@ -32,7 +32,7 @@ yandex_site_verification :
 
 author:
   name             : "Vasanth S. Bhaskara"
-  avatar           : "profile_pic.jpg"
+  avatar           : "profile_pic.png"
   bio              : "Data Analyst at ZS | Databricks Certified Data Engineer | Dept Rank 3 – NIT Calicut Alumni | IISc Intern | Solved 160+ LeetCode Problems"
   location         : "Pune, India"
   employer         :
@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "Vasanth S. Bhaskara"
-  avatar           : "profile_pic.jpg"
+  avatar           : "profile_pic.png"
   bio              : "Data Analyst at ZS | Databricks Certified Data Engineer | Dept Rank 3 – NIT Calicut Alumni | IISc Intern | Solved 160+ LeetCode Problems"
   location         : "Pune, India"
   employer         :
